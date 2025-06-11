@@ -93,7 +93,7 @@ who_are_ya_br/
   - Eventos e listeners
   - Animações e transições
   - Sistema de mensagens
-- **Google Fonts**: Tipografia (Inter)
+- **Google Fonts**: Tipografia (Poppins)
 
 ### Dados
 - **JSON**: Base de dados dos jogadores do Brasileirão
