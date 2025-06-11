@@ -1,0 +1,7325 @@
+[
+  {
+    "ID": 2704,
+    "Nome": "Ânderson Luís De Carvalho",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(C)",
+    "Idade": 43,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/2704.png"
+  },
+  {
+    "ID": 3690,
+    "Nome": "Fábio Deivson Lopes Maciel",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 44,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/3690.png"
+  },
+  {
+    "ID": 18237,
+    "Nome": "Cássio Ramos",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 38,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/18237.png"
+  },
+  {
+    "ID": 18276,
+    "Nome": "Fágner Conserva Lemos",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 35,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/18276.png"
+  },
+  {
+    "ID": 18281,
+    "Nome": "Renato Soares De Oliveira Augusto",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 37,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/18281.png"
+  },
+  {
+    "ID": 18338,
+    "Nome": "Thiago Emiliano Da Silva",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 40,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/18338.png"
+  },
+  {
+    "ID": 22645,
+    "Nome": "David Luiz Moreira Marinho",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 38,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/22645.png"
+  },
+  {
+    "ID": 25268,
+    "Nome": "Fernando Francisco Reges",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 37,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/25268.png"
+  },
+  {
+    "ID": 27889,
+    "Nome": "David Braz De Oliveira Filho",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 38,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/27889.png"
+  },
+  {
+    "ID": 27979,
+    "Nome": "Cristian Chagas Tarouco",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 37,
+    "Camisa": "4",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/27979.png"
+  },
+  {
+    "ID": 32347,
+    "Nome": "Éverton Augusto De Barros Ribeiro",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 36,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/32347.png"
+  },
+  {
+    "ID": 32901,
+    "Nome": "Alex Teixeira Santos",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 35,
+    "Camisa": "90",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/32901.png"
+  },
+  {
+    "ID": 32959,
+    "Nome": "Luiz Gustavo Dias",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 37,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/32959.png"
+  },
+  {
+    "ID": 33533,
+    "Nome": "Paulo Henrique Chagas De Lima",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 35,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/33533.png"
+  },
+  {
+    "ID": 33654,
+    "Nome": "Givanildo Vieira Da Sousa",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 38,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/33654.png"
+  },
+  {
+    "ID": 34945,
+    "Nome": "Maicon Pereira Roque",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 36,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/34945.png"
+  },
+  {
+    "ID": 38457,
+    "Nome": "Neymar Da Silva Santos Júnior",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(EC)",
+    "Idade": 33,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/38457.png"
+  },
+  {
+    "ID": 38535,
+    "Nome": "Oscar Dos Santos Emboaba Júnior",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(EC)",
+    "Idade": 33,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/38535.png"
+  },
+  {
+    "ID": 41049,
+    "Nome": "Igor Medeiros De Melo Alves",
+    "Time": "Fluminense de Feira",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(EC)",
+    "Idade": 37,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/41049.jpg"
+  },
+  {
+    "ID": 41184,
+    "Nome": "Marcos Luis Rocha Aquino",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC),MD,M(D)",
+    "Idade": 36,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/41184.png"
+  },
+  {
+    "ID": 41229,
+    "Nome": "Carlos Gilberto Nascimento Silva",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 37,
+    "Camisa": "4",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/41229.png"
+  },
+  {
+    "ID": 41232,
+    "Nome": "Manoel Messias Silva Carvalho",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 35,
+    "Camisa": "26",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/41232.png"
+  },
+  {
+    "ID": 41233,
+    "Nome": "Alex Sandro Lobo Silva",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC),MD,M(E)",
+    "Idade": 34,
+    "Camisa": "26",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/41233.png"
+  },
+  {
+    "ID": 41289,
+    "Nome": "Carlos Eduardo De Oliveira Alves",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA,A(C)",
+    "Idade": 35,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/41289.png"
+  },
+  {
+    "ID": 41290,
+    "Nome": "Welker Marçal Almeida",
+    "Time": "Fluminense de Feira",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 38,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/41290.png"
+  },
+  {
+    "ID": 41517,
+    "Nome": "Eduardo Pereira Rodrigues",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 33,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/41517.png"
+  },
+  {
+    "ID": 42980,
+    "Nome": "Tiago Da Silva Dutra",
+    "Time": "EC Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 34,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/42980.jpg"
+  },
+  {
+    "ID": 43203,
+    "Nome": "Osvaldo Lourenço Filho",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 38,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/43203.png"
+  },
+  {
+    "ID": 43625,
+    "Nome": "Marcelo Lomba Do Nascimento",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 38,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/43625.png"
+  },
+  {
+    "ID": 43627,
+    "Nome": "Mário Sérgio Santos Costa",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 35,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/43627.png"
+  },
+  {
+    "ID": 43658,
+    "Nome": "Willian José Da Silva",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 33,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/43658.png"
+  },
+  {
+    "ID": 43661,
+    "Nome": "Alan Patrick Lourenço",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 34,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/43661.png"
+  },
+  {
+    "ID": 43672,
+    "Nome": "Rafael Pires Monteiro",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 35,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/43672.png"
+  },
+  {
+    "ID": 43684,
+    "Nome": "Allan Marques Loureiro",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 34,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/43684.png"
+  },
+  {
+    "ID": 44614,
+    "Nome": "Danilo Luiz Da Silva",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DEC)",
+    "Idade": 33,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/44614.png"
+  },
+  {
+    "ID": 45099,
+    "Nome": "Lucas Pacheco Affini",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(C)",
+    "Idade": 35,
+    "Camisa": "88",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/45099.jpg"
+  },
+  {
+    "ID": 45408,
+    "Nome": "Lucas Rodrigues Moura Da Silva",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 32,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/45408.png"
+  },
+  {
+    "ID": 46024,
+    "Nome": "Bruno Uvini Bortolança",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 34,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/46024.png"
+  },
+  {
+    "ID": 46511,
+    "Nome": "Felipe Anderson Pereira Gomes",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 32,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/46511.png"
+  },
+  {
+    "ID": 47457,
+    "Nome": "Éverson Felipe Marques Pires",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 34,
+    "Camisa": "22",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/47457.png"
+  },
+  {
+    "ID": 47936,
+    "Nome": "Wéverton Pereira Da Silva",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 37,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/47936.png"
+  },
+  {
+    "ID": 48539,
+    "Nome": "Pablo Nascimento Castro",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 33,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/48539.png"
+  },
+  {
+    "ID": 48548,
+    "Nome": "Diogo Barbosa Mendanha",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 32,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/48548.png"
+  },
+  {
+    "ID": 48705,
+    "Nome": "Gabriel Vasconcelos Ferreira",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 32,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/48705.png"
+  },
+  {
+    "ID": 50707,
+    "Nome": "Gilberto Oliveira Souza Júnior",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 36,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/50707.png"
+  },
+  {
+    "ID": 50827,
+    "Nome": "Gabriel Santana Pinto",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD(C),M,MA(DC)",
+    "Idade": 35,
+    "Camisa": "27",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/50827.png"
+  },
+  {
+    "ID": 51186,
+    "Nome": "Bernard Anício Caldeira Duarte",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 32,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/51186.png"
+  },
+  {
+    "ID": 51238,
+    "Nome": "Edenílson Andrade Dos Santos",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(DC)",
+    "Idade": 35,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/51238.png"
+  },
+  {
+    "ID": 52042,
+    "Nome": "Pablo Felipe Teixeira",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 32,
+    "Camisa": "92",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/52042.png"
+  },
+  {
+    "ID": 53805,
+    "Nome": "Danilo Fernandes Batista",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 37,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/53805.png"
+  },
+  {
+    "ID": 54606,
+    "Nome": "Aderbar Melo Dos Santos Neto",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 35,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/54606.png"
+  },
+  {
+    "ID": 55225,
+    "Nome": "Pedro Henrique Konzen Medina Da Silva",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 34,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/55225.png"
+  },
+  {
+    "ID": 55794,
+    "Nome": "Fernando Marçal De Oliveira",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC),MD,M(E)",
+    "Idade": 36,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/55794.png"
+  },
+  {
+    "ID": 56449,
+    "Nome": "Antônio Carlos Cunha Capocasali Júnior",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 32,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/56449.png"
+  },
+  {
+    "ID": 56452,
+    "Nome": "Renê Rodrigues Martins",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 32,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/56452.png"
+  },
+  {
+    "ID": 57600,
+    "Nome": "Reinaldo Manoel Da Silva",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 35,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/57600.png"
+  },
+  {
+    "ID": 58345,
+    "Nome": "João Felipe Schmidt Urbano",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 32,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/58345.png"
+  },
+  {
+    "ID": 58420,
+    "Nome": "Marllon Gonçalves Jerônimo Borges",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 33,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/58420.jpg"
+  },
+  {
+    "ID": 58678,
+    "Nome": "Jádson Alves Dos Santos",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 31,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/58678.png"
+  },
+  {
+    "ID": 59048,
+    "Nome": "Victor Luís Chuab Zamblauskas",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(E)",
+    "Idade": 31,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/59048.png"
+  },
+  {
+    "ID": 59072,
+    "Nome": "Everaldo Stum",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 33,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/59072.png"
+  },
+  {
+    "ID": 59230,
+    "Nome": "Fernando Miguel Kaufmann",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 40,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/59230.png"
+  },
+  {
+    "ID": 59392,
+    "Nome": "Gustavo Henrique Vernes",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 32,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/59392.png"
+  },
+  {
+    "ID": 61199,
+    "Nome": "Lucas Silva Borges",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 32,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/61199.png"
+  },
+  {
+    "ID": 61411,
+    "Nome": "Jean Mota Oliveira De Sousa",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 31,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/61411.png"
+  },
+  {
+    "ID": 61492,
+    "Nome": "Cléber Janderson Pereira Reis",
+    "Time": "Vitória FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 34,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/61492.png"
+  },
+  {
+    "ID": 61718,
+    "Nome": "Rodrigo Ely",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 31,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/61718.png"
+  },
+  {
+    "ID": 61745,
+    "Nome": "Rafael Da Silva",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(C)",
+    "Idade": 33,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/61745.png"
+  },
+  {
+    "ID": 64058,
+    "Nome": "Glaybson Yago Souza Lisboa",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(D)",
+    "Idade": 33,
+    "Camisa": "22",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/64058.png"
+  },
+  {
+    "ID": 64199,
+    "Nome": "Alex Nicolao Telles",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 32,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/64199.png"
+  },
+  {
+    "ID": 64583,
+    "Nome": "Gilberto Moraes Junior",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 32,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/64583.png"
+  },
+  {
+    "ID": 64753,
+    "Nome": "Igor Caique Coronado",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 32,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/64753.png"
+  },
+  {
+    "ID": 64832,
+    "Nome": "Matheus Lima Magalhães",
+    "Time": "Sporting de Braga",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 32,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/64832.png"
+  },
+  {
+    "ID": 64841,
+    "Nome": "Samuel Xavier Brito",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 35,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/64841.png"
+  },
+  {
+    "ID": 64855,
+    "Nome": "Wanderson Maciel Sousa Campos",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 30,
+    "Camisa": "94",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/64855.png"
+  },
+  {
+    "ID": 65108,
+    "Nome": "Leonardo Cittadini",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 31,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/65108.png"
+  },
+  {
+    "ID": 65387,
+    "Nome": "Deyverson Brum Silva Acosta",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 34,
+    "Camisa": "18",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/65387.png"
+  },
+  {
+    "ID": 65767,
+    "Nome": "Mayke Rocha De Oliveira",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(D)",
+    "Idade": 32,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/65767.png"
+  },
+  {
+    "ID": 67750,
+    "Nome": "André Ramalho Da Silva",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 33,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/67750.png"
+  },
+  {
+    "ID": 67783,
+    "Nome": "Lucas Evangelista Santana De Oliveira",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 30,
+    "Camisa": "30",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/67783.png"
+  },
+  {
+    "ID": 67850,
+    "Nome": "João Ricardo Riedi",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 36,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/67850.png"
+  },
+  {
+    "ID": 68166,
+    "Nome": "Gabriel Barbosa Almeida",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(D),A(DC)",
+    "Idade": 28,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/68166.png"
+  },
+  {
+    "ID": 68223,
+    "Nome": "Lucas Rafael Araújo Lima",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 34,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/68223.png"
+  },
+  {
+    "ID": 68224,
+    "Nome": "Augusto César Dos Santos Moreira",
+    "Time": "EC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 32,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/68224.png"
+  },
+  {
+    "ID": 68451,
+    "Nome": "Alisson Euler De Freitas Castro",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 31,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/68451.png"
+  },
+  {
+    "ID": 68908,
+    "Nome": "José Rafael Vivian",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 31,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/68908.png"
+  },
+  {
+    "ID": 68935,
+    "Nome": "Bruno Henrique Corsini",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 35,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/68935.png"
+  },
+  {
+    "ID": 68986,
+    "Nome": "Willian Osmar De Oliveira Silva",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 32,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/68986.jpg"
+  },
+  {
+    "ID": 68992,
+    "Nome": "Luiz Gustavo Almeida Pinto",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 32,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/68992.png"
+  },
+  {
+    "ID": 68996,
+    "Nome": "Daniel Fortunato Borges",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(DE)",
+    "Idade": 32,
+    "Camisa": "20",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/68996.png"
+  },
+  {
+    "ID": 69010,
+    "Nome": "Jemerson De Jesus Nascimento",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 32,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/69010.png"
+  },
+  {
+    "ID": 69019,
+    "Nome": "Wendell Nascimento Borges",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 31,
+    "Camisa": "18",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/69019.png"
+  },
+  {
+    "ID": 69814,
+    "Nome": "Walter Leandro Capeloza Artune",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 37,
+    "Camisa": "22",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/69814.png"
+  },
+  {
+    "ID": 70476,
+    "Nome": "Diego Gonçalves",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 30,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/70476.png"
+  },
+  {
+    "ID": 72236,
+    "Nome": "Leonardo Pereira",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 29,
+    "Camisa": "4",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/72236.png"
+  },
+  {
+    "ID": 72401,
+    "Nome": "Luciano Da Rocha Neves",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DC)",
+    "Idade": 32,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/72401.png"
+  },
+  {
+    "ID": 73305,
+    "Nome": "Matheus Fellipe Costa Pereira",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 29,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73305.png"
+  },
+  {
+    "ID": 73413,
+    "Nome": "Nathan Allan De Souza",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 29,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73413.png"
+  },
+  {
+    "ID": 73469,
+    "Nome": "José Welison Da Silva",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 30,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73469.png"
+  },
+  {
+    "ID": 73541,
+    "Nome": "Danilo Barbosa Da Silva",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 29,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73541.png"
+  },
+  {
+    "ID": 73543,
+    "Nome": "Mário Sérgio Gomes De Souza",
+    "Time": "Fluminense de Feira",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(D)",
+    "Idade": 33,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73543.jpg"
+  },
+  {
+    "ID": 73544,
+    "Nome": "Otávio Henrique Santos Passos",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 31,
+    "Camisa": "94",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73544.png"
+  },
+  {
+    "ID": 73615,
+    "Nome": "Tiago Luis Volpi",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 34,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73615.png"
+  },
+  {
+    "ID": 73782,
+    "Nome": "Alex Roberto Santana Rafael",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 35,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73782.png"
+  },
+  {
+    "ID": 73813,
+    "Nome": "Reginaldo Lopes De Jesus",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 32,
+    "Camisa": "93",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73813.png"
+  },
+  {
+    "ID": 73910,
+    "Nome": "Rafael Thyere De Albuquerque",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 32,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73910.png"
+  },
+  {
+    "ID": 73911,
+    "Nome": "Guilherme De Jesus Da Silva",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC),MD,M(D)",
+    "Idade": 31,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73911.png"
+  },
+  {
+    "ID": 73913,
+    "Nome": "Walace Souza Silva",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 30,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73913.png"
+  },
+  {
+    "ID": 73914,
+    "Nome": "Éverton Sousa Soares",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(DE)",
+    "Idade": 29,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73914.png"
+  },
+  {
+    "ID": 73999,
+    "Nome": "Alan Luciano Ruschel",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 35,
+    "Camisa": "28",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/73999.png"
+  },
+  {
+    "ID": 74001,
+    "Nome": "Aylon Darwin Tavella",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(D),A(DC)",
+    "Idade": 33,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/74001.png"
+  },
+  {
+    "ID": 74019,
+    "Nome": "Gustavo Henrique Furtado Scarpa",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(DEC)",
+    "Idade": 31,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/74019.png"
+  },
+  {
+    "ID": 74666,
+    "Nome": "Carlos Eduardo Lecciolle Thomazella",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 34,
+    "Camisa": "90",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/74666.jpg"
+  },
+  {
+    "ID": 74688,
+    "Nome": "Luiz Otávio Anacleto Leandro",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 36,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/74688.png"
+  },
+  {
+    "ID": 74738,
+    "Nome": "Dalbert Henrique Chagas Estevão",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 31,
+    "Camisa": "29",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/74738.png"
+  },
+  {
+    "ID": 76717,
+    "Nome": "Philipe Sampaio Azevedo",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 30,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/76717.jpg"
+  },
+  {
+    "ID": 76721,
+    "Nome": "Aderlan De Lima Silva",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 34,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/76721.png"
+  },
+  {
+    "ID": 76921,
+    "Nome": "Patrick Bezerra Do Nascimento",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD(C),M,MA(EC)",
+    "Idade": 32,
+    "Camisa": "88",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/76921.png"
+  },
+  {
+    "ID": 76947,
+    "Nome": "Hyoran Kaue Dalmoro",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 32,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/76947.png"
+  },
+  {
+    "ID": 77063,
+    "Nome": "Vitor Hugo Franchescoli De Souza",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 34,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/77063.png"
+  },
+  {
+    "ID": 77072,
+    "Nome": "Hueglo Dos Santos Neris",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 32,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/77072.png"
+  },
+  {
+    "ID": 77127,
+    "Nome": "João Pedro Maturano Dos Santos",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 28,
+    "Camisa": "18",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/77127.png"
+  },
+  {
+    "ID": 77131,
+    "Nome": "Antonio Francisco Moura Neto",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(C)",
+    "Idade": 28,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/77131.png"
+  },
+  {
+    "ID": 77163,
+    "Nome": "Jair Rodrigues Júnior",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 30,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/77163.png"
+  },
+  {
+    "ID": 77940,
+    "Nome": "Jacson Da Paixao Neponuceno",
+    "Time": "Fluminense de Feira",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 35,
+    "Camisa": "Desconhecido",
+    "ImageURL": ""
+  },
+  {
+    "ID": 78108,
+    "Nome": "Cauly Oliveira Souza",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 29,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/78108.png"
+  },
+  {
+    "ID": 78186,
+    "Nome": "Ricardo Ryller Ribeiro Lino Silva",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 31,
+    "Camisa": "28",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/78186.png"
+  },
+  {
+    "ID": 78238,
+    "Nome": "Marcos Da Silva França",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(DE)",
+    "Idade": 35,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/78238.png"
+  },
+  {
+    "ID": 78240,
+    "Nome": "Leonardo Gamalho De Souza",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 39,
+    "Camisa": "99",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/78240.jpg"
+  },
+  {
+    "ID": 78353,
+    "Nome": "Thiago Dos Santos",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 35,
+    "Camisa": "29",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/78353.png"
+  },
+  {
+    "ID": 78697,
+    "Nome": "Leonardo César Jardim",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 30,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/78697.png"
+  },
+  {
+    "ID": 79486,
+    "Nome": "Francisco Das Chagas Soares Dos Santos",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 34,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/79486.png"
+  },
+  {
+    "ID": 79604,
+    "Nome": "Gérson Santos Da Silva",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD(C),M,MA(DC)",
+    "Idade": 28,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/79604.png"
+  },
+  {
+    "ID": 79764,
+    "Nome": "Marcos Felipe De Freitas Monteiro",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 29,
+    "Camisa": "22",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/79764.png"
+  },
+  {
+    "ID": 80267,
+    "Nome": "João Paulo Silva Martins",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 29,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/80267.png"
+  },
+  {
+    "ID": 81016,
+    "Nome": "Guilherme Antonio Arana Lopes",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 28,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/81016.png"
+  },
+  {
+    "ID": 81405,
+    "Nome": "Thiago Maia Alencar",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 28,
+    "Camisa": "29",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/81405.png"
+  },
+  {
+    "ID": 81439,
+    "Nome": "Bruno Henrique Pinto",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 34,
+    "Camisa": "27",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/81439.png"
+  },
+  {
+    "ID": 81473,
+    "Nome": "Marlon Rodrigues De Freitas",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 30,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/81473.png"
+  },
+  {
+    "ID": 81730,
+    "Nome": "William De Asevedo Furtado Nascimento",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DE),MD,M(D)",
+    "Idade": 30,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/81730.png"
+  },
+  {
+    "ID": 81741,
+    "Nome": "Yago Felipe Da Rocha Costa",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 30,
+    "Camisa": "41",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/81741.png"
+  },
+  {
+    "ID": 81796,
+    "Nome": "Carlos Eduardo Ferreira De Souza",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 28,
+    "Camisa": "96",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/81796.png"
+  },
+  {
+    "ID": 81931,
+    "Nome": "Lucas Ramon Batista Silva",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 31,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/81931.jpg"
+  },
+  {
+    "ID": 82210,
+    "Nome": "Matheus Pereira Da Silva",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 27,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/82210.png"
+  },
+  {
+    "ID": 82232,
+    "Nome": "Charles Marcelo Da Silva",
+    "Time": "Vitória de Guimarães",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 31,
+    "Camisa": "27",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/82232.png"
+  },
+  {
+    "ID": 82244,
+    "Nome": "José Carlos Ferreira Júnior",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC),MD(E)",
+    "Idade": 30,
+    "Camisa": "18",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/82244.png"
+  },
+  {
+    "ID": 82270,
+    "Nome": "Matheus Martins Fogaça De Paulo",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 27,
+    "Camisa": "30",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/82270.png"
+  },
+  {
+    "ID": 82278,
+    "Nome": "Ivan Quaresma Da Silva",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 27,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/82278.png"
+  },
+  {
+    "ID": 82287,
+    "Nome": "Matheus Reis De Lima",
+    "Time": "Sporting CP",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC),MD,M(E)",
+    "Idade": 30,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/82287.png"
+  },
+  {
+    "ID": 82288,
+    "Nome": "Lyanco Evangelista Silveira Neves Vojnović",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 28,
+    "Camisa": "4",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/82288.png"
+  },
+  {
+    "ID": 82325,
+    "Nome": "Allan Rodrigues De Souza",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 28,
+    "Camisa": "29",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/82325.png"
+  },
+  {
+    "ID": 82333,
+    "Nome": "Rodrigo Eduardo Da Silva",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 29,
+    "Camisa": "34",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/82333.png"
+  },
+  {
+    "ID": 84983,
+    "Nome": "Richardson Fernandes Dos Santos",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 33,
+    "Camisa": "26",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/84983.png"
+  },
+  {
+    "ID": 85139,
+    "Nome": "Caíque França Godoy",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 30,
+    "Camisa": "22",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/85139.png"
+  },
+  {
+    "ID": 85682,
+    "Nome": "Luiz Felipe Do Nascimento Dos Santos",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 31,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/85682.png"
+  },
+  {
+    "ID": 85980,
+    "Nome": "Fabrício Bruno Soares De Faria",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 29,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/85980.png"
+  },
+  {
+    "ID": 85985,
+    "Nome": "Matheus De Sales Cabral",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 30,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/85985.png"
+  },
+  {
+    "ID": 86671,
+    "Nome": "Danilo Das Neves Pinheiro",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(DC)",
+    "Idade": 32,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/86671.png"
+  },
+  {
+    "ID": 86940,
+    "Nome": "John Victor Maciel Furtado",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 29,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/86940.png"
+  },
+  {
+    "ID": 86963,
+    "Nome": "Messias Rodrigues Da Silva Júnior",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 30,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/86963.png"
+  },
+  {
+    "ID": 86992,
+    "Nome": "Giovanny Bariani Marques",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 27,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/86992.png"
+  },
+  {
+    "ID": 86995,
+    "Nome": "Clayson Henrique Da Silva Vieira",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 30,
+    "Camisa": "29",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/86995.png"
+  },
+  {
+    "ID": 87006,
+    "Nome": "Raphael Cavalcante Veiga",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 29,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87006.png"
+  },
+  {
+    "ID": 87022,
+    "Nome": "Marcelo Da Conceição Benevenuto Malaquias",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 29,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87022.png"
+  },
+  {
+    "ID": 87027,
+    "Nome": "Gustavo Cazonatti",
+    "Time": "Sporting Cristal",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 28,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87027.png"
+  },
+  {
+    "ID": 87028,
+    "Nome": "Thaciano Mickael Da Silva",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA,A(C)",
+    "Idade": 30,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87028.png"
+  },
+  {
+    "ID": 87029,
+    "Nome": "Gregore Magalhães Da Silva",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 31,
+    "Camisa": "26",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87029.png"
+  },
+  {
+    "ID": 87047,
+    "Nome": "Ramon Menezes Roma",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 30,
+    "Camisa": "40",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87047.png"
+  },
+  {
+    "ID": 87050,
+    "Nome": "David Correa Da Fonseca",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 29,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87050.png"
+  },
+  {
+    "ID": 87065,
+    "Nome": "Ayrton Lucas Dantas De Medeiros",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 27,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87065.png"
+  },
+  {
+    "ID": 87068,
+    "Nome": "Pedro Guilherme Abreu Dos Santos",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 27,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87068.png"
+  },
+  {
+    "ID": 87079,
+    "Nome": "Luiz De Araujo Guimarães Neto",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 29,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87079.png"
+  },
+  {
+    "ID": 87086,
+    "Nome": "Ronaldo Da Silva Souza",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 28,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87086.png"
+  },
+  {
+    "ID": 87102,
+    "Nome": "Keiller Da Silva Nunes",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 28,
+    "Camisa": "18",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87102.png"
+  },
+  {
+    "ID": 87421,
+    "Nome": "Igor Rabello Da Costa",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 30,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87421.png"
+  },
+  {
+    "ID": 87851,
+    "Nome": "João Othávio Basso",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 28,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/87851.png"
+  },
+  {
+    "ID": 89062,
+    "Nome": "Luiz Otávio Da Silva Santos",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 32,
+    "Camisa": "4",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/89062.png"
+  },
+  {
+    "ID": 89396,
+    "Nome": "Wellington Cabral Costa",
+    "Time": "Vitória FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(D)",
+    "Idade": 29,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/89396.png"
+  },
+  {
+    "ID": 89430,
+    "Nome": "Marlon Rodrigues Xavier",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC),MD,M(E)",
+    "Idade": 28,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/89430.png"
+  },
+  {
+    "ID": 89431,
+    "Nome": "Douglas Moreira Fagundes",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 29,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/89431.png"
+  },
+  {
+    "ID": 89929,
+    "Nome": "Charles Rigon Matos",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 28,
+    "Camisa": "35",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/89929.png"
+  },
+  {
+    "ID": 90476,
+    "Nome": "Éder Ferreira Graminho",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 30,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90476.png"
+  },
+  {
+    "ID": 90498,
+    "Nome": "Iury Lirio Freitas Da Castilho",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 29,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90498.png"
+  },
+  {
+    "ID": 90505,
+    "Nome": "Bruno De Jesus Pacheco",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 33,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90505.png"
+  },
+  {
+    "ID": 90543,
+    "Nome": "Murilo Cerqueira Paim",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 28,
+    "Camisa": "26",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90543.png"
+  },
+  {
+    "ID": 90571,
+    "Nome": "Luiz Filipe Da Rosa Machado",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 29,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90571.png"
+  },
+  {
+    "ID": 90581,
+    "Nome": "Carlos Moises De Lima",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 28,
+    "Camisa": "99",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90581.png"
+  },
+  {
+    "ID": 90584,
+    "Nome": "José Ivaldo Almeida Silva",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 28,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90584.png"
+  },
+  {
+    "ID": 90588,
+    "Nome": "Matheus Rossetto",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 29,
+    "Camisa": "20",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90588.png"
+  },
+  {
+    "ID": 90594,
+    "Nome": "Guilherme Augusto Vieira Dos Santos",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(DE)",
+    "Idade": 30,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90594.png"
+  },
+  {
+    "ID": 90613,
+    "Nome": "Daniel Cerantula Fuzato",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 27,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90613.png"
+  },
+  {
+    "ID": 90698,
+    "Nome": "Leonardo Rech Ortiz",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 29,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/90698.png"
+  },
+  {
+    "ID": 91078,
+    "Nome": "Jandrei Chitolina Carniel",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 32,
+    "Camisa": "93",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/91078.png"
+  },
+  {
+    "ID": 91571,
+    "Nome": "José Roberto Assuncão De Araujo Filho",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 31,
+    "Camisa": "99",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/91571.png"
+  },
+  {
+    "ID": 91630,
+    "Nome": "Paulo Henrique Sampaio Filho",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 24,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/91630.png"
+  },
+  {
+    "ID": 91927,
+    "Nome": "Lucas Lima Linhares",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 28,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/91927.png"
+  },
+  {
+    "ID": 92580,
+    "Nome": "Erick De Arruda Serafim",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 27,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/92580.png"
+  },
+  {
+    "ID": 93121,
+    "Nome": "José Marcos Alves Luis",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 27,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/93121.png"
+  },
+  {
+    "ID": 94127,
+    "Nome": "Artur Victor Guimarães",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 27,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94127.png"
+  },
+  {
+    "ID": 94244,
+    "Nome": "Richard De Oliveira Costa",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 34,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94244.png"
+  },
+  {
+    "ID": 94258,
+    "Nome": "Igor Aquino Da Silva",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 32,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94258.png"
+  },
+  {
+    "ID": 94267,
+    "Nome": "Vinícius Moreira De Lima",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(DEC)",
+    "Idade": 28,
+    "Camisa": "45",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94267.png"
+  },
+  {
+    "ID": 94276,
+    "Nome": "Iago Amaral Borduchi",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 28,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94276.png"
+  },
+  {
+    "ID": 94279,
+    "Nome": "Alex Paulo Menezes Santana",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 30,
+    "Camisa": "80",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94279.png"
+  },
+  {
+    "ID": 94317,
+    "Nome": "Fernando José Marques Maciel",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 27,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94317.png"
+  },
+  {
+    "ID": 94359,
+    "Nome": "Luan Peres Petroni",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 30,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94359.png"
+  },
+  {
+    "ID": 94610,
+    "Nome": "João Paulo Ferreira Lourenço",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD(C),M,MA(DC)",
+    "Idade": 27,
+    "Camisa": "97",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94610.png"
+  },
+  {
+    "ID": 94612,
+    "Nome": "Vitor Carvalho Vieira",
+    "Time": "Sporting de Braga",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 28,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94612.png"
+  },
+  {
+    "ID": 94619,
+    "Nome": "Bruno Cesar Xavier Sislo",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 28,
+    "Camisa": "37",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94619.png"
+  },
+  {
+    "ID": 94621,
+    "Nome": "Gabriel Nascimento Resende Brazão",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94621.png"
+  },
+  {
+    "ID": 94630,
+    "Nome": "José Romário Silva De Souza",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 31,
+    "Camisa": "91",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94630.png"
+  },
+  {
+    "ID": 94636,
+    "Nome": "Hayner Willian Monjardim Cordeiro",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(DE)",
+    "Idade": 29,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94636.png"
+  },
+  {
+    "ID": 94644,
+    "Nome": "Olávio Vieira Dos Santos Júnior",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 28,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94644.png"
+  },
+  {
+    "ID": 94645,
+    "Nome": "Bruno Rafael Rodrigues Do Nascimento",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 28,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94645.png"
+  },
+  {
+    "ID": 94668,
+    "Nome": "Yuri Alberto Monteiro Da Silva",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 24,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/94668.png"
+  },
+  {
+    "ID": 95705,
+    "Nome": "Jean Lucas De Souza Oliveira",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 26,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/95705.png"
+  },
+  {
+    "ID": 96079,
+    "Nome": "Bruno Vinicius Souza Ramos",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 28,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/96079.png"
+  },
+  {
+    "ID": 96168,
+    "Nome": "Igor Matheus Liziero Pereira",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 27,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/96168.png"
+  },
+  {
+    "ID": 96988,
+    "Nome": "Paulo Lucas Santos De Paula",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 28,
+    "Camisa": "18",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/96988.png"
+  },
+  {
+    "ID": 97280,
+    "Nome": "Victor Hugo Soares Dos Santos",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 28,
+    "Camisa": "4",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/97280.png"
+  },
+  {
+    "ID": 98126,
+    "Nome": "Vitor Eduardo Da Silva Matos",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 25,
+    "Camisa": "4",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/98126.png"
+  },
+  {
+    "ID": 98127,
+    "Nome": "Willean Bernardo Willemen",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(D)",
+    "Idade": 28,
+    "Camisa": "97",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/98127.png"
+  },
+  {
+    "ID": 98159,
+    "Nome": "Claudio Rodrigues Gomes",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(DE)",
+    "Idade": 26,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/98159.png"
+  },
+  {
+    "ID": 98273,
+    "Nome": "Diego Cristiano Evaristo",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 32,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/98273.png"
+  },
+  {
+    "ID": 98276,
+    "Nome": "Hugo De Souza Nogueira",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 26,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/98276.png"
+  },
+  {
+    "ID": 99105,
+    "Nome": "David Rambo Becker",
+    "Time": "EC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 29,
+    "Camisa": "Desconhecido",
+    "ImageURL": ""
+  },
+  {
+    "ID": 99130,
+    "Nome": "Felipe Jonatan Rocha Andrade",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 27,
+    "Camisa": "36",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99130.png"
+  },
+  {
+    "ID": 99172,
+    "Nome": "Ademir Da Silva Santos Junior",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 30,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99172.png"
+  },
+  {
+    "ID": 99189,
+    "Nome": "Ignácio Da Silva Oliveira",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 28,
+    "Camisa": "4",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99189.png"
+  },
+  {
+    "ID": 99201,
+    "Nome": "Thiago Beserra Dos Santos",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 28,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99201.png"
+  },
+  {
+    "ID": 99204,
+    "Nome": "Vitor Eudes De Souza Costa",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 26,
+    "Camisa": "98",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99204.png"
+  },
+  {
+    "ID": 99205,
+    "Nome": "Carlos De Menezes Júnior",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 26,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99205.png"
+  },
+  {
+    "ID": 99213,
+    "Nome": "Ronielson Da Silva Barbosa",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 30,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99213.png"
+  },
+  {
+    "ID": 99214,
+    "Nome": "Gabriel Pereira Taliari",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 28,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99214.png"
+  },
+  {
+    "ID": 99215,
+    "Nome": "Robson Alves De Barros",
+    "Time": "Sporting de Braga",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 27,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99215.png"
+  },
+  {
+    "ID": 99225,
+    "Nome": "Bruno Roberto Pereira Da Silva",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 25,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99225.png"
+  },
+  {
+    "ID": 99231,
+    "Nome": "Matheus Henrique De Souza",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 27,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99231.png"
+  },
+  {
+    "ID": 99241,
+    "Nome": "Luan Vinicius Da Silva Santos",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99241.png"
+  },
+  {
+    "ID": 99243,
+    "Nome": "Igor Silveira Gomes",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 26,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99243.png"
+  },
+  {
+    "ID": 99251,
+    "Nome": "Gustavo Nonato Santana",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,MA(C),M(DC)",
+    "Idade": 27,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99251.png"
+  },
+  {
+    "ID": 99665,
+    "Nome": "Victor Alexander Da Silva",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(DE)",
+    "Idade": 25,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/99665.png"
+  },
+  {
+    "ID": 100033,
+    "Nome": "Rodrigo Nestor Bertalia",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD(C),M,MA(EC)",
+    "Idade": 24,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/100033.png"
+  },
+  {
+    "ID": 100429,
+    "Nome": "José Vitor Rodrigues Da Silva Dos Santos",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 27,
+    "Camisa": "98",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/100429.png"
+  },
+  {
+    "ID": 100999,
+    "Nome": "Michael Richard Delgado De Oliveira",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 29,
+    "Camisa": "30",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/100999.png"
+  },
+  {
+    "ID": 101000,
+    "Nome": "José Antonio Dos Santos Júnior",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 30,
+    "Camisa": "37",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/101000.png"
+  },
+  {
+    "ID": 101126,
+    "Nome": "Igor Vinícius De Souza",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 28,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/101126.png"
+  },
+  {
+    "ID": 101129,
+    "Nome": "Hugo Moura Arruda Da Silva",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 27,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/101129.png"
+  },
+  {
+    "ID": 101135,
+    "Nome": "David De Duarte Macedo",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 30,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/101135.png"
+  },
+  {
+    "ID": 101191,
+    "Nome": "João Lucas De Almeida Carvalho",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 27,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/101191.png"
+  },
+  {
+    "ID": 101266,
+    "Nome": "Lucas Halter",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 25,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/101266.png"
+  },
+  {
+    "ID": 101358,
+    "Nome": "Kaio Jorge Pinto Ramos",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(C)",
+    "Idade": 23,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/101358.png"
+  },
+  {
+    "ID": 101728,
+    "Nome": "Mauricio Magalhães Prado",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 23,
+    "Camisa": "18",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/101728.png"
+  },
+  {
+    "ID": 102032,
+    "Nome": "Bruno Ferreira Ventura Diniz",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 31,
+    "Camisa": "94",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102032.png"
+  },
+  {
+    "ID": 102034,
+    "Nome": "Pedro Augusto Borges Da Costa",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 28,
+    "Camisa": "28",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102034.png"
+  },
+  {
+    "ID": 102039,
+    "Nome": "Felipe Vieira Augusto",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC),MD,M(E)",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102039.png"
+  },
+  {
+    "ID": 102108,
+    "Nome": "Caio Fernando De Oliveira",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E),MA(DE)",
+    "Idade": 27,
+    "Camisa": "38",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102108.png"
+  },
+  {
+    "ID": 102126,
+    "Nome": "Lucas Felipe Calegari",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(DE)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102126.png"
+  },
+  {
+    "ID": 102134,
+    "Nome": "Renato Kayzer De Souza",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 29,
+    "Camisa": "79",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102134.png"
+  },
+  {
+    "ID": 102143,
+    "Nome": "Alexander Silva De Lucena",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102143.png"
+  },
+  {
+    "ID": 102152,
+    "Nome": "Brenno Oliveira Fraga Costa",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 26,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102152.png"
+  },
+
+  {
+    "ID": 102295,
+    "Nome": "Erick Luis Conrado Carvalho",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(C)",
+    "Idade": 27,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102295.png"
+  },
+  {
+    "ID": 102296,
+    "Nome": "Bruno De Lara Fuchs",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 26,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102296.png"
+  },
+  {
+    "ID": 102301,
+    "Nome": "João Victor Da Silva Marcelino",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 26,
+    "Camisa": "38",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102301.png"
+  },
+  {
+    "ID": 102307,
+    "Nome": "Dênis De Oliveira Aguiar Júnior",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102307.png"
+  },
+  {
+    "ID": 102334,
+    "Nome": "Daniel Dos Santos Penha",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102334.png"
+  },
+  {
+    "ID": 102340,
+    "Nome": "Wagner Leonardo Calvelo De Souza",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 25,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102340.png"
+  },
+  {
+    "ID": 102341,
+    "Nome": "Kaique Rocha Lima",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 24,
+    "Camisa": "27",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102341.png"
+  },
+  {
+    "ID": 102342,
+    "Nome": "Sandry Roberto Santos Goes",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,MA(C),M(DC)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102342.png"
+  },
+  {
+    "ID": 102345,
+    "Nome": "Allan Victor Oliveira Mota",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 25,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102345.png"
+  },
+  {
+    "ID": 102477,
+    "Nome": "José Sabino Chagas Monteiro",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 28,
+    "Camisa": "35",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102477.png"
+  },
+  {
+    "ID": 102606,
+    "Nome": "Janderson Santos De Souza",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,A(D),MA(DC)",
+    "Idade": 26,
+    "Camisa": "99",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102606.png"
+  },
+  {
+    "ID": 102747,
+    "Nome": "Wesley Ribeiro Silva",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 26,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102747.png"
+  },
+  {
+    "ID": 102938,
+    "Nome": "Luiz Henrique Soares Firmino",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(DE)",
+    "Idade": 25,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102938.png"
+  },
+  {
+    "ID": 102971,
+    "Nome": "Bruno Gomes Da Silva Clevelário",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(DC)",
+    "Idade": 24,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/102971.png"
+  },
+  {
+    "ID": 103672,
+    "Nome": "Matheus Planelles Donelli",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 23,
+    "Camisa": "32",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/103672.png"
+  },
+  {
+    "ID": 103732,
+    "Nome": "Gabriel Vinicius Menino",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 24,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/103732.png"
+  },
+  {
+    "ID": 103833,
+    "Nome": "Pedro Raúl Garay Da Silva",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 28,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/103833.png"
+  },
+  {
+    "ID": 103853,
+    "Nome": "Patrick De Paula Carneiro",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 25,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/103853.png"
+  },
+  {
+    "ID": 103929,
+    "Nome": "Camilo Reijers De Oliveira",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 26,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/103929.png"
+  },
+  {
+    "ID": 103949,
+    "Nome": "Lucas Esteves De Souza",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 24,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/103949.png"
+  },
+  {
+    "ID": 104194,
+    "Nome": "Pedro Henrique Rodrigues Bicalho",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104194.png"
+  },
+  {
+    "ID": 104239,
+    "Nome": "Lucas Eduardo Ribeiro De Souza",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 24,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104239.png"
+  },
+  {
+    "ID": 104265,
+    "Nome": "Matheus Alvarenga De Oliveira",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 25,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104265.png"
+  },
+  {
+    "ID": 104275,
+    "Nome": "Bruno Nunes De Barros",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(D),M,MA(DE)",
+    "Idade": 30,
+    "Camisa": "29",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104275.png"
+  },
+  {
+    "ID": 104279,
+    "Nome": "Lucas Da Cruz Oliveira",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 29,
+    "Camisa": "29",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104279.png"
+  },
+  {
+    "ID": 104283,
+    "Nome": "Francisco Alves Da Silva Neto",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 26,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104283.png"
+  },
+  {
+    "ID": 104284,
+    "Nome": "Ewerthon Diógenes Da Silva",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 24,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104284.png"
+  },
+  {
+    "ID": 104289,
+    "Nome": "Natanael Moreira Milouski",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 23,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104289.png"
+  },
+  {
+    "ID": 104293,
+    "Nome": "Igor Jesus Maciel Da Cruz",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 24,
+    "Camisa": "99",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104293.png"
+  },
+  {
+    "ID": 104703,
+    "Nome": "Luciano Batista Da Silva Junior",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(E)",
+    "Idade": 25,
+    "Camisa": "46",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104703.png"
+  },
+  {
+    "ID": 104719,
+    "Nome": "Alexandre Zurawski",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 27,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104719.png"
+  },
+  {
+    "ID": 104744,
+    "Nome": "Caio Alexandre Sousa E Silva",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 26,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104744.png"
+  },
+  {
+    "ID": 104747,
+    "Nome": "Matheus Barcelos Da Silva",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 27,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104747.png"
+  },
+  {
+    "ID": 104748,
+    "Nome": "Marcelo De Araújo Pitaluga Filho",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 22,
+    "Camisa": "27",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104748.png"
+  },
+  {
+    "ID": 104757,
+    "Nome": "Lucas Figueiredo Dos Santos",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(DE),A(DEC)",
+    "Idade": 23,
+    "Camisa": "31",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104757.png"
+  },
+  {
+    "ID": 104777,
+    "Nome": "Guilherme Nunes Rodrigues",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(DE),A(DEC)",
+    "Idade": 24,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104777.png"
+  },
+  {
+    "ID": 104781,
+    "Nome": "Thiago Couto Wenceslau",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 26,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104781.png"
+  },
+  {
+    "ID": 104784,
+    "Nome": "Christian Roberto Alves Cardoso",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 24,
+    "Camisa": "88",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104784.png"
+  },
+  {
+    "ID": 104796,
+    "Nome": "Aldemir Dos Santos",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 27,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104796.png"
+  },
+  {
+    "ID": 104885,
+    "Nome": "Gustavo Maia Da Silva",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 24,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/104885.png"
+  },
+  {
+    "ID": 105060,
+    "Nome": "Matheus Mendes Werneck De Oliveira",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 26,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105060.png"
+  },
+  {
+    "ID": 105063,
+    "Nome": "Ramon Ramos Lima",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 24,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105063.png"
+  },
+  {
+    "ID": 105066,
+    "Nome": "Alex De Oliveira Nascimento",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105066.png"
+  },
+  {
+    "ID": 105068,
+    "Nome": "Lucas Braga Ribeiro",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(D),M,MA(DE)",
+    "Idade": 28,
+    "Camisa": "22",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105068.png"
+  },
+  {
+    "ID": 105085,
+    "Nome": "Gabriel Santos Cordeiro Lacerda",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 25,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105085.png"
+  },
+  {
+    "ID": 105101,
+    "Nome": "Roni Medeiros De Moura",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 26,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105101.png"
+  },
+  {
+    "ID": 105103,
+    "Nome": "Gustavo Henric Da Silva",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 27,
+    "Camisa": "7",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105103.png"
+  },
+  {
+    "ID": 105105,
+    "Nome": "Mateus Eduardo Claus",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 30,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105105.png"
+  },
+  {
+    "ID": 105107,
+    "Nome": "Ronald Dos Santos Lopes",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 27,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105107.png"
+  },
+  {
+    "ID": 105109,
+    "Nome": "Fabrício Do Rosario Dos Santos",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 24,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105109.png"
+  },
+  {
+    "ID": 105111,
+    "Nome": "Matheus Nascimento De Paula",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 21,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105111.png"
+  },
+  {
+    "ID": 105304,
+    "Nome": "Nathan Santos De Araújo",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 23,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105304.png"
+  },
+  {
+    "ID": 105988,
+    "Nome": "Matheus França Silva",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 24,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/105988.png"
+  },
+  {
+    "ID": 106521,
+    "Nome": "Patryck Lanza Dos Reis",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 22,
+    "Camisa": "36",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/106521.png"
+  },
+  {
+    "ID": 107545,
+    "Nome": "João Victor Carroll Santana",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 27,
+    "Camisa": "34",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/107545.png"
+  },
+  {
+    "ID": 107727,
+    "Nome": "Diego Gabriel Silva Rosa",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 22,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/107727.png"
+  },
+  {
+    "ID": 107842,
+    "Nome": "David Thomaz Dos Santos Oliveira",
+    "Time": "Sporting Covilhã",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 23,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/107842.png"
+  },
+  {
+    "ID": 107863,
+    "Nome": "André Oliveira Da Silva",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 28,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/107863.png"
+  },
+  {
+    "ID": 108485,
+    "Nome": "Breno Henrique Vasconcelos Lopes",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 29,
+    "Camisa": "26",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108485.png"
+  },
+  {
+    "ID": 108523,
+    "Nome": "Allyson Aires Dos Santos",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 34,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108523.png"
+  },
+  {
+    "ID": 108601,
+    "Nome": "Vinicius Balieiro Lourenco De Carvalho",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(DC)",
+    "Idade": 26,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108601.png"
+  },
+  {
+    "ID": 108603,
+    "Nome": "Calebe Gonçalves Ferreira Da Silva",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 25,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108603.png"
+  },
+  {
+    "ID": 108605,
+    "Nome": "Hugo Gonçalves Ferreira Neto",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 23,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108605.png"
+  },
+  {
+    "ID": 108607,
+    "Nome": "Sebastião Enio Santos De Almeida",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(DE)",
+    "Idade": 23,
+    "Camisa": "97",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108607.png"
+  },
+  {
+    "ID": 108621,
+    "Nome": "Vanderlan Barbosa Da Silva",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC),MD,M(E)",
+    "Idade": 22,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108621.png"
+  },
+  {
+    "ID": 108640,
+    "Nome": "João Pedro Vilardi Pinto",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 27,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108640.png"
+  },
+  {
+    "ID": 108642,
+    "Nome": "John Kennedy Batista De Souza",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 23,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108642.png"
+  },
+  {
+    "ID": 108643,
+    "Nome": "Matheus Martinelli Lima",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 23,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108643.png"
+  },
+  {
+    "ID": 108665,
+    "Nome": "Matheus Bahia Santos",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 25,
+    "Camisa": "79",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/108665.png"
+  },
+  {
+    "ID": 109371,
+    "Nome": "Rafael Rogério Da Silva",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 29,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/109371.png"
+  },
+  {
+    "ID": 110964,
+    "Nome": "Danilo José Belão",
+    "Time": "EC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 28,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/110964.png"
+  },
+  {
+    "ID": 111000,
+    "Nome": "Geisandro José Pereira",
+    "Time": "Vitória FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 27,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/111000.png"
+  },
+  {
+    "ID": 111321,
+    "Nome": "Weverton Silva De Andrade",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/111321.png"
+  },
+  {
+    "ID": 112000,
+    "Nome": "Chrystian Amaral Barletta De Almeida",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,A(E),MA(EC)",
+    "Idade": 23,
+    "Camisa": "30",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112000.png"
+  },
+  {
+    "ID": 112047,
+    "Nome": "Eudes Ruan De Sousa Carneiro",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 35,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112047.png"
+  },
+  {
+    "ID": 112156,
+    "Nome": "Hugo Ferreira De Farias",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 27,
+    "Camisa": "46",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112156.png"
+  },
+  {
+    "ID": 112212,
+    "Nome": "Raul Jonas Steffens",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 27,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112212.png"
+  },
+  {
+    "ID": 112416,
+    "Nome": "Gustavo Garcia Dos Santos",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112416.png"
+  },
+  {
+    "ID": 112545,
+    "Nome": "Matheus Lima Beltrão Oliveira",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 26,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112545.png"
+  },
+  {
+    "ID": 112547,
+    "Nome": "Moisés Vieira Da Veiga",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 28,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112547.png"
+  },
+  {
+    "ID": 112821,
+    "Nome": "Luís Felipe Oyama",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 28,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112821.png"
+  },
+  {
+    "ID": 112823,
+    "Nome": "Fabrício Daniel De Souza",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 27,
+    "Camisa": "70",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112823.png"
+  },
+  {
+    "ID": 112831,
+    "Nome": "Lucas Willians Assis Arcanjo",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 26,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112831.png"
+  },
+  {
+    "ID": 112832,
+    "Nome": "Yuri Sena Dos Reis Batista",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112832.png"
+  },
+  {
+    "ID": 112949,
+    "Nome": "Cleidson Andrade De Souza Silva",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 31,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112949.png"
+  },
+  {
+    "ID": 112956,
+    "Nome": "Jean Carlos Vicente",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 33,
+    "Camisa": "20",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/112956.png"
+  },
+  {
+    "ID": 113098,
+    "Nome": "Bernardo Schappo",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/113098.png"
+  },
+  {
+    "ID": 113334,
+    "Nome": "Vinicius Nelson De Souza Zanocelo",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/113334.png"
+  },
+  {
+    "ID": 113774,
+    "Nome": "Matheus Martins Silva Dos Santos",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 21,
+    "Camisa": "11",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/113774.png"
+  },
+  {
+    "ID": 113777,
+    "Nome": "Gabriel Hamester Grando",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 25,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/113777.png"
+  },
+  {
+    "ID": 113927,
+    "Nome": "Dionísio Pereira De Souza Neto",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 31,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/113927.png"
+  },
+  {
+    "ID": 114081,
+    "Nome": "Matheus Alexandre Anastácio De Souza",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 26,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114081.png"
+  },
+  {
+    "ID": 114242,
+    "Nome": "Wendson Dos Santos Lopes",
+    "Time": "Vitória FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 27,
+    "Camisa": "Desconhecido",
+    "ImageURL": ""
+  },
+  {
+    "ID": 114244,
+    "Nome": "Adson Ferreira Soares",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 24,
+    "Camisa": "28",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114244.png"
+  },
+  {
+    "ID": 114519,
+    "Nome": "Adriel Vasconcelos Ramos",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114519.png"
+  },
+  {
+    "ID": 114520,
+    "Nome": "Fernando Henrique Do Nascimento Pereira",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114520.png"
+  },
+  {
+    "ID": 114524,
+    "Nome": "Elias Manoel Alves De Paula",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 23,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114524.png"
+  },
+  {
+    "ID": 114556,
+    "Nome": "Carlos Alberto Gomes Da Silva Filho",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 23,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114556.png"
+  },
+  {
+    "ID": 114567,
+    "Nome": "Paulo Henrique De Oliveira Alves",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(D)",
+    "Idade": 28,
+    "Camisa": "96",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114567.png"
+  },
+  {
+    "ID": 114572,
+    "Nome": "Diógenes Vinicius Da Silva",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114572.png"
+  },
+  {
+    "ID": 114574,
+    "Nome": "Kevin Malthus De Sousa Ribeiro",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114574.png"
+  },
+  {
+    "ID": 114579,
+    "Nome": "Gustavo Coutinho Silva Lopes",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/114579.png"
+  },
+  {
+    "ID": 115105,
+    "Nome": "Riquelme De Carvalho Araújo Viana",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/115105.png"
+  },
+  {
+    "ID": 115476,
+    "Nome": "Jackson Diego Ibraim Fagundes",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 29,
+    "Camisa": "20",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/115476.png"
+  },
+  {
+    "ID": 115481,
+    "Nome": "Júlio César De Rezende Miranda",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 30,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/115481.png"
+  },
+  {
+    "ID": 115717,
+    "Nome": "Clayton Fernandes Silva",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(E),A(EC)",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/115717.png"
+  },
+  {
+    "ID": 115718,
+    "Nome": "João Pedro Mendes Santos",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 25,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/115718.png"
+  },
+  {
+    "ID": 115720,
+    "Nome": "Eduardo Da Silva Albuquerque",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/115720.png"
+  },
+  {
+    "ID": 115727,
+    "Nome": "Samuel Salustiano De Jesus Silva",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/115727.png"
+  },
+  {
+    "ID": 116021,
+    "Nome": "Wellington Soares Da Silva",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 32,
+    "Camisa": "10",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/116021.png"
+  },
+  {
+    "ID": 116187,
+    "Nome": "Caio Alves Roque Gomes",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 23,
+    "Camisa": "27",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/116187.png"
+  },
+  {
+    "ID": 116336,
+    "Nome": "José Hugo Sousa Dos Santos",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 25,
+    "Camisa": "71",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/116336.png"
+  },
+  {
+    "ID": 116373,
+    "Nome": "Gabriel Teixeira Aragão",
+    "Time": "Sporting CP",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 24,
+    "Camisa": "30",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/116373.png"
+  },
+  {
+    "ID": 116427,
+    "Nome": "Jorge Meurer Bartholdy",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "31",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/116427.png"
+  },
+  {
+    "ID": 117470,
+    "Nome": "Lucas De Freitas Molarinho Chagas",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 24,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/117470.png"
+  },
+  {
+    "ID": 117787,
+    "Nome": "Otávio Gut Oliveira",
+    "Time": "Sport Huancayo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 28,
+    "Camisa": "33",
+    "ImageURL": ""
+  },
+  {
+    "ID": 117796,
+    "Nome": "João Marcelo Messias Ferreira",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 24,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/117796.png"
+  },
+  {
+    "ID": 117952,
+    "Nome": "Vitor Hugo Roque Ferreira",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/117952.png"
+  },
+  {
+    "ID": 117962,
+    "Nome": "Michel Augusto Modesto Rafael Dos Santos",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/117962.png"
+  },
+  {
+    "ID": 118878,
+    "Nome": "Pedro Veronez Vilhena",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/118878.png"
+  },
+  {
+    "ID": 118879,
+    "Nome": "Wesley Vinícius França Lima",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 21,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/118879.png"
+  },
+  {
+    "ID": 118989,
+    "Nome": "Matheus Gonçalves Martins",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 19,
+    "Camisa": "20",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/118989.png"
+  },
+  {
+    "ID": 118990,
+    "Nome": "Pablo Gonçalves Maia Fortunato",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 23,
+    "Camisa": "29",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/118990.png"
+  },
+  {
+    "ID": 119263,
+    "Nome": "Gabriel Silva Azevedo Figueredo",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/119263.png"
+  },
+  {
+    "ID": 119751,
+    "Nome": "Raí Da Silva Pessanha",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/119751.png"
+  },
+  {
+    "ID": 120400,
+    "Nome": "Matheus Cunha Queiroz",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "25",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/120400.png"
+  },
+  {
+    "ID": 120401,
+    "Nome": "Petterson Novaes Reis",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 21,
+    "Camisa": "37",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/120401.png"
+  },
+  {
+    "ID": 120402,
+    "Nome": "Victor Hugo Gomes Silva",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/120402.png"
+  },
+  {
+    "ID": 120403,
+    "Nome": "Cleiton Santana Dos Santos",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 22,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/120403.png"
+  },
+  {
+    "ID": 120681,
+    "Nome": "Diego Callai Silva",
+    "Time": "Sporting CP",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "41",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/120681.png"
+  },
+  {
+    "ID": 120986,
+    "Nome": "João Moreira Sanmartin Souza",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(DE),M(DEC)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/120986.png"
+  },
+  {
+    "ID": 121714,
+    "Nome": "Luis Gustavo Da Silva Machado Duarte",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(DC)",
+    "Idade": 23,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/121714.png"
+  },
+  {
+    "ID": 122565,
+    "Nome": "Rômulo Azevedo Simão",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 23,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/122565.png"
+  },
+  {
+    "ID": 123713,
+    "Nome": "Rodrigo Ferreira Da Silva",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 30,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/123713.png"
+  },
+  {
+    "ID": 123718,
+    "Nome": "Daniel De Melo Araujo Júnior",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/123718.png"
+  },
+  {
+    "ID": 123721,
+    "Nome": "André Dhominique Queiroz Santiago Da Silva",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/123721.png"
+  },
+  {
+    "ID": 123723,
+    "Nome": "Gabriel Lhman Xavier",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 24,
+    "Camisa": "3",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/123723.png"
+  },
+  {
+    "ID": 123777,
+    "Nome": "Leonardo Naldi De Matos",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 23,
+    "Camisa": "5",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/123777.png"
+  },
+  {
+    "ID": 123865,
+    "Nome": "Gustavo Apis Pascoal De Farias",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 25,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/123865.png"
+  },
+  {
+    "ID": 123872,
+    "Nome": "Willian Estefani Machado",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 28,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/123872.png"
+  },
+  {
+    "ID": 123985,
+    "Nome": "Rubens Antônio Dias",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(E)",
+    "Idade": 23,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/123985.png"
+  },
+  {
+    "ID": 124021,
+    "Nome": "Micael Dos Santos Silva",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 24,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124021.png"
+  },
+  {
+    "ID": 124112,
+    "Nome": "Rwan Philipe Rodrigues De Souza Cruz",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 24,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124112.png"
+  },
+  {
+    "ID": 124179,
+    "Nome": "Joao Vitor Vallony Da Silva",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124179.png"
+  },
+  {
+    "ID": 124180,
+    "Nome": "Leonardo Rafael Dos Santos",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 24,
+    "Camisa": "38",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124180.png"
+  },
+  {
+    "ID": 124182,
+    "Nome": "Marcos Victor Ferreira Da Silva",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 23,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124182.png"
+  },
+  {
+    "ID": 124197,
+    "Nome": "Yan Da Cruz Souto",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 23,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124197.png"
+  },
+  {
+    "ID": 124199,
+    "Nome": "Luiz Filipe Dos Reis Silva",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 24,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124199.png"
+  },
+  {
+    "ID": 124323,
+    "Nome": "Hércules Pereira Do Nascimento",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 24,
+    "Camisa": "35",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124323.png"
+  },
+  {
+    "ID": 124403,
+    "Nome": "João Pedro Galvão De Carvalho",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC),MD(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124403.png"
+  },
+  {
+    "ID": 124435,
+    "Nome": "Raniele Almeida Melo",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 28,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124435.png"
+  },
+  {
+    "ID": 124460,
+    "Nome": "Leandro Mathias Silva Bueno",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124460.png"
+  },
+  {
+    "ID": 124477,
+    "Nome": "Mateus Oliveira Mendes",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 23,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124477.png"
+  },
+  {
+    "ID": 124495,
+    "Nome": "Estêvão Barreto De Oliveira",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124495.png"
+  },
+  {
+    "ID": 124625,
+    "Nome": "Jefferson Ruan Pereira Dos Santos",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 25,
+    "Camisa": "47",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124625.png"
+  },
+  {
+    "ID": 124629,
+    "Nome": "Lucas Eduardo Lima Da Silva",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD(C),M(DC)",
+    "Idade": 24,
+    "Camisa": "31",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124629.png"
+  },
+  {
+    "ID": 124709,
+    "Nome": "Luciano Silva Santos",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/124709.png"
+  },
+  {
+    "ID": 126074,
+    "Nome": "Jair Paula Da Cunha Filho",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 20,
+    "Camisa": "32",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/126074.png"
+  },
+  {
+    "ID": 126143,
+    "Nome": "Rodrigo Henrique Santos De Souza",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 22,
+    "Camisa": "75",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/126143.png"
+  },
+  {
+    "ID": 126396,
+    "Nome": "Giovane Santana Do Nascimento",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DC)",
+    "Idade": 21,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/126396.png"
+  },
+  {
+    "ID": 127068,
+    "Nome": "Gustavo Da Silva Cunha",
+    "Time": "Vitória de Guimarães",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D),MA(DE)",
+    "Idade": 26,
+    "Camisa": "71",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/127068.png"
+  },
+  {
+    "ID": 127073,
+    "Nome": "Clayton Sampaio Pereira",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 25,
+    "Camisa": "20",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/127073.png"
+  },
+  {
+    "ID": 127191,
+    "Nome": "Rodrigo Huendra Almeida Mendonca",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 21,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/127191.png"
+  },
+  {
+    "ID": 127250,
+    "Nome": "Rafael Pasquali Rech",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/127250.png"
+  },
+  {
+    "ID": 128244,
+    "Nome": "Matheus Dos Santos Dias",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 23,
+    "Camisa": "88",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/128244.png"
+  },
+  {
+    "ID": 128249,
+    "Nome": "Kaiky Marques Naves",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 23,
+    "Camisa": "34",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/128249.png"
+  },
+
+  {
+    "ID": 129595,
+    "Nome": "Gabriel Falcão Moreira De Lima",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/129595.png"
+  },
+  {
+    "ID": 129658,
+    "Nome": "Ed Carlos De Arruda Amorim",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/129658.png"
+  },
+  {
+    "ID": 129751,
+    "Nome": "Lorran Lucas Pereira De Sousa",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DC)",
+    "Idade": 18,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/129751.png"
+  },
+  {
+    "ID": 129845,
+    "Nome": "Pedro Felipe De Faria Rangel",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/129845.png"
+  },
+  {
+    "ID": 130334,
+    "Nome": "Young Navarro Moraes",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 23,
+    "Camisa": "50",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130334.png"
+  },
+  {
+    "ID": 130346,
+    "Nome": "Gabriel Delfim Ferreira",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 22,
+    "Camisa": "1",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130346.png"
+  },
+  {
+    "ID": 130348,
+    "Nome": "Luan De Freitas Molarinho Chagas",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 24,
+    "Camisa": "35",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130348.png"
+  },
+  {
+    "ID": 130526,
+    "Nome": "Pedro Henrique Franklim Da Silva",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 21,
+    "Camisa": "35",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130526.png"
+  },
+  {
+    "ID": 130527,
+    "Nome": "Breno De Souza Bidon",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 20,
+    "Camisa": "27",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130527.png"
+  },
+  {
+    "ID": 130528,
+    "Nome": "Leonardo Mana Hernandes",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 21,
+    "Camisa": "35",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130528.png"
+  },
+  {
+    "ID": 130529,
+    "Nome": "João Victor Vieira Ferreira Sousa",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 21,
+    "Camisa": "17",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130529.png"
+  },
+  {
+    "ID": 130530,
+    "Nome": "Weliton Santos Do Amaral",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130530.png"
+  },
+  {
+    "ID": 130537,
+    "Nome": "David Ricardo Loiola Da Silva",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 22,
+    "Camisa": "57",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130537.png"
+  },
+  {
+    "ID": 130636,
+    "Nome": "José Henrique Venancio Camargo",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130636.png"
+  },
+  {
+    "ID": 130707,
+    "Nome": "Igo Gabriel Santos Pereira",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/130707.png"
+  },
+  {
+    "ID": 131183,
+    "Nome": "Kaiki Bruno Da Silva",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 22,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131183.png"
+  },
+  {
+    "ID": 131184,
+    "Nome": "Matheus De Araújo Andrade",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(EC)",
+    "Idade": 23,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131184.png"
+  },
+  {
+    "ID": 131190,
+    "Nome": "Ryan Carlos Santos De Sousa",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131190.png"
+  },
+  {
+    "ID": 131192,
+    "Nome": "Sidnei Fernandes Junior",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 22,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131192.png"
+  },
+  {
+    "ID": 131199,
+    "Nome": "Natã Felipe De Amorim Santos",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131199.png"
+  },
+  {
+    "ID": 131200,
+    "Nome": "Luis Eduardo Soares Da Silva",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 22,
+    "Camisa": "66",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131200.png"
+  },
+  {
+    "ID": 131372,
+    "Nome": "Anthoni Spier Souza",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 23,
+    "Camisa": "24",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131372.png"
+  },
+  {
+    "ID": 131373,
+    "Nome": "Lucca Holanda Sampaio Tavares",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 22,
+    "Camisa": "45",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131373.png"
+  },
+  {
+    "ID": 131374,
+    "Nome": "Gustavo Martins De Souza Santos",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 22,
+    "Camisa": "53",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131374.png"
+  },
+  {
+    "ID": 131388,
+    "Nome": "Leonardo Matias Baiersdorf Linck",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "24",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131388.png"
+  },
+  {
+    "ID": 131391,
+    "Nome": "João Victor De Amorim Marinho",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131391.png"
+  },
+  {
+    "ID": 131392,
+    "Nome": "Matheus José Belém De Souza",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131392.png"
+  },
+  {
+    "ID": 131633,
+    "Nome": "Vitor Hugo Ferreira Oliveira",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/131633.png"
+  },
+  {
+    "ID": 132582,
+    "Nome": "Kevyson Costa E Silva",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 21,
+    "Camisa": "38",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132582.png"
+  },
+  {
+    "ID": 132598,
+    "Nome": "Audenirton Soares Da Silva",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 25,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132598.png"
+  },
+  {
+    "ID": 132655,
+    "Nome": "Gabriel Souza Da Silva",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132655.png"
+  },
+  {
+    "ID": 132662,
+    "Nome": "Ronald Cardoso Falkoski",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 22,
+    "Camisa": "35",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132662.png"
+  },
+  {
+    "ID": 132714,
+    "Nome": "Ian Luccas Baroni Boetto",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132714.png"
+  },
+  {
+    "ID": 132716,
+    "Nome": "Leanderson Da Silva Genésio",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 27,
+    "Camisa": "99",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132716.png"
+  },
+  {
+    "ID": 132717,
+    "Nome": "Kauan Rodrigues Da Silva",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132717.png"
+  },
+  {
+    "ID": 132719,
+    "Nome": "Cauan Lucas Barros Da Luz",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 21,
+    "Camisa": "88",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132719.png"
+  },
+  {
+    "ID": 132724,
+    "Nome": "Claudio Coelho Salvático",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 24,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132724.png"
+  },
+  {
+    "ID": 132802,
+    "Nome": "Luis Fellipe Campos Doria",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 21,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/132802.png"
+  },
+  {
+    "ID": 133240,
+    "Nome": "Alexandre Fintelman De Mello Ribeiro Da Silva",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 23,
+    "Camisa": "35",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/133240.png"
+  },
+  {
+    "ID": 133283,
+    "Nome": "Ivan Santos Júnior",
+    "Time": "Fluminense de Feira",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": ""
+  },
+  {
+    "ID": 133292,
+    "Nome": "Mateus Carvalho Dos Santos",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 23,
+    "Camisa": "85",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/133292.png"
+  },
+  {
+    "ID": 133293,
+    "Nome": "Alisson De Almeida Santos",
+    "Time": "Sporting CP",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/133293.png"
+  },
+  {
+    "ID": 133309,
+    "Nome": "Renzo Azevedo Pimentel De Moura",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 23,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/133309.png"
+  },
+  {
+    "ID": 133310,
+    "Nome": "André Felipe De Almeida Santos",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 28,
+    "Camisa": "6",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/133310.png"
+  },
+  {
+    "ID": 133311,
+    "Nome": "Pedro Victor Martins Silva Costa",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 24,
+    "Camisa": "48",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/133311.png"
+  },
+  {
+    "ID": 133390,
+    "Nome": "Venicius Dos Santos Cascais",
+    "Time": "EC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": ""
+  },
+
+  {
+    "ID": 133524,
+    "Nome": "Ruan Ribeiro Rodrigues",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/133524.png"
+  },
+  {
+    "ID": 134045,
+    "Nome": "Isaac Aguiar Tomich",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/134045.png"
+  },
+  {
+    "ID": 134057,
+    "Nome": "Luan Figueirôa Brito",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/134057.png"
+  },
+  {
+    "ID": 134080,
+    "Nome": "Paulo Ricardo De Souza Babilônia",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/134080.png"
+  },
+  {
+    "ID": 135164,
+    "Nome": "Gabriel De Souza Barros",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 23,
+    "Camisa": "20",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/135164.png"
+  },
+  {
+    "ID": 135178,
+    "Nome": "André Henrique Da Silva Martins",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 23,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/135178.png"
+  },
+  {
+    "ID": 135553,
+    "Nome": "Kauan Kelvin Magalhães Da Silva",
+    "Time": "Sporting de Braga",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 20,
+    "Camisa": "99",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/135553.png"
+  },
+  {
+    "ID": 135556,
+    "Nome": "Rayan Vitor Simplício Rocha",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 18,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/135556.png"
+  },
+  {
+    "ID": 135993,
+    "Nome": "Vitor Gabriel Reis Guimaraes",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 19,
+    "Camisa": "50",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/135993.png"
+  },
+  {
+    "ID": 135994,
+    "Nome": "Carlos Eduardo Amaral Pereira De Castro",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 21,
+    "Camisa": "42",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/135994.png"
+  },
+  {
+    "ID": 136104,
+    "Nome": "Lucas Eduardo Muller",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/136104.png"
+  },
+  {
+    "ID": 136231,
+    "Nome": "Kaique Pereira Azarias",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/136231.png"
+  },
+  {
+    "ID": 137284,
+    "Nome": "Paulo Vitor Monteiro",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/137284.png"
+  },
+  {
+    "ID": 137354,
+    "Nome": "Nathan Ribeiro Fernandes",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 20,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/137354.png"
+  },
+  {
+    "ID": 138086,
+    "Nome": "Rafael Da Silva Pontelo",
+    "Time": "Sporting CP",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 22,
+    "Camisa": "45",
+    "ImageURL": ""
+  },
+  {
+    "ID": 139086,
+    "Nome": "Pedro Lima Barros",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139086.png"
+  },
+  {
+    "ID": 139163,
+    "Nome": "Daniel De Oliveira Sertanejo",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,MA(C),M(DC)",
+    "Idade": 30,
+    "Camisa": "8",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139163.png"
+  },
+  {
+    "ID": 139166,
+    "Nome": "Reinaldo Kauan Bento Dos Santos",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139166.png"
+  },
+  {
+    "ID": 139167,
+    "Nome": "Cristian Renato Gonçalves Riquelme",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 25,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139167.png"
+  },
+  {
+    "ID": 139198,
+    "Nome": "Marco Antônio Da Silva Carvalho",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139198.png"
+  },
+  {
+    "ID": 139204,
+    "Nome": "Eduardo Marcelo Rodrigues Nunes",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 26,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139204.png"
+  },
+  {
+    "ID": 139463,
+    "Nome": "Renato Santos Da Cruz",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "41",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139463.png"
+  },
+  {
+    "ID": 139510,
+    "Nome": "José Welinton Campos Menezes",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 21,
+    "Camisa": "39",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139510.png"
+  },
+  {
+    "ID": 139514,
+    "Nome": "Lian Dos Santos Da Silva",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 19,
+    "Camisa": "38",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139514.png"
+  },
+  {
+    "ID": 139680,
+    "Nome": "João Fernando Monteiro Siqueira",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139680.png"
+  },
+  {
+    "ID": 139688,
+    "Nome": "Janderson De Carvalho Costa",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 26,
+    "Camisa": "9",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139688.png"
+  },
+  {
+    "ID": 139933,
+    "Nome": "Victor Hugo Da Silva Costa",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/139933.png"
+  },
+  {
+    "ID": 140158,
+    "Nome": "Felipe Negrucci Berdague",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 21,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140158.png"
+  },
+  {
+    "ID": 140202,
+    "Nome": "Felipe De Andrade Vieira",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 23,
+    "Camisa": "36",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140202.png"
+  },
+  {
+    "ID": 140204,
+    "Nome": "Kayky Henrique Almeida Brandão Da Silva",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140204.png"
+  },
+  {
+    "ID": 140208,
+    "Nome": "Ryan Gustavo De Lima",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 21,
+    "Camisa": "37",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140208.png"
+  },
+  {
+    "ID": 140268,
+    "Nome": "Fábio Matheus Ribeiro Lima",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140268.png"
+  },
+  {
+    "ID": 140269,
+    "Nome": "Juan Claudio De Faria Xavier",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140269.png"
+  },
+  {
+    "ID": 140274,
+    "Nome": "Kelvi Chiesa Gomes",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 22,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140274.png"
+  },
+  {
+    "ID": 140285,
+    "Nome": "Mayksilvan Da Silva Ferreira",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 25,
+    "Camisa": "26",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140285.png"
+  },
+  {
+    "ID": 140327,
+    "Nome": "Miqueias Cabral Evaristo",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(C)",
+    "Idade": 23,
+    "Camisa": "42",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140327.png"
+  },
+  {
+    "ID": 140397,
+    "Nome": "Caique De Jesus Gonçalves",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(C)",
+    "Idade": 29,
+    "Camisa": "95",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140397.png"
+  },
+  {
+    "ID": 140398,
+    "Nome": "Erick Da Costa Farias",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(E)",
+    "Idade": 24,
+    "Camisa": "16",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140398.png"
+  },
+  {
+    "ID": 140532,
+    "Nome": "José Guilherme De Lima Costa",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140532.png"
+  },
+  {
+    "ID": 140533,
+    "Nome": "Alexsandro Amorim De Freitas Filho",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140533.png"
+  },
+  {
+    "ID": 140744,
+    "Nome": "Leonardo De Aragão Carvalho",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 23,
+    "Camisa": "41",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/140744.png"
+  },
+  {
+    "ID": 141114,
+    "Nome": "Riquelme Fillipi Marinho De Souza",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 18,
+    "Camisa": "71",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141114.png"
+  },
+  {
+    "ID": 141322,
+    "Nome": "Gabriel Gonçalves De Souza",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141322.png"
+  },
+  {
+    "ID": 141740,
+    "Nome": "João Wellington Gadelha Melo De Oliveira",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 21,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141740.png"
+  },
+  {
+    "ID": 141741,
+    "Nome": "Gustavo Ramalho Bremer Pinto",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 22,
+    "Camisa": "50",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141741.png"
+  },
+  {
+    "ID": 141742,
+    "Nome": "Rafael Monteiro Reis",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(E)",
+    "Idade": 21,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141742.png"
+  },
+  {
+    "ID": 141744,
+    "Nome": "Wesley Da Costa Silva",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 21,
+    "Camisa": "51",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141744.png"
+  },
+  {
+    "ID": 141745,
+    "Nome": "Josué Souza Dos Santos",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141745.png"
+  },
+  {
+    "ID": 141746,
+    "Nome": "Luis Fernando Santos Oliveira",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141746.png"
+  },
+  {
+    "ID": 141748,
+    "Nome": "João Paulo Dalla Corte",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141748.png"
+  },
+  {
+    "ID": 141967,
+    "Nome": "Phillipe Gabriel Pires De Oliveira",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 19,
+    "Camisa": "78",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/141967.png"
+  },
+  {
+    "ID": 142133,
+    "Nome": "Luighi Hanri Sousa Santos",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(E),A(EC)",
+    "Idade": 19,
+    "Camisa": "31",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142133.png"
+  },
+  {
+    "ID": 142135,
+    "Nome": "Rayan Lucas Marques De Souza",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 20,
+    "Camisa": "63",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142135.png"
+  },
+  {
+    "ID": 142136,
+    "Nome": "João Pedro Do Nascimento Da Mata",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142136.png"
+  },
+  {
+    "ID": 142137,
+    "Nome": "João Pedro De Sousa Rodrigues",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 21,
+    "Camisa": "47",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142137.png"
+  },
+  {
+    "ID": 142138,
+    "Nome": "Julio Cesar Lima Fidelis",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 18,
+    "Camisa": "36",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142138.png"
+  },
+  {
+    "ID": 142139,
+    "Nome": "Viery Fernandes Santos Lopes",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142139.png"
+  },
+  {
+    "ID": 142140,
+    "Nome": "Ruan Silva Fonseca",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 18,
+    "Camisa": "39",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142140.png"
+  },
+  {
+    "ID": 142142,
+    "Nome": "Agner Moura Izigethy De Souza",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142142.png"
+  },
+  {
+    "ID": 142143,
+    "Nome": "Thiago Henrique Gonçalves Silva",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 21,
+    "Camisa": "42",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142143.png"
+  },
+  {
+    "ID": 142144,
+    "Nome": "Lucas Da Silva Justen",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142144.png"
+  },
+  {
+    "ID": 142146,
+    "Nome": "Gustavo Abreu Dohmann",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 20,
+    "Camisa": "52",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/142146.png"
+  },
+  {
+    "ID": 143237,
+    "Nome": "Jhonny Cardinoti Pedro",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 23,
+    "Camisa": "13",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/143237.png"
+  },
+  {
+    "ID": 143385,
+    "Nome": "Jardiel Maciel Libertino Da Silva",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 20,
+    "Camisa": "40",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/143385.png"
+  },
+  {
+    "ID": 143547,
+    "Nome": "João Pedro Da Cruz Oliveira",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/143547.png"
+  },
+  {
+    "ID": 143548,
+    "Nome": "Pablo De Paula Cardoso",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 22,
+    "Camisa": "37",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/143548.png"
+  },
+  {
+    "ID": 143636,
+    "Nome": "Newton Araújo Da Costa Júnior",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 25,
+    "Camisa": "28",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/143636.png"
+  },
+  {
+    "ID": 143655,
+    "Nome": "Thalys Henrique Gomes De Araújo",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DC)",
+    "Idade": 20,
+    "Camisa": "39",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/143655.png"
+  },
+  {
+    "ID": 143675,
+    "Nome": "Kayke Ferrari Guimarães",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 21,
+    "Camisa": "31",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/143675.png"
+  },
+  {
+    "ID": 144007,
+    "Nome": "Kauê Rodrigues Pessanha",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 20,
+    "Camisa": "18",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144007.png"
+  },
+  {
+    "ID": 144670,
+    "Nome": "Lucyan Gabriel Arruda Delgado",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(DC)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144670.png"
+  },
+  {
+    "ID": 144671,
+    "Nome": "Gustavo Prado Alves",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 20,
+    "Camisa": "47",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144671.png"
+  },
+  {
+    "ID": 144795,
+    "Nome": "Vitor Hugo Amorim De Assis",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144795.png"
+  },
+  {
+    "ID": 144798,
+    "Nome": "João Victor Broad Moreira Guimarães",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144798.png"
+  },
+  {
+    "ID": 144799,
+    "Nome": "Roger Gabriel Farias De Jesus",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 18,
+    "Camisa": "80",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144799.png"
+  },
+  {
+    "ID": 144801,
+    "Nome": "Francisco Dyogo Bento Alves",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 21,
+    "Camisa": "49",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144801.png"
+  },
+  {
+    "ID": 144802,
+    "Nome": "Evertton Gustavo Fernandes Araújo",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 22,
+    "Camisa": "52",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144802.png"
+  },
+  {
+    "ID": 144805,
+    "Nome": "Igor Teixeira Felisberto",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144805.png"
+  },
+  {
+    "ID": 144806,
+    "Nome": "Diego Esser Pereira",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144806.png"
+  },
+  {
+    "ID": 144807,
+    "Nome": "Leandro Viana Da Silva Gama",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144807.png"
+  },
+  {
+    "ID": 144809,
+    "Nome": "Lucas Eduardo De Souza Oliveira",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/144809.png"
+  },
+  {
+    "ID": 145444,
+    "Nome": "Fellipe Jack Ozilio Moreira Pacheco",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Itália",
+    "Posição": "D(EC)",
+    "Idade": 19,
+    "Camisa": "15",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/145444.png"
+  },
+  {
+    "ID": 145808,
+    "Nome": "João Pedro Chermont Crema",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(DC)",
+    "Idade": 19,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/145808.png"
+  },
+  {
+    "ID": 145818,
+    "Nome": "João Victor De Souza Menezes",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(E)",
+    "Idade": 18,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/145818.png"
+  },
+  {
+    "ID": 145851,
+    "Nome": "Wanderson Carlos Ferreira Dos Santos",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "61",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/145851.png"
+  },
+  {
+    "ID": 145852,
+    "Nome": "Patrick Roberto Da Silva Campos",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 21,
+    "Camisa": "20",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/145852.png"
+  },
+  {
+    "ID": 145946,
+    "Nome": "Gabriel Ferreira De Carvalho",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 17,
+    "Camisa": "37",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/145946.png"
+  },
+  {
+    "ID": 145949,
+    "Nome": "Mateus José Iseppe",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/145949.png"
+  },
+  {
+    "ID": 146192,
+    "Nome": "Kawan Thomaz Reis De Moraes",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 22,
+    "Camisa": "38",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146192.png"
+  },
+  {
+    "ID": 146193,
+    "Nome": "Yarlen Faustino Augusto",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 19,
+    "Camisa": "67",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146193.png"
+  },
+  {
+    "ID": 146272,
+    "Nome": "Ryan Felipe Dos Santos Silva",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146272.png"
+  },
+  {
+    "ID": 146273,
+    "Nome": "Thierry Henry Santos Souza",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 17,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146273.png"
+  },
+  {
+    "ID": 146277,
+    "Nome": "João Pedro Pantiga Gomes",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 19,
+    "Camisa": "40",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146277.png"
+  },
+  {
+    "ID": 146287,
+    "Nome": "Ricardo Mathias Da Silva",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 18,
+    "Camisa": "49",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146287.png"
+  },
+  {
+    "ID": 146288,
+    "Nome": "Henrique Fabiano Do Carmo",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DC),A(D)",
+    "Idade": 18,
+    "Camisa": "37",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146288.png"
+  },
+  {
+    "ID": 146289,
+    "Nome": "Ryan Francisco Rodrigues Dos Santos",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 18,
+    "Camisa": "49",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146289.png"
+  },
+  {
+    "ID": 146290,
+    "Nome": "Felipe Gabriel Preis",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146290.png"
+  },
+  {
+    "ID": 146293,
+    "Nome": "Yago Eduardo Noal Lopes",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 18,
+    "Camisa": "37",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146293.png"
+  },
+  {
+    "ID": 146347,
+    "Nome": "Sidney De Carvalho Duarte",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146347.png"
+  },
+  {
+    "ID": 146348,
+    "Nome": "Matheus Ferreira Gomes",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146348.png"
+  },
+  {
+    "ID": 146542,
+    "Nome": "Robert Dos Santos Conceição",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146542.png"
+  },
+  {
+    "ID": 146551,
+    "Nome": "Guilherme Meira Ferreira Alves",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(EC)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146551.png"
+  },
+  {
+    "ID": 146868,
+    "Nome": "Gabriel Átila Cardoso Da Silva",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 22,
+    "Camisa": "32",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/146868.png"
+  },
+  {
+    "ID": 147054,
+    "Nome": "Ryan Guilherme Da Silva Pae",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": ""
+  },
+  {
+    "ID": 147058,
+    "Nome": "Yago De Paula Ferreira",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147058.png"
+  },
+  {
+    "ID": 147059,
+    "Nome": "Matheus Henrique Miranda Do Nascimento",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147059.png"
+  },
+  {
+    "ID": 147106,
+    "Nome": "Ryan Roberto De Oliveira Dantas",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(EC)",
+    "Idade": 17,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147106.png"
+  },
+  {
+    "ID": 147107,
+    "Nome": "Pedro Gabriel Crisostomo Pinheiro",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147107.png"
+  },
+  {
+    "ID": 147221,
+    "Nome": "Hyan Carvalho Machado Silva",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 21,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147221.png"
+  },
+  {
+    "ID": 147261,
+    "Nome": "João Vitor Cardoso De Souza",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147261.png"
+  },
+  {
+    "ID": 147400,
+    "Nome": "Guilherme Cachoeira Silveira",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147400.png"
+  },
+  {
+    "ID": 147443,
+    "Nome": "Daniel Henrique Aguiar Mazerochi",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(D)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147443.png"
+  },
+  {
+    "ID": 147447,
+    "Nome": "Jonathan De Jesus Alves",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 21,
+    "Camisa": "34",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147447.png"
+  },
+  {
+    "ID": 147462,
+    "Nome": "Lucas André Silva Da Costa",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147462.png"
+  },
+  {
+    "ID": 147566,
+    "Nome": "Erick Machado Belé",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(C)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147566.png"
+  },
+  {
+    "ID": 147573,
+    "Nome": "João Pedro Murilo De Paula Morais",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 20,
+    "Camisa": "98",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147573.png"
+  },
+  {
+    "ID": 147585,
+    "Nome": "Wesley Santos Silva",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(D)",
+    "Idade": 21,
+    "Camisa": "2",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147585.png"
+  },
+  {
+    "ID": 147613,
+    "Nome": "João Batista Da Cruz Santos Neto",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147613.png"
+  },
+  {
+    "ID": 147616,
+    "Nome": "Hayran Pedro Ferro",
+    "Time": "EC Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": ""
+  },
+  {
+    "ID": 147686,
+    "Nome": "Marcos Venicius Santos Miranda",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 33,
+    "Camisa": "12",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147686.png"
+  },
+  {
+    "ID": 147766,
+    "Nome": "Rômulo Helberte Pereira Júnior",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 21,
+    "Camisa": "47",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147766.png"
+  },
+  {
+    "ID": 147974,
+    "Nome": "Iago Teodoro Da Silva Nogueira",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147974.png"
+  },
+  {
+    "ID": 147975,
+    "Nome": "Wallace Yan De Souza Barreto",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(EC)",
+    "Idade": 20,
+    "Camisa": "64",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147975.png"
+  },
+  {
+    "ID": 147976,
+    "Nome": "Riquelme Freitas Dos Santos",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 18,
+    "Camisa": "59",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/147976.png"
+  },
+  {
+    "ID": 149945,
+    "Nome": "Luis Gustavo Roncholeta Benedetti",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 19,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/149945.png"
+  },
+  {
+    "ID": 149946,
+    "Nome": "Allan Andrade Elias",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 21,
+    "Camisa": "40",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/149946.png"
+  },
+  {
+    "ID": 149947,
+    "Nome": "Paulo Sérgio Venuto Bezerra",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "53",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/149947.png"
+  },
+  {
+    "ID": 150241,
+    "Nome": "Guilherme Estrella De Paiva",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 20,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150241.png"
+  },
+  {
+    "ID": 150482,
+    "Nome": "Leandro Matheus Dos Anjos Conceição De Oliveira",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150482.png"
+  },
+  {
+    "ID": 150501,
+    "Nome": "Carlos André Dos Santos Assunção",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150501.png"
+  },
+  {
+    "ID": 150502,
+    "Nome": "Alexsandro Domingos Santos Filho",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150502.png"
+  },
+  {
+    "ID": 150621,
+    "Nome": "Bruno Lopes Ferreira",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 17,
+    "Camisa": "72",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150621.png"
+  },
+  {
+    "ID": 150923,
+    "Nome": "Felipe Longo Fernandes Da Silva",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "40",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150923.png"
+  },
+  {
+    "ID": 150924,
+    "Nome": "Yago Kauã Rodrigues Gonçalves",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 19,
+    "Camisa": "49",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150924.png"
+  },
+  {
+    "ID": 150925,
+    "Nome": "Jhosefer Raphael Januário",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 21,
+    "Camisa": "21",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150925.png"
+  },
+  {
+    "ID": 150926,
+    "Nome": "Arthur Rodrigues Viana",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 21,
+    "Camisa": "90",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150926.png"
+  },
+  {
+    "ID": 150929,
+    "Nome": "Fábio Soares Dos Santos",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 20,
+    "Camisa": "83",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150929.png"
+  },
+  {
+    "ID": 150930,
+    "Nome": "Caio Albado Barone",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 19,
+    "Camisa": "66",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150930.png"
+  },
+  {
+    "ID": 150931,
+    "Nome": "Daniel Dos Santos Sales",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 18,
+    "Camisa": "51",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150931.png"
+  },
+  {
+    "ID": 150933,
+    "Nome": "Iarley Gilberto De Barros Leal",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 22,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150933.png"
+  },
+  {
+    "ID": 150934,
+    "Nome": "Thiago Beltrame Stallbaum",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150934.png"
+  },
+  {
+    "ID": 150935,
+    "Nome": "Igor Eduardo Schlemper",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 20,
+    "Camisa": "34",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150935.png"
+  },
+  {
+    "ID": 150937,
+    "Nome": "Alysson Edward Franco Da Rocha",
+    "Time": "Grêmio",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 19,
+    "Camisa": "47",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150937.png"
+  },
+  {
+    "ID": 150938,
+    "Nome": "Abner Salles Da Silva",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 21,
+    "Camisa": "23",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150938.png"
+  },
+  {
+    "ID": 150939,
+    "Nome": "Cauê Pereira Da Rocha",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150939.png"
+  },
+  {
+    "ID": 150940,
+    "Nome": "Rafael Oliveira Pinna",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 17,
+    "Camisa": "35",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150940.png"
+  },
+  {
+    "ID": 150942,
+    "Nome": "Igor Odoni Gomes",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 17,
+    "Camisa": "34",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150942.png"
+  },
+  {
+    "ID": 150943,
+    "Nome": "Lucca Pelosi Drummond",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 21,
+    "Camisa": "48",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150943.png"
+  },
+  {
+    "ID": 150944,
+    "Nome": "Cauã Paixão Souza",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/150944.png"
+  },
+  {
+    "ID": 151671,
+    "Nome": "Gilberto Junior Leite Dos Santos",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 20,
+    "Camisa": "76",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/151671.png"
+  },
+  {
+    "ID": 151743,
+    "Nome": "Ruan Pablo Barbosa Sousa",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 16,
+    "Camisa": "52",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/151743.png"
+  },
+  {
+    "ID": 151774,
+    "Nome": "Geilson De Souza Alves",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/151774.png"
+  },
+  {
+    "ID": 151775,
+    "Nome": "João Víctor Vaz Lopes Pinto",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/151775.png"
+  },
+  {
+    "ID": 152105,
+    "Nome": "Isaque Severino Silva",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 18,
+    "Camisa": "37",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/152105.png"
+  },
+  {
+    "ID": 152112,
+    "Nome": "Davi Góes Silva Ferreira Carvalho",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 19,
+    "Camisa": "88",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/152112.png"
+  },
+  {
+    "ID": 152327,
+    "Nome": "Eric Almeida De Melo",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 24,
+    "Camisa": "14",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/152327.png"
+  },
+  {
+    "ID": 152329,
+    "Nome": "Rodrigo Oliveira Dos Santos",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 24,
+    "Camisa": "Desconhecido",
+    "ImageURL": ""
+  },
+  {
+    "ID": 152801,
+    "Nome": "Kauã Wellhington Oliveira Pinto",
+    "Time": "Sporting CP",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 21,
+    "Camisa": "59",
+    "ImageURL": ""
+  },
+  {
+    "ID": 153489,
+    "Nome": "Vitor Dos Santos Figueiredo",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 19,
+    "Camisa": "38",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153489.png"
+  },
+  {
+    "ID": 153490,
+    "Nome": "Deivid Andrade Soares",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153490.png"
+  },
+  {
+    "ID": 153491,
+    "Nome": "Arthur Gabriel Santana Marcolino",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 19,
+    "Camisa": "96",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153491.png"
+  },
+  {
+    "ID": 153492,
+    "Nome": "Ramon Riquelme Felipe Pereira",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 19,
+    "Camisa": "70",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153492.png"
+  },
+  {
+    "ID": 153908,
+    "Nome": "João Rafael Macedo Pereira",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153908.png"
+  },
+  {
+    "ID": 153954,
+    "Nome": "Bernardo Paias Ferreiras",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153954.png"
+  },
+  {
+    "ID": 153955,
+    "Nome": "Gabriel Morais Silva Bontempo",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 20,
+    "Camisa": "49",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153955.png"
+  },
+  {
+    "ID": 153956,
+    "Nome": "Mateus Xavier De Sousa",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 17,
+    "Camisa": "41",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153956.png"
+  },
+  {
+    "ID": 153965,
+    "Nome": "Lyncon Correa Gonçalves",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "33",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153965.png"
+  },
+  {
+    "ID": 153966,
+    "Nome": "Enzo Duscov Boer",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(EC)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/153966.png"
+  },
+  {
+    "ID": 154043,
+    "Nome": "João Victor Schlickmann Carbone",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 20,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154043.png"
+  },
+  {
+    "ID": 154044,
+    "Nome": "Felipe Gabriel Cunha Teresa",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 19,
+    "Camisa": "40",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154044.png"
+  },
+  {
+    "ID": 154045,
+    "Nome": "Guilherme William Silva Inacio",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154045.png"
+  },
+  {
+    "ID": 154047,
+    "Nome": "Tevis Gabriel Alves Santos",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 19,
+    "Camisa": "30",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154047.png"
+  },
+  {
+    "ID": 154048,
+    "Nome": "Tiago Souza De Jesus Carvalho",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154048.png"
+  },
+  {
+    "ID": 154049,
+    "Nome": "Luiz Gustavo Marinho Ribeiro Dos Santos",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 19,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154049.png"
+  },
+  {
+    "ID": 154052,
+    "Nome": "Kauan Jesus Santos Oliveira",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 22,
+    "Camisa": "22",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154052.png"
+  },
+  {
+    "ID": 154053,
+    "Nome": "Evertow Vaz Pereira Da Silva",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154053.png"
+  },
+  {
+    "ID": 154054,
+    "Nome": "Luis Otávio Costa De Aquino",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 18,
+    "Camisa": "39",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154054.png"
+  },
+  {
+    "ID": 154056,
+    "Nome": "Roque Santos De Jesus Júnior",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 23,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154056.png"
+  },
+  {
+    "ID": 154057,
+    "Nome": "José Breno Silva Costa",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154057.png"
+  },
+  {
+    "ID": 154058,
+    "Nome": "Pablo Santos De Alcantara",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154058.png"
+  },
+  {
+    "ID": 154059,
+    "Nome": "Luis Miguel Borges De Paula",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154059.png"
+  },
+  {
+    "ID": 154060,
+    "Nome": "Lawan Kennyd Gabriel Santos",
+    "Time": "EC Vitória",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154060.png"
+  },
+  {
+    "ID": 154065,
+    "Nome": "Mário Vinnicius Souza Rodrigues Silva",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 19,
+    "Camisa": "53",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154065.png"
+  },
+  {
+    "ID": 154590,
+    "Nome": "Kaique Kenji Takamura Correa",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(E),A(EC)",
+    "Idade": 19,
+    "Camisa": "69",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/154590.png"
+  },
+  {
+    "ID": 155957,
+    "Nome": "João Victor De Souza Cunha",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 18,
+    "Camisa": "61",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/155957.png"
+  },
+  {
+    "ID": 156226,
+    "Nome": "Otávio Eleodoro Rezende Costa",
+    "Time": "Cruzeiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 19,
+    "Camisa": "81",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/156226.png"
+  },
+  {
+    "ID": 156227,
+    "Nome": "Caio Vinicius Garcia Guilhen",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 21,
+    "Camisa": "55",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/156227.png"
+  },
+  {
+    "ID": 156610,
+    "Nome": "Henrique Menke Lopes",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/156610.png"
+  },
+  {
+    "ID": 156669,
+    "Nome": "Lucas Dos Santos Ferreira",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 19,
+    "Camisa": "48",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/156669.png"
+  },
+  {
+    "ID": 156696,
+    "Nome": "Matheus Alves Nascimento",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 20,
+    "Camisa": "47",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/156696.png"
+  },
+  {
+    "ID": 157195,
+    "Nome": "Rafael Genuino Lobato",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E),MA(DE)",
+    "Idade": 19,
+    "Camisa": "69",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157195.png"
+  },
+  {
+    "ID": 157196,
+    "Nome": "Wallace Davi Nunes Da Silva Dias",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 18,
+    "Camisa": "55",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157196.png"
+  },
+  {
+    "ID": 157197,
+    "Nome": "Riquelme Felipe Silva De Almeida",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DE)",
+    "Idade": 18,
+    "Camisa": "28",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157197.png"
+  },
+  {
+    "ID": 157199,
+    "Nome": "Marcelo Alixandre Ajul",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 22,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157199.png"
+  },
+  {
+    "ID": 157507,
+    "Nome": "Cristiano Araújo De Moraes Junior",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157507.png"
+  },
+  {
+    "ID": 157508,
+    "Nome": "Vinícius Lima Serafim",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 21,
+    "Camisa": "63",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157508.png"
+  },
+  {
+    "ID": 157509,
+    "Nome": "Carlos Eduardo Coutinho De Goes",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "50",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157509.png"
+  },
+  {
+    "ID": 157510,
+    "Nome": "Guilherme Henrique Bernardineli Gomes",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157510.png"
+  },
+  {
+    "ID": 157511,
+    "Nome": "Kauã Davi Fernandes Braga",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 21,
+    "Camisa": "71",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157511.png"
+  },
+  {
+    "ID": 157512,
+    "Nome": "Frederico Lippert Neto Gomes",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 19,
+    "Camisa": "83",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157512.png"
+  },
+  {
+    "ID": 157513,
+    "Nome": "Wendeson Wanderley Santos De Melo",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 16,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157513.png"
+  },
+  {
+    "ID": 157514,
+    "Nome": "Gustavo Henrique Lacerda Ferreira",
+    "Time": "Mirassol FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157514.png"
+  },
+  {
+    "ID": 157517,
+    "Nome": "Vinicius Rodrigues Lira",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 17,
+    "Camisa": "30",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157517.png"
+  },
+  {
+    "ID": 157518,
+    "Nome": "Luca Oliveira Meirelles",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 18,
+    "Camisa": "79",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157518.png"
+  },
+  {
+    "ID": 157519,
+    "Nome": "Pedro Kauã Rodrigues Machado",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 19,
+    "Camisa": "46",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157519.png"
+  },
+  {
+    "ID": 157520,
+    "Nome": "Victor Gabriel Da Conceição Ribeiro",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 21,
+    "Camisa": "41",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157520.png"
+  },
+  {
+    "ID": 157521,
+    "Nome": "Pablo Pereira Da Costa",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 18,
+    "Camisa": "42",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157521.png"
+  },
+  {
+    "ID": 157522,
+    "Nome": "Bernardo Jacob Ferreira",
+    "Time": "SC Internacional",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 19,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157522.png"
+  },
+  {
+    "ID": 157525,
+    "Nome": "Diego Vitor Costa Dominguez",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 20,
+    "Camisa": "38",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157525.png"
+  },
+  {
+    "ID": 157585,
+    "Nome": "Mateus Amaral Ferreira Guimarães",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157585.png"
+  },
+  {
+    "ID": 157746,
+    "Nome": "José Lucas Gomes Da Silva",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 17,
+    "Camisa": "58",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/157746.png"
+  },
+  {
+    "ID": 159502,
+    "Nome": "Robson Fernandes Dos Santos",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159502.png"
+  },
+  {
+    "ID": 159503,
+    "Nome": "Rafael Barbosa Coutinho",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M,MA(C)",
+    "Idade": 19,
+    "Camisa": "66",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159503.png"
+  },
+  {
+    "ID": 159524,
+    "Nome": "Wesley Lima De Souza",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 17,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159524.png"
+  },
+  {
+    "ID": 159526,
+    "Nome": "Addi Henrique Da Silva Lujete",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159526.png"
+  },
+  {
+    "ID": 159702,
+    "Nome": "Pedro Henrique Bezerra Araujo",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 18,
+    "Camisa": "38",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159702.png"
+  },
+  {
+    "ID": 159703,
+    "Nome": "Pedro Andrade Drozina",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "41",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159703.png"
+  },
+  {
+    "ID": 159704,
+    "Nome": "Maik Gomes Viegas",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 20,
+    "Camisa": "42",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159704.png"
+  },
+  {
+    "ID": 159705,
+    "Nome": "Guilherme Reis Oliveira",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 19,
+    "Camisa": "44",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159705.png"
+  },
+  {
+    "ID": 159706,
+    "Nome": "Hugo Leonardo Nunes Fernandes Santos",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 21,
+    "Camisa": "46",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159706.png"
+  },
+  {
+    "ID": 159707,
+    "Nome": "Lucca Marques Alencar",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "A(C)",
+    "Idade": 17,
+    "Camisa": "45",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159707.png"
+  },
+  {
+    "ID": 159708,
+    "Nome": "Pedro Henrique Ferreira Da Silva",
+    "Time": "São Paulo FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 18,
+    "Camisa": "52",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/159708.png"
+  },
+  {
+    "ID": 160057,
+    "Nome": "Gabriel Dos Santos Da Silva",
+    "Time": "Palmeiras",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": ""
+  },
+  {
+    "ID": 160134,
+    "Nome": "Maykon Kesley De Jesus Ramalho",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160134.png"
+  },
+  {
+    "ID": 160166,
+    "Nome": "Kauan Gabriel Cordeiro Lindes",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 21,
+    "Camisa": "77",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160166.png"
+  },
+  {
+    "ID": 160256,
+    "Nome": "Eduardo Silvino Da Cruz",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160256.png"
+  },
+  {
+    "ID": 160257,
+    "Nome": "Renan Cunha Macedo Santana",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160257.png"
+  },
+  {
+    "ID": 160258,
+    "Nome": "João Marcelo Soares De Freitas",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160258.png"
+  },
+  {
+    "ID": 160259,
+    "Nome": "Lucas Louback Gomes",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 19,
+    "Camisa": "43",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160259.png"
+  },
+  {
+    "ID": 160260,
+    "Nome": "Kauã Oliveira Branco",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160260.png"
+  },
+  {
+    "ID": 160261,
+    "Nome": "Lucyo José Freitas Candeia",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160261.png"
+  },
+  {
+    "ID": 160262,
+    "Nome": "José Ferreira De Sousa Neto",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M,MA(D)",
+    "Idade": 19,
+    "Camisa": "82",
+    "ImageURL": ""
+  },
+  {
+    "ID": 160263,
+    "Nome": "Guilherme Luiz Oliveira Da Silva",
+    "Time": "Ceará SC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 20,
+    "Camisa": "80",
+    "ImageURL": ""
+  },
+  {
+    "ID": 160264,
+    "Nome": "João Vitor Barros Silva",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(D)",
+    "Idade": 18,
+    "Camisa": "59",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160264.png"
+  },
+  {
+    "ID": 160265,
+    "Nome": "Felipe Vieira Da Silva",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "63",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160265.png"
+  },
+  {
+    "ID": 160266,
+    "Nome": "Fabiano Henrique Alves Dos Santos",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 19,
+    "Camisa": "42",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160266.png"
+  },
+  {
+    "ID": 160267,
+    "Nome": "João Victor Alves Ferreira",
+    "Time": "CR Flamengo",
+    "Nacionalidade": "Brasil",
+    "Posição": "M,MA(C)",
+    "Idade": 20,
+    "Camisa": "50",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160267.png"
+  },
+  {
+    "ID": 160269,
+    "Nome": "Pedro Victor Da Silva Santos",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 21,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160269.png"
+  },
+  {
+    "ID": 160270,
+    "Nome": "Edivan Vitor Da Silva Junior",
+    "Time": "EC Bahia",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160270.png"
+  },
+  {
+    "ID": 160272,
+    "Nome": "Davi Duarte Schuindt",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 21,
+    "Camisa": "40",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160272.png"
+  },
+  {
+    "ID": 160274,
+    "Nome": "Davi Medeiros Serrano Lira",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "41",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160274.png"
+  },
+  {
+    "ID": 160275,
+    "Nome": "Adriel Gomes Do Nascimento",
+    "Time": "Sport Recife",
+    "Nacionalidade": "Brasil",
+    "Posição": "MD,M(C)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160275.png"
+  },
+  {
+    "ID": 160276,
+    "Nome": "Lukas Rocha Zuccarello",
+    "Time": "Vasco da Gama",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC)",
+    "Idade": 18,
+    "Camisa": "30",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160276.png"
+  },
+  {
+    "ID": 160350,
+    "Nome": "Kayke Gouvêa Queiroz",
+    "Time": "Botafogo FR",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 18,
+    "Camisa": "19",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160350.png"
+  },
+  {
+    "ID": 160469,
+    "Nome": "Kauê Vinicius De Souza Camargo",
+    "Time": "Corinthians",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 21,
+    "Camisa": "51",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160469.png"
+  },
+  {
+    "ID": 160688,
+    "Nome": "João Victor Dos Santos Alves",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 17,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160688.png"
+  },
+  {
+    "ID": 160689,
+    "Nome": "Diego Henrique Borges Da Silva",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD(C)",
+    "Idade": 20,
+    "Camisa": "57",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160689.png"
+  },
+  {
+    "ID": 160690,
+    "Nome": "Samuel Lima Barros",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(EC)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160690.png"
+  },
+  {
+    "ID": 160691,
+    "Nome": "Nadson Juan Maia Da Silva De Souza",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 16,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160691.png"
+  },
+  {
+    "ID": 160692,
+    "Nome": "Pedro Paulo Manoel Fermino",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DEC)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160692.png"
+  },
+  {
+    "ID": 160693,
+    "Nome": "Robson De Souza Junior",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DEC),A(DE)",
+    "Idade": 17,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160693.png"
+  },
+  {
+    "ID": 160694,
+    "Nome": "Rodrigo Cezar Pereira Ribeiro",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA,A(DEC)",
+    "Idade": 18,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160694.png"
+  },
+  {
+    "ID": 160695,
+    "Nome": "Lucas Yan Basile Ferreira",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DC)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160695.png"
+  },
+  {
+    "ID": 160696,
+    "Nome": "Matheus Lima De Almeida",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "M(C),MA(DC)",
+    "Idade": 19,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160696.png"
+  },
+  {
+    "ID": 160697,
+    "Nome": "Rodrigo Plazezwski Falcão",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/160697.png"
+  },
+  {
+    "ID": 160880,
+    "Nome": "Emerson Mendes De Carvalho",
+    "Time": "Juventude",
+    "Nacionalidade": "Brasil",
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 25,
+    "Camisa": "18",
+    "ImageURL": ""
+  },
+  {
+    "ID": 161077,
+    "Nome": "Leonardo De Oliveira Jance",
+    "Time": "Fluminense",
+    "Nacionalidade": "Brasil",
+    "Posição": "D,MD,M(E)",
+    "Idade": 20,
+    "Camisa": "66",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/161077.png"
+  },
+  {
+    "ID": 161207,
+    "Nome": "Robert Pinto Alves Assunção",
+    "Time": "Atlético Mineiro",
+    "Nacionalidade": "Brasil",
+    "Posição": "G",
+    "Idade": 20,
+    "Camisa": "31",
+    "ImageURL": ""
+  },
+  {
+    "ID": 161809,
+    "Nome": "Gustavo Henrique Pereira",
+    "Time": "Santos FC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(D),MD,M(DC)",
+    "Idade": 20,
+    "Camisa": "Desconhecido",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/161809.png"
+  },
+  {
+    "ID": 161844,
+    "Nome": "Gustavo Teixeira Lopes Da Conceição",
+    "Time": "Fortaleza EC",
+    "Nacionalidade": "Brasil",
+    "Posição": "D(C)",
+    "Idade": 20,
+    "Camisa": "39",
+    "ImageURL": "https://cdn.soccerwiki.org/images/player/161844.png"
+  }
+]

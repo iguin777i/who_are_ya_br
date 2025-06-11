@@ -1,0 +1,131 @@
+{
+    "PlayerData": [
+        {
+            "ID": 294,
+            "Name": "CR Flamengo",
+            "ShortName": "FLA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/294.png"
+        },
+        {
+            "ID": 298,
+            "Name": "SC Internacional",
+            "ShortName": "INT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/298.png"
+        },
+        {
+            "ID": 292,
+            "Name": "Cruzeiro",
+            "ShortName": "CRZ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/292.png"
+        },
+        {
+            "ID": 1447,
+            "Name": "RB Bragantino",
+            "ShortName": "RBB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1447.png"
+        },
+        {
+            "ID": 300,
+            "Name": "Palmeiras",
+            "ShortName": "PAL",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/300.png"
+        },
+        {
+            "ID": 304,
+            "Name": "Santos FC",
+            "ShortName": "SFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/304.png"
+        },
+        {
+            "ID": 295,
+            "Name": "Fluminense",
+            "ShortName": "FLU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/295.png"
+        },
+        {
+            "ID": 288,
+            "Name": "Botafogo FR",
+            "ShortName": "BOT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/288.png"
+        },
+        {
+            "ID": 1473,
+            "Name": "EC Bahia",
+            "ShortName": "BAH",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1473.png"
+        },
+        {
+            "ID": 2813,
+            "Name": "Mirassol FC",
+            "ShortName": "MIR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2813.png"
+        },
+        {
+            "ID": 286,
+            "Name": "Atlético Mineiro",
+            "ShortName": "CAM",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/286.png"
+        },
+        {
+            "ID": 1458,
+            "Name": "Ceará SC",
+            "ShortName": "CEA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1458.png"
+        },
+        {
+            "ID": 290,
+            "Name": "Corinthians",
+            "ShortName": "COR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/290.png"
+        },
+        {
+            "ID": 602,
+            "Name": "Grêmio",
+            "ShortName": "GRÊ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/602.png"
+        },
+        {
+            "ID": 306,
+            "Name": "São Paulo FC",
+            "ShortName": "SP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/306.png"
+        },
+        {
+            "ID": 307,
+            "Name": "Vasco da Gama",
+            "ShortName": "VAS",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/307.png"
+        },
+        {
+            "ID": 3040,
+            "Name": "Vitoria da Conquista",
+            "ShortName": "VC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3040.jpg"
+        },
+        {
+            "ID": 296,
+            "Name": "Fortaleza EC",
+            "ShortName": "FOR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/296.png"
+        },
+        {
+            "ID": 299,
+            "Name": "Juventude",
+            "ShortName": "JUV",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/299.png"
+        },
+        {
+            "ID": 923,
+            "Name": "Sport Recife",
+            "ShortName": "SPO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/923.png"
+        },
+        {
+            "ID": 1237,
+            "Name": "EC Vitória",
+            "ShortName": "VTO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1237.png"
+        }
+    ]
+
+}

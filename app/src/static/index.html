@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who Are Ya? Brasileirão</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="logo">
+            <img src="./images/logo/logo.svg" alt="">
+        </div>
+        <nav class="nav">
+            <button class="nav-toggle" id="nav-toggle">
+                <span class="hamburger"></span>
+                <span class="hamburger"></span>
+                <span class="hamburger"></span>
+            </button>
+            <div class="nav-dropdown" id="nav-dropdown">
+                <a href="#" id="instructions-link">Instruções</a>
+                <a href="#" id="new-game-link">Novo Jogo</a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Game Area -->
+    <main class="main-game">
+        <!-- Player Guess Section -->
+        <section class="player-guess">
+            <h2 class="player-guess-title">
+                <span class="star-icon"><img src="images/logo/logo-gradient.svg" alt="logo"></span>
+                Who Are Ya? Brasileirão
+            </h2>
+
+            <div class="guess-card">
+                <div class="player-info">
+                    <div id="mysteryPlayer" class="mystery-player">
+                        <div class="question-mark">?</div>
+                    </div>
+                    <div id="country-flag" class="country-flag">
+                        <div class="hint-content">
+                            <img src="" alt="" class="flag-icon">
+                        </div>
+                    </div>
+                    <div id="team-logo" class="team-logo">
+                        <div class="hint-content">
+                            <img src="" alt="" class="team-icon">
+                        </div>
+                    </div>
+                    <div id="player-position" class="player-position">
+                        <div class="hint-content">
+                            <span class="hint-text"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <section class="search-section">
+                    <div class="search-container">
+                        <input type="text" id="playerSearch" placeholder="Digite o nome do jogador..."
+                            autocomplete="off" class="player-search-input">
+                        <div id="suggestionsDropdown" class="suggestions-dropdown"></div>
+                    </div>
+                </section>
+
+                <div class="hint-buttons">
+                    <button id="hintButton" class="hint-button">
+                        <span class="hint-icon">💡</span>
+                        Dica
+                    </button>
+                    <button id="viewPhotoButton" class="hint-button-photo">
+                        <span class="hint-icon">📸</span>
+                        Ver Foto
+                    </button>
+                </div>
+            </div>
+
+            <section class="player-attempts">
+                <div id="attemptsList" class="attempts-list">
+                    <!-- Tentativas serão adicionadas aqui dinamicamente -->
+                </div>
+            </section>
+        </section>
+    </main>
+
+    <!-- Player Attempts Section -->
+
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay hidden">
+        <div class="loading-spinner"></div>
+        <p>Carregando...</p>
+    </div>
+
+    <!-- Game State -->
+    <div id="game-state" class="hidden">
+        <span id="session-id"></span>
+        <span id="attempts-left">8</span>
+        <span id="hints-left">2</span>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
