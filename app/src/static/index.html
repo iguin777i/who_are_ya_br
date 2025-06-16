@@ -22,11 +22,24 @@
                 <span class="hamburger"></span>
             </button>
             <div class="nav-dropdown" id="nav-dropdown">
-                <a href="#" id="instructions-link">Instruções</a>
+                <a href="#" id="btnInstrucoes">Instruções</a>
                 <a href="#" id="new-game-link">Novo Jogo</a>
             </div>
         </nav>
     </header>
+
+    <div id="modalInstrucoes" class="modal hidden">
+        <div class="modal-content">
+          <span id="fecharModal" class="close">&times;</span>
+          <h2>Como jogar</h2>
+          <p>Seu objetivo é adivinhar o jogador do Brasileirão com base nas dicas dadas a cada tentativa.</p>
+          <ul>
+            <li>Você terá 8 tentativas.</li>
+            <li>Após cada palpite, você receberá dicas se está mais próximo ou não.</li>
+            <li>Use os dados como posição, time, idade, etc.</li>
+          </ul>
+        </div>
+      </div>
 
     <!-- Main Game Area -->
     <main class="main-game">
@@ -103,6 +116,7 @@
     </div>
 
     <script src="script.js"></script>
+    <script src="js-modal/modal.js"></script>
 </body>
 
 </html>
