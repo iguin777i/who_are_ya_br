@@ -173,7 +173,9 @@ def make_guess():
     # Find the guessed player
     guessed_player = None
     for player in players_data:
-        if remove_accents(player['Nome']).lower() == remove_accents(guess_name).lower():
+        # Usar NomeCamisa se disponível, senão usar Nome
+        search_name = player['NomeCamisa'] if player['NomeCamisa'] else player['Nome']
+        if remove_accents(search_name).lower() == remove_accents(guess_name).lower():
             guessed_player = player
             break
     
@@ -190,9 +192,13 @@ def make_guess():
     position_icon_filename = position_icons.get(first_position_code, '') # Default to empty if not found
     position_icon_url = f'/static/images/icon-posicao/{position_icon_filename}' if position_icon_filename else ''
 
+    # Usar NomeCamisa se disponível, senão usar Nome para exibição
+    display_name = guessed_player['NomeCamisa'] if guessed_player['NomeCamisa'] else guessed_player['Nome']
+    correct_display_name = correct_player['NomeCamisa'] if correct_player['NomeCamisa'] else correct_player['Nome']
+
     # Compare attributes
     comparison = {
-        'name': guessed_player['Nome'],
+        'name': display_name,
         'team': guessed_player['Time'],
         'team_logo': teams_data.get(guessed_player['Time'], {}).get('ImageURL', ''),
         'nationality': guessed_player['Nacionalidade'],
@@ -202,7 +208,7 @@ def make_guess():
         'age': guessed_player['Idade'],
         'shirt_number': guessed_player['Camisa'],
         'correct': {
-            'name': guessed_player['Nome'] == correct_player['Nome'],
+            'name': display_name == correct_display_name,
             'team': guessed_player['Time'] == correct_player['Time'],
             'nationality': guessed_player['Nacionalidade'] == correct_player['Nacionalidade'],
             'position': guessed_player['Posição'] == correct_player['Posição'],
@@ -218,7 +224,7 @@ def make_guess():
     session['guesses'].append(comparison)
     
     # Check if won
-    if guessed_player['Nome'] == correct_player['Nome']:
+    if display_name == correct_display_name:
         session['won'] = True
         session['game_over'] = True
     elif session['attempts'] >= session['max_attempts']:
@@ -333,18 +339,19 @@ def search_players():
     
     matches = []
     for player in players_data:
-        # Remove acentos do nome do jogador
-        nome_sem_acentos = remove_accents(player['Nome'])
-        nome_completo = nome_sem_acentos.lower()
-        sobrenomes = nome_completo.split()[1:]  # Pega todos os nomes exceto o primeiro
+        # Usar NomeCamisa se disponível, senão usar Nome
+        search_name = player['NomeCamisa'] if player['NomeCamisa'] else player['Nome']
         
-        # Verifica se a query está no nome completo ou em algum sobrenome
-        if (query in nome_completo or 
-            any(query in sobrenome for sobrenome in sobrenomes)):
+        # Remove acentos do nome da camisa do jogador
+        nome_sem_acentos = remove_accents(search_name)
+        nome_completo = nome_sem_acentos.lower()
+        
+        # Verifica se a query está no nome da camisa
+        if query in nome_completo:
             matches.append({
-                'name': player['Nome'],
+                'name': search_name,
                 'team': player['Time'],
-                'display': f"{player['Nome']} ({player['Time']})"
+                'display': f"{search_name} ({player['Time']})"
             })
     
     return jsonify(matches[:10])  # Limit to 10 results

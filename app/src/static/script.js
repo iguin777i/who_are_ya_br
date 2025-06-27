@@ -23,6 +23,13 @@ const elements = {
     currentAttempt: document.getElementById('current-attempt'),
     viewPhotoButton: document.getElementById('viewPhotoButton'),
 
+    // Player display elements
+    playerNameDisplay: document.getElementById('playerNameDisplay'),
+    playerTeamDisplay: document.getElementById('playerTeamDisplay'),
+    playerPositionDisplay: document.getElementById('playerPositionDisplay'),
+    playerAgeDisplay: document.getElementById('playerAgeDisplay'),
+    playerShirtNumberDisplay: document.getElementById('playerShirtNumberDisplay'),
+
     // Sidebar and attempts
     hintsSidebar: document.getElementById('hints-sidebar'),
     hintsList: document.getElementById('hints-list'),
@@ -298,6 +305,9 @@ async function handleSubmit() {
             // Atualizar contador de tentativas
             gameState.attempts = data.attempts_left;
 
+            // Atualizar as informações do último jogador escolhido
+            updatePlayerDisplay(data.comparison);
+
             // Verificar se o jogo acabou
             if (data.game_over) {
                 if (data.won) {
@@ -457,6 +467,14 @@ async function startNewGame() {
                 teamLogo.classList.remove('hint-active', 'text-hint');
                 teamLogo.innerHTML = '';
             }
+
+            // Resetar informações do jogador exibidas
+            if (elements.playerNameDisplay) elements.playerNameDisplay.textContent = '';
+            if (elements.playerTeamDisplay) elements.playerTeamDisplay.src = '';
+            if (elements.playerTeamDisplay) elements.playerTeamDisplay.alt = '';
+            if (elements.playerPositionDisplay) elements.playerPositionDisplay.innerHTML = '';
+            if (elements.playerAgeDisplay) elements.playerAgeDisplay.textContent = '';
+            if (elements.playerShirtNumberDisplay) elements.playerShirtNumberDisplay.textContent = '';
 
             // Reset mystery player image to question mark
             const mysteryPlayerDiv = elements.mysteryPlayer;
@@ -680,7 +698,7 @@ function showGameOver(won, correctPlayer) {
     playerInfo.className = 'correct-player-info';
     playerInfo.innerHTML = `
         <h3>O jogador era:</h3>
-        <p>${correctPlayer.Nome}</p>
+        <p>${correctPlayer.NomeCamisa || correctPlayer.Nome}</p>
         <p>${correctPlayer.Time}</p>
         <p>${correctPlayer.Posição}</p>
         <p>${correctPlayer.Nacionalidade}</p>
@@ -896,4 +914,27 @@ function toggleGameInteractions(enable) {
     if (elements.playerSearch) elements.playerSearch.disabled = !enable;
     if (elements.hintButton) elements.hintButton.disabled = !enable;
     if (elements.submitButton) elements.submitButton.disabled = !enable;
+}
+
+// Função para atualizar as informações do jogador exibidas
+function updatePlayerDisplay(playerInfo) {
+    if (elements.playerNameDisplay) {
+        elements.playerNameDisplay.textContent = playerInfo.name;
+    }
+    if (elements.playerTeamDisplay) {
+        const teamLogoImg = elements.playerTeamDisplay.querySelector('img');
+        if (teamLogoImg) {
+            teamLogoImg.src = playerInfo.team_logo;
+            teamLogoImg.alt = playerInfo.team;
+        }
+    }
+    if (elements.playerPositionDisplay) {
+        elements.playerPositionDisplay.innerHTML = `<img src="/static/images/icon-posicao/${getPositionIcon(playerInfo.position)}" alt="${playerInfo.position}" class="position-icon" />`;
+    }
+    if (elements.playerAgeDisplay) {
+        elements.playerAgeDisplay.textContent = playerInfo.age;
+    }
+    if (elements.playerShirtNumberDisplay) {
+        elements.playerShirtNumberDisplay.textContent = playerInfo.shirt_number;
+    }
 }

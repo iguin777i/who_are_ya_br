@@ -2,6 +2,7 @@
   {
     "ID": 2704,
     "Nome": "Ânderson Luís De Carvalho",
+    "NomeCamisa": "NENÊ",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(C)",
@@ -12,6 +13,7 @@
   {
     "ID": 3690,
     "Nome": "Fábio Deivson Lopes Maciel",
+    "NomeCamisa": "FÁBIO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -22,6 +24,7 @@
   {
     "ID": 18237,
     "Nome": "Cássio Ramos",
+    "NomeCamisa": "CÁSSIO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -32,16 +35,18 @@
   {
     "ID": 18276,
     "Nome": "Fágner Conserva Lemos",
-    "Time": "Cruzeiro",
+    "NomeCamisa": "FÁGNER",
+    "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
-    "Idade": 35,
+    "Idade": 36,
     "Camisa": "23",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/18276.png"
   },
   {
     "ID": 18281,
     "Nome": "Renato Soares De Oliveira Augusto",
+    "NomeCamisa": "R. AUGUSTO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -52,6 +57,7 @@
   {
     "ID": 18338,
     "Nome": "Thiago Emiliano Da Silva",
+    "NomeCamisa": "T. SILVA",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -62,6 +68,7 @@
   {
     "ID": 22645,
     "Nome": "David Luiz Moreira Marinho",
+    "NomeCamisa": "DAVID LUIZ",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -72,6 +79,7 @@
   {
     "ID": 25268,
     "Nome": "Fernando Francisco Reges",
+    "NomeCamisa": "FERNANDO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -82,6 +90,7 @@
   {
     "ID": 27889,
     "Nome": "David Braz De Oliveira Filho",
+    "NomeCamisa": "BRAZ",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -90,18 +99,9 @@
     "ImageURL": "https://cdn.soccerwiki.org/images/player/27889.png"
   },
   {
-    "ID": 27979,
-    "Nome": "Cristian Chagas Tarouco",
-    "Time": "Fortaleza EC",
-    "Nacionalidade": "Brasil",
-    "Posição": "D(C)",
-    "Idade": 37,
-    "Camisa": "4",
-    "ImageURL": "https://cdn.soccerwiki.org/images/player/27979.png"
-  },
-  {
     "ID": 32347,
     "Nome": "Éverton Augusto De Barros Ribeiro",
+    "NomeCamisa": "É. RIBEIRO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -112,6 +112,7 @@
   {
     "ID": 32901,
     "Nome": "Alex Teixeira Santos",
+    "NomeCamisa": "ALEX TEIXEIRA",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -122,6 +123,7 @@
   {
     "ID": 32959,
     "Nome": "Luiz Gustavo Dias",
+    "NomeCamisa": "GUSTAVO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -132,6 +134,7 @@
   {
     "ID": 33533,
     "Nome": "Paulo Henrique Chagas De Lima",
+    "NomeCamisa": "GANSO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -142,6 +145,7 @@
   {
     "ID": 33654,
     "Nome": "Givanildo Vieira Da Sousa",
+    "NomeCamisa": "HULK",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -152,6 +156,7 @@
   {
     "ID": 34945,
     "Nome": "Maicon Pereira Roque",
+    "NomeCamisa": "MAICON",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -162,6 +167,7 @@
   {
     "ID": 38457,
     "Nome": "Neymar Da Silva Santos Júnior",
+    "NomeCamisa": "NEYMAR JR",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(EC)",
@@ -172,6 +178,7 @@
   {
     "ID": 38535,
     "Nome": "Oscar Dos Santos Emboaba Júnior",
+    "NomeCamisa": "OSCAR",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(EC)",
@@ -182,6 +189,7 @@
   {
     "ID": 41049,
     "Nome": "Igor Medeiros De Melo Alves",
+    "NomeCamisa": "ALVES",
     "Time": "Fluminense de Feira",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(EC)",
@@ -192,6 +200,7 @@
   {
     "ID": 41184,
     "Nome": "Marcos Luis Rocha Aquino",
+    "NomeCamisa": "M.ROCHA",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC),MD,M(D)",
@@ -202,16 +211,18 @@
   {
     "ID": 41229,
     "Nome": "Carlos Gilberto Nascimento Silva",
+    "NomeCamisa": "GIL",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
-    "Idade": 37,
+    "Idade": 38,
     "Camisa": "4",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/41229.png"
   },
   {
     "ID": 41232,
     "Nome": "Manoel Messias Silva Carvalho",
+    "NomeCamisa": "MANOEL",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -222,6 +233,7 @@
   {
     "ID": 41233,
     "Nome": "Alex Sandro Lobo Silva",
+    "NomeCamisa": "ALEX SANDRO",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC),MD,M(E)",
@@ -232,6 +244,7 @@
   {
     "ID": 41289,
     "Nome": "Carlos Eduardo De Oliveira Alves",
+    "NomeCamisa": "EDUARDO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA,A(C)",
@@ -242,6 +255,7 @@
   {
     "ID": 41290,
     "Nome": "Welker Marçal Almeida",
+    "NomeCamisa": "KIEZA",
     "Time": "Fluminense de Feira",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -252,6 +266,7 @@
   {
     "ID": 41517,
     "Nome": "Eduardo Pereira Rodrigues",
+    "NomeCamisa": "DUDU",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -262,6 +277,7 @@
   {
     "ID": 42980,
     "Nome": "Tiago Da Silva Dutra",
+    "NomeCamisa": "DUTRA",
     "Time": "EC Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -272,6 +288,7 @@
   {
     "ID": 43203,
     "Nome": "Osvaldo Lourenço Filho",
+    "NomeCamisa": "OSVALDO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -282,6 +299,7 @@
   {
     "ID": 43625,
     "Nome": "Marcelo Lomba Do Nascimento",
+    "NomeCamisa": "LOMBA",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -292,6 +310,7 @@
   {
     "ID": 43627,
     "Nome": "Mário Sérgio Santos Costa",
+    "NomeCamisa": "MARINHO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -302,6 +321,7 @@
   {
     "ID": 43658,
     "Nome": "Willian José Da Silva",
+    "NomeCamisa": "WILLIAN J.",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -312,6 +332,7 @@
   {
     "ID": 43661,
     "Nome": "Alan Patrick Lourenço",
+    "NomeCamisa": "PATRICK",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -322,6 +343,7 @@
   {
     "ID": 43672,
     "Nome": "Rafael Pires Monteiro",
+    "NomeCamisa": "RAFAEL",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -332,6 +354,7 @@
   {
     "ID": 43684,
     "Nome": "Allan Marques Loureiro",
+    "NomeCamisa": "ALLAN",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -342,6 +365,7 @@
   {
     "ID": 44614,
     "Nome": "Danilo Luiz Da Silva",
+    "NomeCamisa": "DANILO",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(DEC)",
@@ -352,6 +376,7 @@
   {
     "ID": 45099,
     "Nome": "Lucas Pacheco Affini",
+    "NomeCamisa": "LUCAS SASHA",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(C)",
@@ -362,6 +387,7 @@
   {
     "ID": 45408,
     "Nome": "Lucas Rodrigues Moura Da Silva",
+    "NomeCamisa": "LUCAS MOURA",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -372,6 +398,7 @@
   {
     "ID": 46024,
     "Nome": "Bruno Uvini Bortolança",
+    "NomeCamisa": "UVINI",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -382,6 +409,7 @@
   {
     "ID": 46511,
     "Nome": "Felipe Anderson Pereira Gomes",
+    "NomeCamisa": "FELIPE",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -392,6 +420,7 @@
   {
     "ID": 47457,
     "Nome": "Éverson Felipe Marques Pires",
+    "NomeCamisa": "ÉVERSON",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -402,6 +431,7 @@
   {
     "ID": 47936,
     "Nome": "Wéverton Pereira Da Silva",
+    "NomeCamisa": "WÉVERTON",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -412,6 +442,7 @@
   {
     "ID": 48539,
     "Nome": "Pablo Nascimento Castro",
+    "NomeCamisa": "PABLO",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -422,6 +453,7 @@
   {
     "ID": 48548,
     "Nome": "Diogo Barbosa Mendanha",
+    "NomeCamisa": "DIOGO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -432,6 +464,7 @@
   {
     "ID": 48705,
     "Nome": "Gabriel Vasconcelos Ferreira",
+    "NomeCamisa": "GABRIEL",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -442,6 +475,7 @@
   {
     "ID": 50707,
     "Nome": "Gilberto Oliveira Souza Júnior",
+    "NomeCamisa": "GILBERTO",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -452,6 +486,7 @@
   {
     "ID": 50827,
     "Nome": "Gabriel Santana Pinto",
+    "NomeCamisa": "GABRIEL",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD(C),M,MA(DC)",
@@ -462,6 +497,7 @@
   {
     "ID": 51186,
     "Nome": "Bernard Anício Caldeira Duarte",
+    "NomeCamisa": "BERNARD",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -472,6 +508,7 @@
   {
     "ID": 51238,
     "Nome": "Edenílson Andrade Dos Santos",
+    "NomeCamisa": "EDENÍLSON",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(DC)",
@@ -482,6 +519,7 @@
   {
     "ID": 52042,
     "Nome": "Pablo Felipe Teixeira",
+    "NomeCamisa": "PABLO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -492,6 +530,7 @@
   {
     "ID": 53805,
     "Nome": "Danilo Fernandes Batista",
+    "NomeCamisa": "DANILO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -502,6 +541,7 @@
   {
     "ID": 54606,
     "Nome": "Aderbar Melo Dos Santos Neto",
+    "NomeCamisa": "SANTOS",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -512,16 +552,18 @@
   {
     "ID": 55225,
     "Nome": "Pedro Henrique Konzen Medina Da Silva",
+    "NomeCamisa": "HENRIQUE",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
-    "Idade": 34,
+    "Idade": 35,
     "Camisa": "7",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/55225.png"
   },
   {
     "ID": 55794,
     "Nome": "Fernando Marçal De Oliveira",
+    "NomeCamisa": "MARÇAL",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC),MD,M(E)",
@@ -532,6 +574,7 @@
   {
     "ID": 56449,
     "Nome": "Antônio Carlos Cunha Capocasali Júnior",
+    "NomeCamisa": "ANTÔNIO CARLOS",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -542,6 +585,7 @@
   {
     "ID": 56452,
     "Nome": "Renê Rodrigues Martins",
+    "NomeCamisa": "RENÊ",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -552,6 +596,7 @@
   {
     "ID": 57600,
     "Nome": "Reinaldo Manoel Da Silva",
+    "NomeCamisa": "REINALDO",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -562,6 +607,7 @@
   {
     "ID": 58345,
     "Nome": "João Felipe Schmidt Urbano",
+    "NomeCamisa": "JOÃO SCHMIDT",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -572,6 +618,7 @@
   {
     "ID": 58420,
     "Nome": "Marllon Gonçalves Jerônimo Borges",
+    "NomeCamisa": "MARLLON",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -582,6 +629,7 @@
   {
     "ID": 58678,
     "Nome": "Jádson Alves Dos Santos",
+    "NomeCamisa": "JÁDSON",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -592,6 +640,7 @@
   {
     "ID": 59048,
     "Nome": "Victor Luís Chuab Zamblauskas",
+    "NomeCamisa": "VICTOR LUÍS",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(E)",
@@ -602,6 +651,7 @@
   {
     "ID": 59072,
     "Nome": "Everaldo Stum",
+    "NomeCamisa": "EVERALDO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -612,6 +662,7 @@
   {
     "ID": 59230,
     "Nome": "Fernando Miguel Kaufmann",
+    "NomeCamisa": "FERNANDO MIGUEL",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -622,6 +673,7 @@
   {
     "ID": 59392,
     "Nome": "Gustavo Henrique Vernes",
+    "NomeCamisa": "G. HENRIQUE",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -632,6 +684,7 @@
   {
     "ID": 61199,
     "Nome": "Lucas Silva Borges",
+    "NomeCamisa": "LUCAS SILVA",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -642,6 +695,7 @@
   {
     "ID": 61411,
     "Nome": "Jean Mota Oliveira De Sousa",
+    "NomeCamisa": "JEAN MOTA",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -652,6 +706,7 @@
   {
     "ID": 61492,
     "Nome": "Cléber Janderson Pereira Reis",
+    "NomeCamisa": "C. REIS",
     "Time": "Vitória FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -662,6 +717,7 @@
   {
     "ID": 61718,
     "Nome": "Rodrigo Ely",
+    "NomeCamisa": "RODRIGO ELY",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -672,6 +728,7 @@
   {
     "ID": 61745,
     "Nome": "Rafael Da Silva",
+    "NomeCamisa": "SILVA",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(C)",
@@ -682,6 +739,7 @@
   {
     "ID": 64058,
     "Nome": "Glaybson Yago Souza Lisboa",
+    "NomeCamisa": "PIKACHU",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(D)",
@@ -692,6 +750,7 @@
   {
     "ID": 64199,
     "Nome": "Alex Nicolao Telles",
+    "NomeCamisa": "ALEX TELLES",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -702,6 +761,7 @@
   {
     "ID": 64583,
     "Nome": "Gilberto Moraes Junior",
+    "NomeCamisa": "GILBERTO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -712,6 +772,7 @@
   {
     "ID": 64753,
     "Nome": "Igor Caique Coronado",
+    "NomeCamisa": "CORONADO",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -722,6 +783,7 @@
   {
     "ID": 64832,
     "Nome": "Matheus Lima Magalhães",
+    "NomeCamisa": "MATHEUS",
     "Time": "Sporting de Braga",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -732,6 +794,7 @@
   {
     "ID": 64841,
     "Nome": "Samuel Xavier Brito",
+    "NomeCamisa": "SAMUEL XAVIER",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -742,6 +805,7 @@
   {
     "ID": 64855,
     "Nome": "Wanderson Maciel Sousa Campos",
+    "NomeCamisa": "WANDERSON",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -752,6 +816,7 @@
   {
     "ID": 65108,
     "Nome": "Leonardo Cittadini",
+    "NomeCamisa": "LÉO CITTADINI",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -762,6 +827,7 @@
   {
     "ID": 65387,
     "Nome": "Deyverson Brum Silva Acosta",
+    "NomeCamisa": "DEYVERSON",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -772,6 +838,7 @@
   {
     "ID": 65767,
     "Nome": "Mayke Rocha De Oliveira",
+    "NomeCamisa": "MAYKE",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(D)",
@@ -782,6 +849,7 @@
   {
     "ID": 67750,
     "Nome": "André Ramalho Da Silva",
+    "NomeCamisa": "RAMALHO",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -792,6 +860,7 @@
   {
     "ID": 67783,
     "Nome": "Lucas Evangelista Santana De Oliveira",
+    "NomeCamisa": "EVANGELISTA",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -802,6 +871,7 @@
   {
     "ID": 67850,
     "Nome": "João Ricardo Riedi",
+    "NomeCamisa": "JOÃO RICARDO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -812,6 +882,7 @@
   {
     "ID": 68166,
     "Nome": "Gabriel Barbosa Almeida",
+    "NomeCamisa": "GABI",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(D),A(DC)",
@@ -822,6 +893,7 @@
   {
     "ID": 68223,
     "Nome": "Lucas Rafael Araújo Lima",
+    "NomeCamisa": "LUCAS LIMA",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -832,6 +904,7 @@
   {
     "ID": 68224,
     "Nome": "Augusto César Dos Santos Moreira",
+    "NomeCamisa": "CÉSAR",
     "Time": "EC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -842,6 +915,7 @@
   {
     "ID": 68451,
     "Nome": "Alisson Euler De Freitas Castro",
+    "NomeCamisa": "ALISSON",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -852,16 +926,18 @@
   {
     "ID": 68908,
     "Nome": "José Rafael Vivian",
+    "NomeCamisa": "ZÉ RAFAEL",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
-    "Idade": 31,
+    "Idade": 32,
     "Camisa": "8",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/68908.png"
   },
   {
     "ID": 68935,
     "Nome": "Bruno Henrique Corsini",
+    "NomeCamisa": "HENRIQUE",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -872,6 +948,7 @@
   {
     "ID": 68986,
     "Nome": "Willian Osmar De Oliveira Silva",
+    "NomeCamisa": "WILLIAN",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -882,6 +959,7 @@
   {
     "ID": 68992,
     "Nome": "Luiz Gustavo Almeida Pinto",
+    "NomeCamisa": "LUIZ GUSTAVO",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -892,6 +970,7 @@
   {
     "ID": 68996,
     "Nome": "Daniel Fortunato Borges",
+    "NomeCamisa": "D. BORGES",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(DE)",
@@ -902,6 +981,7 @@
   {
     "ID": 69010,
     "Nome": "Jemerson De Jesus Nascimento",
+    "NomeCamisa": "JEMERSON",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -912,6 +992,7 @@
   {
     "ID": 69019,
     "Nome": "Wendell Nascimento Borges",
+    "NomeCamisa": "WENDELL",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -922,6 +1003,7 @@
   {
     "ID": 69814,
     "Nome": "Walter Leandro Capeloza Artune",
+    "NomeCamisa": "WALTER",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -932,6 +1014,7 @@
   {
     "ID": 70476,
     "Nome": "Diego Gonçalves",
+    "NomeCamisa": "DIEGO",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -942,6 +1025,7 @@
   {
     "ID": 72236,
     "Nome": "Leonardo Pereira",
+    "NomeCamisa": "LÉO PEREIRA",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -952,6 +1036,7 @@
   {
     "ID": 72401,
     "Nome": "Luciano Da Rocha Neves",
+    "NomeCamisa": "LUCIANO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DC)",
@@ -962,6 +1047,7 @@
   {
     "ID": 73305,
     "Nome": "Matheus Fellipe Costa Pereira",
+    "NomeCamisa": "M. PEREIRA",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -972,6 +1058,7 @@
   {
     "ID": 73413,
     "Nome": "Nathan Allan De Souza",
+    "NomeCamisa": "NATHAN",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -982,6 +1069,7 @@
   {
     "ID": 73469,
     "Nome": "José Welison Da Silva",
+    "NomeCamisa": "ZÉ WELISON",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -992,6 +1080,7 @@
   {
     "ID": 73541,
     "Nome": "Danilo Barbosa Da Silva",
+    "NomeCamisa": "DANILO BARBOSA",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -1002,6 +1091,7 @@
   {
     "ID": 73543,
     "Nome": "Mário Sérgio Gomes De Souza",
+    "NomeCamisa": "SÉRGIO",
     "Time": "Fluminense de Feira",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(D)",
@@ -1012,6 +1102,7 @@
   {
     "ID": 73544,
     "Nome": "Otávio Henrique Santos Passos",
+    "NomeCamisa": "OTÁVIO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1022,6 +1113,7 @@
   {
     "ID": 73615,
     "Nome": "Tiago Luis Volpi",
+    "NomeCamisa": "VOLPI",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1032,6 +1124,7 @@
   {
     "ID": 73782,
     "Nome": "Alex Roberto Santana Rafael",
+    "NomeCamisa": "MURALHA",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1042,6 +1135,7 @@
   {
     "ID": 73813,
     "Nome": "Reginaldo Lopes De Jesus",
+    "NomeCamisa": "REGINALDO",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -1052,6 +1146,7 @@
   {
     "ID": 73910,
     "Nome": "Rafael Thyere De Albuquerque",
+    "NomeCamisa": "THYERE",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1062,6 +1157,7 @@
   {
     "ID": 73911,
     "Nome": "Guilherme De Jesus Da Silva",
+    "NomeCamisa": "TINGA",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC),MD,M(D)",
@@ -1072,6 +1168,7 @@
   {
     "ID": 73913,
     "Nome": "Walace Souza Silva",
+    "NomeCamisa": "WALACE",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1082,6 +1179,7 @@
   {
     "ID": 73914,
     "Nome": "Éverton Sousa Soares",
+    "NomeCamisa": "SOARES",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(DE)",
@@ -1092,6 +1190,7 @@
   {
     "ID": 73999,
     "Nome": "Alan Luciano Ruschel",
+    "NomeCamisa": "ALAN RUSCHEL",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -1102,6 +1201,7 @@
   {
     "ID": 74001,
     "Nome": "Aylon Darwin Tavella",
+    "NomeCamisa": "AYLON",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(D),A(DC)",
@@ -1112,6 +1212,7 @@
   {
     "ID": 74019,
     "Nome": "Gustavo Henrique Furtado Scarpa",
+    "NomeCamisa": "SCARPA",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(DEC)",
@@ -1122,6 +1223,7 @@
   {
     "ID": 74666,
     "Nome": "Carlos Eduardo Lecciolle Thomazella",
+    "NomeCamisa": "THOMAZELLA",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1132,6 +1234,7 @@
   {
     "ID": 74688,
     "Nome": "Luiz Otávio Anacleto Leandro",
+    "NomeCamisa": "LUIZ OTÁVIO",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1142,6 +1245,7 @@
   {
     "ID": 74738,
     "Nome": "Dalbert Henrique Chagas Estevão",
+    "NomeCamisa": "DALBERT",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -1152,6 +1256,7 @@
   {
     "ID": 76717,
     "Nome": "Philipe Sampaio Azevedo",
+    "NomeCamisa": "P. SAMPAIO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1162,6 +1267,7 @@
   {
     "ID": 76721,
     "Nome": "Aderlan De Lima Silva",
+    "NomeCamisa": "ADERLAN",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -1172,6 +1278,7 @@
   {
     "ID": 76921,
     "Nome": "Patrick Bezerra Do Nascimento",
+    "NomeCamisa": "PATRICK",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD(C),M,MA(EC)",
@@ -1182,6 +1289,7 @@
   {
     "ID": 76947,
     "Nome": "Hyoran Kaue Dalmoro",
+    "NomeCamisa": "HYORAN",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -1192,6 +1300,7 @@
   {
     "ID": 77063,
     "Nome": "Vitor Hugo Franchescoli De Souza",
+    "NomeCamisa": "VITOR HUGO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1202,6 +1311,7 @@
   {
     "ID": 77072,
     "Nome": "Hueglo Dos Santos Neris",
+    "NomeCamisa": "NERIS",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1212,6 +1322,7 @@
   {
     "ID": 77127,
     "Nome": "João Pedro Maturano Dos Santos",
+    "NomeCamisa": "JOÃO PEDRO",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -1222,6 +1333,7 @@
   {
     "ID": 77131,
     "Nome": "Antonio Francisco Moura Neto",
+    "NomeCamisa": "MOURA",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(C)",
@@ -1232,6 +1344,7 @@
   {
     "ID": 77163,
     "Nome": "Jair Rodrigues Júnior",
+    "NomeCamisa": "JAIR",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1242,6 +1355,7 @@
   {
     "ID": 77940,
     "Nome": "Jacson Da Paixao Neponuceno",
+    "NomeCamisa": "JACSON",
     "Time": "Fluminense de Feira",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -1252,6 +1366,7 @@
   {
     "ID": 78108,
     "Nome": "Cauly Oliveira Souza",
+    "NomeCamisa": "CAULY",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -1262,6 +1377,7 @@
   {
     "ID": 78186,
     "Nome": "Ricardo Ryller Ribeiro Lino Silva",
+    "NomeCamisa": "RICARDO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1272,6 +1388,7 @@
   {
     "ID": 78238,
     "Nome": "Marcos Da Silva França",
+    "NomeCamisa": "KENO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(DE)",
@@ -1282,6 +1399,7 @@
   {
     "ID": 78240,
     "Nome": "Leonardo Gamalho De Souza",
+    "NomeCamisa": "LÉO",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -1292,6 +1410,7 @@
   {
     "ID": 78353,
     "Nome": "Thiago Dos Santos",
+    "NomeCamisa": "T. SANTOS",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -1302,6 +1421,7 @@
   {
     "ID": 78697,
     "Nome": "Leonardo César Jardim",
+    "NomeCamisa": "LÉO JARDIM",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1312,6 +1432,7 @@
   {
     "ID": 79486,
     "Nome": "Francisco Das Chagas Soares Dos Santos",
+    "NomeCamisa": "TIQUINHO SOARES",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -1322,6 +1443,7 @@
   {
     "ID": 79604,
     "Nome": "Gérson Santos Da Silva",
+    "NomeCamisa": "GERSON",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MD(C),M,MA(DC)",
@@ -1332,6 +1454,7 @@
   {
     "ID": 79764,
     "Nome": "Marcos Felipe De Freitas Monteiro",
+    "NomeCamisa": "MARCOS",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1342,6 +1465,7 @@
   {
     "ID": 80267,
     "Nome": "João Paulo Silva Martins",
+    "NomeCamisa": "JOÃO PAULO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1352,6 +1476,7 @@
   {
     "ID": 81016,
     "Nome": "Guilherme Antonio Arana Lopes",
+    "NomeCamisa": "GUILHERME ARANA",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -1362,6 +1487,7 @@
   {
     "ID": 81405,
     "Nome": "Thiago Maia Alencar",
+    "NomeCamisa": "THIAGO MAIA",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1372,6 +1498,7 @@
   {
     "ID": 81439,
     "Nome": "Bruno Henrique Pinto",
+    "NomeCamisa": "BRUNO HENRIQUE",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -1382,6 +1509,7 @@
   {
     "ID": 81473,
     "Nome": "Marlon Rodrigues De Freitas",
+    "NomeCamisa": "MARLON FREITAS",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1392,6 +1520,7 @@
   {
     "ID": 81730,
     "Nome": "William De Asevedo Furtado Nascimento",
+    "NomeCamisa": "WILLIAM",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(DE),MD,M(D)",
@@ -1402,6 +1531,7 @@
   {
     "ID": 81741,
     "Nome": "Yago Felipe Da Rocha Costa",
+    "NomeCamisa": "YAGO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -1412,6 +1542,7 @@
   {
     "ID": 81796,
     "Nome": "Carlos Eduardo Ferreira De Souza",
+    "NomeCamisa": "C. EDUARDO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -1422,6 +1553,7 @@
   {
     "ID": 81931,
     "Nome": "Lucas Ramon Batista Silva",
+    "NomeCamisa": "LUCAS RAMON",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -1432,6 +1564,7 @@
   {
     "ID": 82210,
     "Nome": "Matheus Pereira Da Silva",
+    "NomeCamisa": "MATHEUS",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -1442,6 +1575,7 @@
   {
     "ID": 82232,
     "Nome": "Charles Marcelo Da Silva",
+    "NomeCamisa": "CHARLES",
     "Time": "Vitória de Guimarães",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1452,6 +1586,7 @@
   {
     "ID": 82244,
     "Nome": "José Carlos Ferreira Júnior",
+    "NomeCamisa": "JUNINHO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC),MD(E)",
@@ -1462,6 +1597,7 @@
   {
     "ID": 82270,
     "Nome": "Matheus Martins Fogaça De Paulo",
+    "NomeCamisa": "MATHEUZINHO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -1472,6 +1608,7 @@
   {
     "ID": 82278,
     "Nome": "Ivan Quaresma Da Silva",
+    "NomeCamisa": "IVAN",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1482,6 +1619,7 @@
   {
     "ID": 82287,
     "Nome": "Matheus Reis De Lima",
+    "NomeCamisa": "M. REIS",
     "Time": "Sporting CP",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC),MD,M(E)",
@@ -1492,6 +1630,7 @@
   {
     "ID": 82288,
     "Nome": "Lyanco Evangelista Silveira Neves Vojnović",
+    "NomeCamisa": "LYANCO",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -1502,6 +1641,7 @@
   {
     "ID": 82325,
     "Nome": "Allan Rodrigues De Souza",
+    "NomeCamisa": "ALLAN",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1512,6 +1652,7 @@
   {
     "ID": 82333,
     "Nome": "Rodrigo Eduardo Da Silva",
+    "NomeCamisa": "RODRIGO SAM",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -1522,6 +1663,7 @@
   {
     "ID": 84983,
     "Nome": "Richardson Fernandes Dos Santos",
+    "NomeCamisa": "RICHARDSON",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1532,6 +1674,7 @@
   {
     "ID": 85139,
     "Nome": "Caíque França Godoy",
+    "NomeCamisa": "CAÍQUE",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1542,6 +1685,7 @@
   {
     "ID": 85682,
     "Nome": "Luiz Felipe Do Nascimento Dos Santos",
+    "NomeCamisa": "LUIZ FELIPE",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1552,6 +1696,7 @@
   {
     "ID": 85980,
     "Nome": "Fabrício Bruno Soares De Faria",
+    "NomeCamisa": "FABRÍCIO BRUNO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1562,6 +1707,7 @@
   {
     "ID": 85985,
     "Nome": "Matheus De Sales Cabral",
+    "NomeCamisa": "M. SALES",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1572,6 +1718,7 @@
   {
     "ID": 86671,
     "Nome": "Danilo Das Neves Pinheiro",
+    "NomeCamisa": "TCHÊ TCHÊ",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(DC)",
@@ -1582,6 +1729,7 @@
   {
     "ID": 86940,
     "Nome": "John Victor Maciel Furtado",
+    "NomeCamisa": "JOHN",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1592,6 +1740,7 @@
   {
     "ID": 86963,
     "Nome": "Messias Rodrigues Da Silva Júnior",
+    "NomeCamisa": "MESSIAS",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1602,6 +1751,7 @@
   {
     "ID": 86992,
     "Nome": "Giovanny Bariani Marques",
+    "NomeCamisa": "GIOVANNY",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -1610,18 +1760,9 @@
     "ImageURL": "https://cdn.soccerwiki.org/images/player/86992.png"
   },
   {
-    "ID": 86995,
-    "Nome": "Clayson Henrique Da Silva Vieira",
-    "Time": "Mirassol FC",
-    "Nacionalidade": "Brasil",
-    "Posição": "MA(DEC),A(DE)",
-    "Idade": 30,
-    "Camisa": "29",
-    "ImageURL": "https://cdn.soccerwiki.org/images/player/86995.png"
-  },
-  {
     "ID": 87006,
     "Nome": "Raphael Cavalcante Veiga",
+    "NomeCamisa": "VEIGA",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -1632,6 +1773,7 @@
   {
     "ID": 87022,
     "Nome": "Marcelo Da Conceição Benevenuto Malaquias",
+    "NomeCamisa": "M. BENEVENUTO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1642,6 +1784,7 @@
   {
     "ID": 87027,
     "Nome": "Gustavo Cazonatti",
+    "NomeCamisa": "GUSTAVO",
     "Time": "Sporting Cristal",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1652,6 +1795,7 @@
   {
     "ID": 87028,
     "Nome": "Thaciano Mickael Da Silva",
+    "NomeCamisa": "THACIANO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA,A(C)",
@@ -1662,16 +1806,18 @@
   {
     "ID": 87029,
     "Nome": "Gregore Magalhães Da Silva",
+    "NomeCamisa": "GREGORE",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
-    "Idade": 31,
+    "Idade": 32,
     "Camisa": "26",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/87029.png"
   },
   {
     "ID": 87047,
     "Nome": "Ramon Menezes Roma",
+    "NomeCamisa": "RAMON",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1682,6 +1828,7 @@
   {
     "ID": 87050,
     "Nome": "David Correa Da Fonseca",
+    "NomeCamisa": "DAVID",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -1692,6 +1839,7 @@
   {
     "ID": 87065,
     "Nome": "Ayrton Lucas Dantas De Medeiros",
+    "NomeCamisa": "AYRTON LUCAS",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -1702,6 +1850,7 @@
   {
     "ID": 87068,
     "Nome": "Pedro Guilherme Abreu Dos Santos",
+    "NomeCamisa": "PEDRO",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -1712,6 +1861,7 @@
   {
     "ID": 87079,
     "Nome": "Luiz De Araujo Guimarães Neto",
+    "NomeCamisa": "ARAÚJO",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -1722,6 +1872,7 @@
   {
     "ID": 87086,
     "Nome": "Ronaldo Da Silva Souza",
+    "NomeCamisa": "RONALDO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1732,6 +1883,7 @@
   {
     "ID": 87102,
     "Nome": "Keiller Da Silva Nunes",
+    "NomeCamisa": "KEILLER",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1742,6 +1894,7 @@
   {
     "ID": 87421,
     "Nome": "Igor Rabello Da Costa",
+    "NomeCamisa": "IGOR RABELLO",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1752,6 +1905,7 @@
   {
     "ID": 87851,
     "Nome": "João Othávio Basso",
+    "NomeCamisa": "BASSO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -1762,6 +1916,7 @@
   {
     "ID": 89062,
     "Nome": "Luiz Otávio Da Silva Santos",
+    "NomeCamisa": "OTÁVIO",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1772,6 +1927,7 @@
   {
     "ID": 89396,
     "Nome": "Wellington Cabral Costa",
+    "NomeCamisa": "FOGUETE",
     "Time": "Vitória FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(D)",
@@ -1782,6 +1938,7 @@
   {
     "ID": 89430,
     "Nome": "Marlon Rodrigues Xavier",
+    "NomeCamisa": "MARLON",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC),MD,M(E)",
@@ -1792,6 +1949,7 @@
   {
     "ID": 89431,
     "Nome": "Douglas Moreira Fagundes",
+    "NomeCamisa": "DODÍ",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1802,6 +1960,7 @@
   {
     "ID": 89929,
     "Nome": "Charles Rigon Matos",
+    "NomeCamisa": "CHARLES",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1812,6 +1971,7 @@
   {
     "ID": 90476,
     "Nome": "Éder Ferreira Graminho",
+    "NomeCamisa": "FERREIRA",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -1822,6 +1982,7 @@
   {
     "ID": 90498,
     "Nome": "Iury Lirio Freitas Da Castilho",
+    "NomeCamisa": "IURY",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -1832,6 +1993,7 @@
   {
     "ID": 90505,
     "Nome": "Bruno De Jesus Pacheco",
+    "NomeCamisa": "B. PACHECO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -1842,6 +2004,7 @@
   {
     "ID": 90543,
     "Nome": "Murilo Cerqueira Paim",
+    "NomeCamisa": "MURILO",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -1852,6 +2015,7 @@
   {
     "ID": 90571,
     "Nome": "Luiz Filipe Da Rosa Machado",
+    "NomeCamisa": "F. MACHADO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -1862,6 +2026,7 @@
   {
     "ID": 90581,
     "Nome": "Carlos Moises De Lima",
+    "NomeCamisa": "CARLINHOS",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -1872,6 +2037,7 @@
   {
     "ID": 90584,
     "Nome": "José Ivaldo Almeida Silva",
+    "NomeCamisa": "ZÉ IVALDO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -1882,6 +2048,7 @@
   {
     "ID": 90588,
     "Nome": "Matheus Rossetto",
+    "NomeCamisa": "MATHEUS",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -1892,6 +2059,7 @@
   {
     "ID": 90594,
     "Nome": "Guilherme Augusto Vieira Dos Santos",
+    "NomeCamisa": "GUILHERME",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(DE)",
@@ -1902,6 +2070,7 @@
   {
     "ID": 90613,
     "Nome": "Daniel Cerantula Fuzato",
+    "NomeCamisa": "FUZATO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1912,6 +2081,7 @@
   {
     "ID": 90698,
     "Nome": "Leonardo Rech Ortiz",
+    "NomeCamisa": "LÉO ORTIZ",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -1922,6 +2092,7 @@
   {
     "ID": 91078,
     "Nome": "Jandrei Chitolina Carniel",
+    "NomeCamisa": "JANDREI",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -1932,6 +2103,7 @@
   {
     "ID": 91571,
     "Nome": "José Roberto Assuncão De Araujo Filho",
+    "NomeCamisa": "ZÉ ROBERTO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -1942,6 +2114,7 @@
   {
     "ID": 91630,
     "Nome": "Paulo Henrique Sampaio Filho",
+    "NomeCamisa": "PAULINHO",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -1952,6 +2125,7 @@
   {
     "ID": 91927,
     "Nome": "Lucas Lima Linhares",
+    "NomeCamisa": "LUQUINHAS",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -1962,6 +2136,7 @@
   {
     "ID": 92580,
     "Nome": "Erick De Arruda Serafim",
+    "NomeCamisa": "ERICK",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -1972,6 +2147,7 @@
   {
     "ID": 93121,
     "Nome": "José Marcos Alves Luis",
+    "NomeCamisa": "ZÉ MARCOS",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -1982,6 +2158,7 @@
   {
     "ID": 94127,
     "Nome": "Artur Victor Guimarães",
+    "NomeCamisa": "ARTUR",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -1992,6 +2169,7 @@
   {
     "ID": 94244,
     "Nome": "Richard De Oliveira Costa",
+    "NomeCamisa": "RICHARD",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2002,6 +2180,7 @@
   {
     "ID": 94258,
     "Nome": "Igor Aquino Da Silva",
+    "NomeCamisa": "IGOR",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -2012,16 +2191,18 @@
   {
     "ID": 94267,
     "Nome": "Vinícius Moreira De Lima",
+    "NomeCamisa": "LIMA",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(DEC)",
-    "Idade": 28,
+    "Idade": 29,
     "Camisa": "45",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/94267.png"
   },
   {
     "ID": 94276,
     "Nome": "Iago Amaral Borduchi",
+    "NomeCamisa": "IAGO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -2032,6 +2213,7 @@
   {
     "ID": 94279,
     "Nome": "Alex Paulo Menezes Santana",
+    "NomeCamisa": "ALEX SANTANA",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -2042,6 +2224,7 @@
   {
     "ID": 94317,
     "Nome": "Fernando José Marques Maciel",
+    "NomeCamisa": "FERNANDINHO",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -2052,6 +2235,7 @@
   {
     "ID": 94359,
     "Nome": "Luan Peres Petroni",
+    "NomeCamisa": "LUAN PERES",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -2062,6 +2246,7 @@
   {
     "ID": 94610,
     "Nome": "João Paulo Ferreira Lourenço",
+    "NomeCamisa": "LOURENÇO",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MD(C),M,MA(DC)",
@@ -2072,6 +2257,7 @@
   {
     "ID": 94612,
     "Nome": "Vitor Carvalho Vieira",
+    "NomeCamisa": "V. CARVALHO",
     "Time": "Sporting de Braga",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2080,18 +2266,9 @@
     "ImageURL": "https://cdn.soccerwiki.org/images/player/94612.png"
   },
   {
-    "ID": 94619,
-    "Nome": "Bruno Cesar Xavier Sislo",
-    "Time": "EC Vitória",
-    "Nacionalidade": "Brasil",
-    "Posição": "MA(DEC),A(DE)",
-    "Idade": 28,
-    "Camisa": "37",
-    "ImageURL": "https://cdn.soccerwiki.org/images/player/94619.png"
-  },
-  {
     "ID": 94621,
     "Nome": "Gabriel Nascimento Resende Brazão",
+    "NomeCamisa": "G. BRAZÃO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2102,6 +2279,7 @@
   {
     "ID": 94630,
     "Nome": "José Romário Silva De Souza",
+    "NomeCamisa": "ROMARINHO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -2112,6 +2290,7 @@
   {
     "ID": 94636,
     "Nome": "Hayner Willian Monjardim Cordeiro",
+    "NomeCamisa": "HAYNER",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(DE)",
@@ -2122,6 +2301,7 @@
   {
     "ID": 94644,
     "Nome": "Olávio Vieira Dos Santos Júnior",
+    "NomeCamisa": "JUNINHO",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -2132,6 +2312,7 @@
   {
     "ID": 94645,
     "Nome": "Bruno Rafael Rodrigues Do Nascimento",
+    "NomeCamisa": "B. RODRIGUES",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -2142,6 +2323,7 @@
   {
     "ID": 94668,
     "Nome": "Yuri Alberto Monteiro Da Silva",
+    "NomeCamisa": "ALBERTO",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -2152,6 +2334,7 @@
   {
     "ID": 95705,
     "Nome": "Jean Lucas De Souza Oliveira",
+    "NomeCamisa": "JEAN LUCAS",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -2162,6 +2345,7 @@
   {
     "ID": 96079,
     "Nome": "Bruno Vinicius Souza Ramos",
+    "NomeCamisa": "B.TABATA",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -2172,6 +2356,7 @@
   {
     "ID": 96168,
     "Nome": "Igor Matheus Liziero Pereira",
+    "NomeCamisa": "LIZIERO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2182,6 +2367,7 @@
   {
     "ID": 96988,
     "Nome": "Paulo Lucas Santos De Paula",
+    "NomeCamisa": "PAULINHO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -2192,6 +2378,7 @@
   {
     "ID": 97280,
     "Nome": "Victor Hugo Soares Dos Santos",
+    "NomeCamisa": "KANU",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2202,6 +2389,7 @@
   {
     "ID": 98126,
     "Nome": "Vitor Eduardo Da Silva Matos",
+    "NomeCamisa": "VITÃO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2212,6 +2400,7 @@
   {
     "ID": 98127,
     "Nome": "Willean Bernardo Willemen",
+    "NomeCamisa": "LEPO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(D)",
@@ -2222,6 +2411,7 @@
   {
     "ID": 98159,
     "Nome": "Claudio Rodrigues Gomes",
+    "NomeCamisa": "GUGA",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(DE)",
@@ -2232,6 +2422,7 @@
   {
     "ID": 98273,
     "Nome": "Diego Cristiano Evaristo",
+    "NomeCamisa": "PITUCA",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2242,6 +2433,7 @@
   {
     "ID": 98276,
     "Nome": "Hugo De Souza Nogueira",
+    "NomeCamisa": "HUGO SOUZA",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2252,16 +2444,18 @@
   {
     "ID": 99105,
     "Nome": "David Rambo Becker",
+    "NomeCamisa": "DAVID",
     "Time": "EC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "G",
-    "Idade": 29,
+    "Idade": 30,
     "Camisa": "Desconhecido",
     "ImageURL": ""
   },
   {
     "ID": 99130,
     "Nome": "Felipe Jonatan Rocha Andrade",
+    "NomeCamisa": "F. JONATAN",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -2272,6 +2466,7 @@
   {
     "ID": 99172,
     "Nome": "Ademir Da Silva Santos Junior",
+    "NomeCamisa": "ADEMIR",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -2282,6 +2477,7 @@
   {
     "ID": 99189,
     "Nome": "Ignácio Da Silva Oliveira",
+    "NomeCamisa": "IGNÁCIO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2292,6 +2488,7 @@
   {
     "ID": 99201,
     "Nome": "Thiago Beserra Dos Santos",
+    "NomeCamisa": "THIAGUINHO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2302,6 +2499,7 @@
   {
     "ID": 99204,
     "Nome": "Vitor Eudes De Souza Costa",
+    "NomeCamisa": "VITOR EUDES",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2312,6 +2510,7 @@
   {
     "ID": 99205,
     "Nome": "Carlos De Menezes Júnior",
+    "NomeCamisa": "CACÁ",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -2322,6 +2521,7 @@
   {
     "ID": 99213,
     "Nome": "Ronielson Da Silva Barbosa",
+    "NomeCamisa": "RONY",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -2332,6 +2532,7 @@
   {
     "ID": 99214,
     "Nome": "Gabriel Pereira Taliari",
+    "NomeCamisa": "G. TALIARI",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -2342,6 +2543,7 @@
   {
     "ID": 99215,
     "Nome": "Robson Alves De Barros",
+    "NomeCamisa": "BAMBU",
     "Time": "Sporting de Braga",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2352,6 +2554,7 @@
   {
     "ID": 99225,
     "Nome": "Bruno Roberto Pereira Da Silva",
+    "NomeCamisa": "BRUNINHO",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -2362,6 +2565,7 @@
   {
     "ID": 99231,
     "Nome": "Matheus Henrique De Souza",
+    "NomeCamisa": "M. HENRIQUE",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -2372,6 +2576,7 @@
   {
     "ID": 99241,
     "Nome": "Luan Vinicius Da Silva Santos",
+    "NomeCamisa": "LUAN",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2382,6 +2587,7 @@
   {
     "ID": 99243,
     "Nome": "Igor Silveira Gomes",
+    "NomeCamisa": "IGOR GOMES",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -2392,6 +2598,7 @@
   {
     "ID": 99251,
     "Nome": "Gustavo Nonato Santana",
+    "NomeCamisa": "NONATO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,MA(C),M(DC)",
@@ -2402,6 +2609,7 @@
   {
     "ID": 99665,
     "Nome": "Victor Alexander Da Silva",
+    "NomeCamisa": "VITINHO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(DE)",
@@ -2412,6 +2620,7 @@
   {
     "ID": 100033,
     "Nome": "Rodrigo Nestor Bertalia",
+    "NomeCamisa": "R. NESTOR",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD(C),M,MA(EC)",
@@ -2422,6 +2631,7 @@
   {
     "ID": 100429,
     "Nome": "José Vitor Rodrigues Da Silva Dos Santos",
+    "NomeCamisa": "PERNAMBUCANO",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -2432,6 +2642,7 @@
   {
     "ID": 100999,
     "Nome": "Michael Richard Delgado De Oliveira",
+    "NomeCamisa": "MICHAEL",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -2442,6 +2653,7 @@
   {
     "ID": 101000,
     "Nome": "José Antonio Dos Santos Júnior",
+    "NomeCamisa": "JÚNIOR SANTOS",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -2452,6 +2664,7 @@
   {
     "ID": 101126,
     "Nome": "Igor Vinícius De Souza",
+    "NomeCamisa": "IGOR VINÍCIUS",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -2462,6 +2675,7 @@
   {
     "ID": 101129,
     "Nome": "Hugo Moura Arruda Da Silva",
+    "NomeCamisa": "HUGO MOURA",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2472,6 +2686,7 @@
   {
     "ID": 101135,
     "Nome": "David De Duarte Macedo",
+    "NomeCamisa": "DAVID",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2482,6 +2697,7 @@
   {
     "ID": 101191,
     "Nome": "João Lucas De Almeida Carvalho",
+    "NomeCamisa": "JOÃO LUCAS",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -2492,6 +2708,7 @@
   {
     "ID": 101266,
     "Nome": "Lucas Halter",
+    "NomeCamisa": "LUCAS HALTER",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2502,6 +2719,7 @@
   {
     "ID": 101358,
     "Nome": "Kaio Jorge Pinto Ramos",
+    "NomeCamisa": "KAIO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(C)",
@@ -2512,6 +2730,7 @@
   {
     "ID": 101728,
     "Nome": "Mauricio Magalhães Prado",
+    "NomeCamisa": "MAURÍCIO",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -2522,6 +2741,7 @@
   {
     "ID": 102032,
     "Nome": "Bruno Ferreira Ventura Diniz",
+    "NomeCamisa": "BRUNO",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2532,6 +2752,7 @@
   {
     "ID": 102034,
     "Nome": "Pedro Augusto Borges Da Costa",
+    "NomeCamisa": "P. AUGUSTO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2542,6 +2763,7 @@
   {
     "ID": 102039,
     "Nome": "Felipe Vieira Augusto",
+    "NomeCamisa": "FELIPE VIEIRA",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC),MD,M(E)",
@@ -2552,6 +2774,7 @@
   {
     "ID": 102108,
     "Nome": "Caio Fernando De Oliveira",
+    "NomeCamisa": "CAIO P.",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E),MA(DE)",
@@ -2562,6 +2785,7 @@
   {
     "ID": 102126,
     "Nome": "Lucas Felipe Calegari",
+    "NomeCamisa": "CALEGARI",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(DE)",
@@ -2572,6 +2796,7 @@
   {
     "ID": 102134,
     "Nome": "Renato Kayzer De Souza",
+    "NomeCamisa": "KAYZER",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -2582,6 +2807,7 @@
   {
     "ID": 102143,
     "Nome": "Alexander Silva De Lucena",
+    "NomeCamisa": "ALEXANDER",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2592,6 +2818,7 @@
   {
     "ID": 102152,
     "Nome": "Brenno Oliveira Fraga Costa",
+    "NomeCamisa": "BRENNO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2599,10 +2826,10 @@
     "Camisa": "12",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/102152.png"
   },
-
   {
     "ID": 102295,
     "Nome": "Erick Luis Conrado Carvalho",
+    "NomeCamisa": "ERICK",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(C)",
@@ -2613,6 +2840,7 @@
   {
     "ID": 102296,
     "Nome": "Bruno De Lara Fuchs",
+    "NomeCamisa": "B. FUCHS",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2623,6 +2851,7 @@
   {
     "ID": 102301,
     "Nome": "João Victor Da Silva Marcelino",
+    "NomeCamisa": "JOÃO VICTOR",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -2633,6 +2862,7 @@
   {
     "ID": 102307,
     "Nome": "Dênis De Oliveira Aguiar Júnior",
+    "NomeCamisa": "DÊNIS JÚNIOR",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2643,6 +2873,7 @@
   {
     "ID": 102334,
     "Nome": "Daniel Dos Santos Penha",
+    "NomeCamisa": "DANIEL",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -2653,6 +2884,7 @@
   {
     "ID": 102340,
     "Nome": "Wagner Leonardo Calvelo De Souza",
+    "NomeCamisa": "LEONARDO",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2663,6 +2895,7 @@
   {
     "ID": 102341,
     "Nome": "Kaique Rocha Lima",
+    "NomeCamisa": "KAIQUE ROCHA",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2673,6 +2906,7 @@
   {
     "ID": 102342,
     "Nome": "Sandry Roberto Santos Goes",
+    "NomeCamisa": "SANDRY",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,MA(C),M(DC)",
@@ -2683,6 +2917,7 @@
   {
     "ID": 102345,
     "Nome": "Allan Victor Oliveira Mota",
+    "NomeCamisa": "ALLANZINHO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -2693,6 +2928,7 @@
   {
     "ID": 102477,
     "Nome": "José Sabino Chagas Monteiro",
+    "NomeCamisa": "SABINO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2703,6 +2939,7 @@
   {
     "ID": 102606,
     "Nome": "Janderson Santos De Souza",
+    "NomeCamisa": "JANDERSON",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "M,A(D),MA(DC)",
@@ -2713,6 +2950,7 @@
   {
     "ID": 102747,
     "Nome": "Wesley Ribeiro Silva",
+    "NomeCamisa": "WESLEY",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -2723,6 +2961,7 @@
   {
     "ID": 102938,
     "Nome": "Luiz Henrique Soares Firmino",
+    "NomeCamisa": "NEGUEBA",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(DE)",
@@ -2733,6 +2972,7 @@
   {
     "ID": 102971,
     "Nome": "Bruno Gomes Da Silva Clevelário",
+    "NomeCamisa": "GOMES",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(DC)",
@@ -2743,6 +2983,7 @@
   {
     "ID": 103672,
     "Nome": "Matheus Planelles Donelli",
+    "NomeCamisa": "M. DONELLI",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2753,6 +2994,7 @@
   {
     "ID": 103732,
     "Nome": "Gabriel Vinicius Menino",
+    "NomeCamisa": "MENINO",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2763,6 +3005,7 @@
   {
     "ID": 103833,
     "Nome": "Pedro Raúl Garay Da Silva",
+    "NomeCamisa": "PEDRO RAÚL",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -2773,6 +3016,7 @@
   {
     "ID": 103853,
     "Nome": "Patrick De Paula Carneiro",
+    "NomeCamisa": "DE PAULA",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2783,6 +3027,7 @@
   {
     "ID": 103929,
     "Nome": "Camilo Reijers De Oliveira",
+    "NomeCamisa": "CAMILO",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2793,6 +3038,7 @@
   {
     "ID": 103949,
     "Nome": "Lucas Esteves De Souza",
+    "NomeCamisa": "L. ESTEVES",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -2803,6 +3049,7 @@
   {
     "ID": 104194,
     "Nome": "Pedro Henrique Rodrigues Bicalho",
+    "NomeCamisa": "BICALHO",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -2813,16 +3060,18 @@
   {
     "ID": 104239,
     "Nome": "Lucas Eduardo Ribeiro De Souza",
+    "NomeCamisa": "EDU",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
-    "Idade": 24,
+    "Idade": 25,
     "Camisa": "43",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/104239.png"
   },
   {
     "ID": 104265,
     "Nome": "Matheus Alvarenga De Oliveira",
+    "NomeCamisa": "DAVÓ",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -2833,6 +3082,7 @@
   {
     "ID": 104275,
     "Nome": "Bruno Nunes De Barros",
+    "NomeCamisa": "TUBARÃO",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(D),M,MA(DE)",
@@ -2843,6 +3093,7 @@
   {
     "ID": 104279,
     "Nome": "Lucas Da Cruz Oliveira",
+    "NomeCamisa": "LUCAS OLIVEIRA",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -2853,6 +3104,7 @@
   {
     "ID": 104283,
     "Nome": "Francisco Alves Da Silva Neto",
+    "NomeCamisa": "CHICO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -2863,6 +3115,7 @@
   {
     "ID": 104284,
     "Nome": "Ewerthon Diógenes Da Silva",
+    "NomeCamisa": "EWERTHON",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -2873,6 +3126,7 @@
   {
     "ID": 104289,
     "Nome": "Natanael Moreira Milouski",
+    "NomeCamisa": "NATANAEL",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -2883,6 +3137,7 @@
   {
     "ID": 104293,
     "Nome": "Igor Jesus Maciel Da Cruz",
+    "NomeCamisa": "IGOR JESUS",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -2893,6 +3148,7 @@
   {
     "ID": 104703,
     "Nome": "Luciano Batista Da Silva Junior",
+    "NomeCamisa": "LUCIANO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(E)",
@@ -2903,6 +3159,7 @@
   {
     "ID": 104719,
     "Nome": "Alexandre Zurawski",
+    "NomeCamisa": "ALEMÃO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -2913,6 +3170,7 @@
   {
     "ID": 104744,
     "Nome": "Caio Alexandre Sousa E Silva",
+    "NomeCamisa": "ALEXANDRE",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2923,6 +3181,7 @@
   {
     "ID": 104747,
     "Nome": "Matheus Barcelos Da Silva",
+    "NomeCamisa": "M. BABI",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -2933,6 +3192,7 @@
   {
     "ID": 104748,
     "Nome": "Marcelo De Araújo Pitaluga Filho",
+    "NomeCamisa": "PITALUGA",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2943,6 +3203,7 @@
   {
     "ID": 104757,
     "Nome": "Lucas Figueiredo Dos Santos",
+    "NomeCamisa": "L. FIGUEIREDO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(DE),A(DEC)",
@@ -2953,6 +3214,7 @@
   {
     "ID": 104777,
     "Nome": "Guilherme Nunes Rodrigues",
+    "NomeCamisa": "PATO",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(DE),A(DEC)",
@@ -2963,6 +3225,7 @@
   {
     "ID": 104781,
     "Nome": "Thiago Couto Wenceslau",
+    "NomeCamisa": "THIAGO COUTO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -2973,6 +3236,7 @@
   {
     "ID": 104784,
     "Nome": "Christian Roberto Alves Cardoso",
+    "NomeCamisa": "CHRISTIAN",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -2983,6 +3247,7 @@
   {
     "ID": 104796,
     "Nome": "Aldemir Dos Santos",
+    "NomeCamisa": "FERREIRINHA",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -2993,6 +3258,7 @@
   {
     "ID": 104885,
     "Nome": "Gustavo Maia Da Silva",
+    "NomeCamisa": "GUSTAVO MAIA",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -3003,6 +3269,7 @@
   {
     "ID": 105060,
     "Nome": "Matheus Mendes Werneck De Oliveira",
+    "NomeCamisa": "MATHEUS MENDES",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3013,6 +3280,7 @@
   {
     "ID": 105063,
     "Nome": "Ramon Ramos Lima",
+    "NomeCamisa": "RAMON",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -3023,6 +3291,7 @@
   {
     "ID": 105066,
     "Nome": "Alex De Oliveira Nascimento",
+    "NomeCamisa": "ALEX",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -3033,6 +3302,7 @@
   {
     "ID": 105068,
     "Nome": "Lucas Braga Ribeiro",
+    "NomeCamisa": "BRAGA",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(D),M,MA(DE)",
@@ -3043,6 +3313,7 @@
   {
     "ID": 105085,
     "Nome": "Gabriel Santos Cordeiro Lacerda",
+    "NomeCamisa": "G. LACERDA",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -3053,6 +3324,7 @@
   {
     "ID": 105101,
     "Nome": "Roni Medeiros De Moura",
+    "NomeCamisa": "RONI",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -3063,6 +3335,7 @@
   {
     "ID": 105103,
     "Nome": "Gustavo Henric Da Silva",
+    "NomeCamisa": "GUSTAVO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -3073,6 +3346,7 @@
   {
     "ID": 105105,
     "Nome": "Mateus Eduardo Claus",
+    "NomeCamisa": "MATEUS CLAUS",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3083,6 +3357,7 @@
   {
     "ID": 105107,
     "Nome": "Ronald Dos Santos Lopes",
+    "NomeCamisa": "RONALD",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -3093,6 +3368,7 @@
   {
     "ID": 105109,
     "Nome": "Fabrício Do Rosario Dos Santos",
+    "NomeCamisa": "FABRI",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3103,6 +3379,7 @@
   {
     "ID": 105111,
     "Nome": "Matheus Nascimento De Paula",
+    "NomeCamisa": "M. NASCIMENTO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -3113,6 +3390,7 @@
   {
     "ID": 105304,
     "Nome": "Nathan Santos De Araújo",
+    "NomeCamisa": "NATHAN",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -3123,6 +3401,7 @@
   {
     "ID": 105988,
     "Nome": "Matheus França Silva",
+    "NomeCamisa": "MATHEUZINHO",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -3133,6 +3412,7 @@
   {
     "ID": 106521,
     "Nome": "Patryck Lanza Dos Reis",
+    "NomeCamisa": "PATRYCK",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -3143,6 +3423,7 @@
   {
     "ID": 107545,
     "Nome": "João Victor Carroll Santana",
+    "NomeCamisa": "JOÃO VICTOR",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -3153,6 +3434,7 @@
   {
     "ID": 107727,
     "Nome": "Diego Gabriel Silva Rosa",
+    "NomeCamisa": "DIEGO ROSA",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -3163,6 +3445,7 @@
   {
     "ID": 107842,
     "Nome": "David Thomaz Dos Santos Oliveira",
+    "NomeCamisa": "DAVID SANTOS",
     "Time": "Sporting Covilhã",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -3173,6 +3456,7 @@
   {
     "ID": 107863,
     "Nome": "André Oliveira Da Silva",
+    "NomeCamisa": "ANDRÉ SILVA",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3183,6 +3467,7 @@
   {
     "ID": 108485,
     "Nome": "Breno Henrique Vasconcelos Lopes",
+    "NomeCamisa": "BRENO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3191,18 +3476,9 @@
     "ImageURL": "https://cdn.soccerwiki.org/images/player/108485.png"
   },
   {
-    "ID": 108523,
-    "Nome": "Allyson Aires Dos Santos",
-    "Time": "Sport Recife",
-    "Nacionalidade": "Brasil",
-    "Posição": "D(C)",
-    "Idade": 34,
-    "Camisa": "Desconhecido",
-    "ImageURL": "https://cdn.soccerwiki.org/images/player/108523.png"
-  },
-  {
     "ID": 108601,
     "Nome": "Vinicius Balieiro Lourenco De Carvalho",
+    "NomeCamisa": "V. BALIEIRO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(DC)",
@@ -3213,6 +3489,7 @@
   {
     "ID": 108603,
     "Nome": "Calebe Gonçalves Ferreira Da Silva",
+    "NomeCamisa": "CALEBE",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -3221,18 +3498,9 @@
     "ImageURL": "https://cdn.soccerwiki.org/images/player/108603.png"
   },
   {
-    "ID": 108605,
-    "Nome": "Hugo Gonçalves Ferreira Neto",
-    "Time": "Botafogo FR",
-    "Nacionalidade": "Brasil",
-    "Posição": "D,MD,M(E)",
-    "Idade": 23,
-    "Camisa": "16",
-    "ImageURL": "https://cdn.soccerwiki.org/images/player/108605.png"
-  },
-  {
     "ID": 108607,
     "Nome": "Sebastião Enio Santos De Almeida",
+    "NomeCamisa": "ÊNIO",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(DE)",
@@ -3243,6 +3511,7 @@
   {
     "ID": 108621,
     "Nome": "Vanderlan Barbosa Da Silva",
+    "NomeCamisa": "VANDERLAN",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC),MD,M(E)",
@@ -3253,6 +3522,7 @@
   {
     "ID": 108640,
     "Nome": "João Pedro Vilardi Pinto",
+    "NomeCamisa": "PEPÊ",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -3263,6 +3533,7 @@
   {
     "ID": 108642,
     "Nome": "John Kennedy Batista De Souza",
+    "NomeCamisa": "JOHN KENNEDY",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3273,6 +3544,7 @@
   {
     "ID": 108643,
     "Nome": "Matheus Martinelli Lima",
+    "NomeCamisa": "MARTINELLI",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -3283,6 +3555,7 @@
   {
     "ID": 108665,
     "Nome": "Matheus Bahia Santos",
+    "NomeCamisa": "BAHIA",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -3293,6 +3566,7 @@
   {
     "ID": 109371,
     "Nome": "Rafael Rogério Da Silva",
+    "NomeCamisa": "RAFAEL RATÃO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -3303,6 +3577,7 @@
   {
     "ID": 110964,
     "Nome": "Danilo José Belão",
+    "NomeCamisa": "BELÃO",
     "Time": "EC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -3313,6 +3588,7 @@
   {
     "ID": 111000,
     "Nome": "Geisandro José Pereira",
+    "NomeCamisa": "PEREIRA",
     "Time": "Vitória FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -3323,6 +3599,7 @@
   {
     "ID": 111321,
     "Nome": "Weverton Silva De Andrade",
+    "NomeCamisa": "WEVERTON",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -3333,6 +3610,7 @@
   {
     "ID": 112000,
     "Nome": "Chrystian Amaral Barletta De Almeida",
+    "NomeCamisa": "BARLETTA",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "M,A(E),MA(EC)",
@@ -3343,6 +3621,7 @@
   {
     "ID": 112047,
     "Nome": "Eudes Ruan De Sousa Carneiro",
+    "NomeCamisa": "RUAN",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3353,6 +3632,7 @@
   {
     "ID": 112156,
     "Nome": "Hugo Ferreira De Farias",
+    "NomeCamisa": "HUGO",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -3363,6 +3643,7 @@
   {
     "ID": 112212,
     "Nome": "Raul Jonas Steffens",
+    "NomeCamisa": "RAUL",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3373,6 +3654,7 @@
   {
     "ID": 112416,
     "Nome": "Gustavo Garcia Dos Santos",
+    "NomeCamisa": "GARCIA",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -3383,6 +3665,7 @@
   {
     "ID": 112545,
     "Nome": "Matheus Lima Beltrão Oliveira",
+    "NomeCamisa": "BIDU",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -3393,6 +3676,7 @@
   {
     "ID": 112547,
     "Nome": "Moisés Vieira Da Veiga",
+    "NomeCamisa": "MOISÉS",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3403,6 +3687,7 @@
   {
     "ID": 112821,
     "Nome": "Luís Felipe Oyama",
+    "NomeCamisa": "OYAMA",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -3413,6 +3698,7 @@
   {
     "ID": 112823,
     "Nome": "Fabrício Daniel De Souza",
+    "NomeCamisa": "FABRÍCIO DANIEL",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3423,6 +3709,7 @@
   {
     "ID": 112831,
     "Nome": "Lucas Willians Assis Arcanjo",
+    "NomeCamisa": "L. ARCANJO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3433,6 +3720,7 @@
   {
     "ID": 112832,
     "Nome": "Yuri Sena Dos Reis Batista",
+    "NomeCamisa": "YURI SENA",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3443,6 +3731,7 @@
   {
     "ID": 112949,
     "Nome": "Cleidson Andrade De Souza Silva",
+    "NomeCamisa": "CAMUTANGA",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -3451,18 +3740,9 @@
     "ImageURL": "https://cdn.soccerwiki.org/images/player/112949.png"
   },
   {
-    "ID": 112956,
-    "Nome": "Jean Carlos Vicente",
-    "Time": "Juventude",
-    "Nacionalidade": "Brasil",
-    "Posição": "MA(DEC),A(DE)",
-    "Idade": 33,
-    "Camisa": "20",
-    "ImageURL": "https://cdn.soccerwiki.org/images/player/112956.png"
-  },
-  {
     "ID": 113098,
     "Nome": "Bernardo Schappo",
+    "NomeCamisa": "B. SCHAPPO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -3473,6 +3753,7 @@
   {
     "ID": 113334,
     "Nome": "Vinicius Nelson De Souza Zanocelo",
+    "NomeCamisa": "ZANOCELO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -3483,6 +3764,7 @@
   {
     "ID": 113774,
     "Nome": "Matheus Martins Silva Dos Santos",
+    "NomeCamisa": "MATHEUS MARTINS",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -3493,6 +3775,7 @@
   {
     "ID": 113777,
     "Nome": "Gabriel Hamester Grando",
+    "NomeCamisa": "CHAPECÓ",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3503,6 +3786,7 @@
   {
     "ID": 113927,
     "Nome": "Dionísio Pereira De Souza Neto",
+    "NomeCamisa": "DIONÍSIO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -3513,6 +3797,7 @@
   {
     "ID": 114081,
     "Nome": "Matheus Alexandre Anastácio De Souza",
+    "NomeCamisa": "M. ALEXANDRE",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -3523,6 +3808,7 @@
   {
     "ID": 114242,
     "Nome": "Wendson Dos Santos Lopes",
+    "NomeCamisa": "WENDSON",
     "Time": "Vitória FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3533,6 +3819,7 @@
   {
     "ID": 114244,
     "Nome": "Adson Ferreira Soares",
+    "NomeCamisa": "ADSON",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -3543,6 +3830,7 @@
   {
     "ID": 114519,
     "Nome": "Adriel Vasconcelos Ramos",
+    "NomeCamisa": "ADRIEL",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3553,6 +3841,7 @@
   {
     "ID": 114520,
     "Nome": "Fernando Henrique Do Nascimento Pereira",
+    "NomeCamisa": "F. HENRIQUE",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -3563,6 +3852,7 @@
   {
     "ID": 114524,
     "Nome": "Elias Manoel Alves De Paula",
+    "NomeCamisa": "MANOEL",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3573,6 +3863,7 @@
   {
     "ID": 114556,
     "Nome": "Carlos Alberto Gomes Da Silva Filho",
+    "NomeCamisa": "CARLOS",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3583,6 +3874,7 @@
   {
     "ID": 114567,
     "Nome": "Paulo Henrique De Oliveira Alves",
+    "NomeCamisa": "PAULO HENRIQUE",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(D)",
@@ -3593,6 +3885,7 @@
   {
     "ID": 114572,
     "Nome": "Diógenes Vinicius Da Silva",
+    "NomeCamisa": "DIÓGENES",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3603,6 +3896,7 @@
   {
     "ID": 114574,
     "Nome": "Kevin Malthus De Sousa Ribeiro",
+    "NomeCamisa": "MALTHUS",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -3613,6 +3907,7 @@
   {
     "ID": 114579,
     "Nome": "Gustavo Coutinho Silva Lopes",
+    "NomeCamisa": "G. COUTINHO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -3623,6 +3918,7 @@
   {
     "ID": 115105,
     "Nome": "Riquelme De Carvalho Araújo Viana",
+    "NomeCamisa": "RIQUELME",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -3633,6 +3929,7 @@
   {
     "ID": 115476,
     "Nome": "Jackson Diego Ibraim Fagundes",
+    "NomeCamisa": "DIEGUINHO",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -3643,6 +3940,7 @@
   {
     "ID": 115481,
     "Nome": "Júlio César De Rezende Miranda",
+    "NomeCamisa": "J. REZENDE",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -3653,6 +3951,7 @@
   {
     "ID": 115717,
     "Nome": "Clayton Fernandes Silva",
+    "NomeCamisa": "CLAYTON",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA(E),A(EC)",
@@ -3663,6 +3962,7 @@
   {
     "ID": 115718,
     "Nome": "João Pedro Mendes Santos",
+    "NomeCamisa": "JOÃO PEDRO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -3673,16 +3973,18 @@
   {
     "ID": 115720,
     "Nome": "Eduardo Da Silva Albuquerque",
+    "NomeCamisa": "DUDU MIRAÍMA",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
-    "Idade": 24,
+    "Idade": 25,
     "Camisa": "Desconhecido",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/115720.png"
   },
   {
     "ID": 115727,
     "Nome": "Samuel Salustiano De Jesus Silva",
+    "NomeCamisa": "S. GRANADA",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -3693,6 +3995,7 @@
   {
     "ID": 116021,
     "Nome": "Wellington Soares Da Silva",
+    "NomeCamisa": "W. RATO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -3703,6 +4006,7 @@
   {
     "ID": 116187,
     "Nome": "Caio Alves Roque Gomes",
+    "NomeCamisa": "CAIO ROQUE",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -3713,6 +4017,7 @@
   {
     "ID": 116336,
     "Nome": "José Hugo Sousa Dos Santos",
+    "NomeCamisa": "ZÉ HUGO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -3723,6 +4028,7 @@
   {
     "ID": 116373,
     "Nome": "Gabriel Teixeira Aragão",
+    "NomeCamisa": "BIEL",
     "Time": "Sporting CP",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -3733,6 +4039,7 @@
   {
     "ID": 116427,
     "Nome": "Jorge Meurer Bartholdy",
+    "NomeCamisa": "JORGE",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3743,6 +4050,7 @@
   {
     "ID": 117470,
     "Nome": "Lucas De Freitas Molarinho Chagas",
+    "NomeCamisa": "FREITAS",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -3753,6 +4061,7 @@
   {
     "ID": 117787,
     "Nome": "Otávio Gut Oliveira",
+    "NomeCamisa": "GUT",
     "Time": "Sport Huancayo",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -3763,16 +4072,18 @@
   {
     "ID": 117796,
     "Nome": "João Marcelo Messias Ferreira",
+    "NomeCamisa": "JOÃO MARCELO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
-    "Idade": 24,
+    "Idade": 25,
     "Camisa": "43",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/117796.png"
   },
   {
     "ID": 117952,
     "Nome": "Vitor Hugo Roque Ferreira",
+    "NomeCamisa": "VITOR ROQUE",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -3783,6 +4094,7 @@
   {
     "ID": 117962,
     "Nome": "Michel Augusto Modesto Rafael Dos Santos",
+    "NomeCamisa": "MICHEL",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -3793,6 +4105,7 @@
   {
     "ID": 118878,
     "Nome": "Pedro Veronez Vilhena",
+    "NomeCamisa": "PEDRINHO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -3803,6 +4116,7 @@
   {
     "ID": 118879,
     "Nome": "Wesley Vinícius França Lima",
+    "NomeCamisa": "WESLEY",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -3813,6 +4127,7 @@
   {
     "ID": 118989,
     "Nome": "Matheus Gonçalves Martins",
+    "NomeCamisa": "M. GONÇALVES",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -3823,6 +4138,7 @@
   {
     "ID": 118990,
     "Nome": "Pablo Gonçalves Maia Fortunato",
+    "NomeCamisa": "PABLO MAIA",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -3833,6 +4149,7 @@
   {
     "ID": 119263,
     "Nome": "Gabriel Silva Azevedo Figueredo",
+    "NomeCamisa": "GABRIEL SILVA",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -3843,6 +4160,7 @@
   {
     "ID": 119751,
     "Nome": "Raí Da Silva Pessanha",
+    "NomeCamisa": "RAÍ",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -3853,6 +4171,7 @@
   {
     "ID": 120400,
     "Nome": "Matheus Cunha Queiroz",
+    "NomeCamisa": "M. CUNHA",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3863,16 +4182,18 @@
   {
     "ID": 120401,
     "Nome": "Petterson Novaes Reis",
+    "NomeCamisa": "PETTERSON",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
     "Idade": 21,
-    "Camisa": "37",
+    "Camisa": "Desconhecido",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/120401.png"
   },
   {
     "ID": 120402,
     "Nome": "Victor Hugo Gomes Silva",
+    "NomeCamisa": "VICTOR HUGO",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -3883,6 +4204,7 @@
   {
     "ID": 120403,
     "Nome": "Cleiton Santana Dos Santos",
+    "NomeCamisa": "CLEITON",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -3893,6 +4215,7 @@
   {
     "ID": 120681,
     "Nome": "Diego Callai Silva",
+    "NomeCamisa": "CALLAI",
     "Time": "Sporting CP",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -3903,6 +4226,7 @@
   {
     "ID": 120986,
     "Nome": "João Moreira Sanmartin Souza",
+    "NomeCamisa": "J. MOREIRA",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(DE),M(DEC)",
@@ -3913,6 +4237,7 @@
   {
     "ID": 121714,
     "Nome": "Luis Gustavo Da Silva Machado Duarte",
+    "NomeCamisa": "MANDACA",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(DC)",
@@ -3923,6 +4248,7 @@
   {
     "ID": 122565,
     "Nome": "Rômulo Azevedo Simão",
+    "NomeCamisa": "RÔMULO",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -3933,6 +4259,7 @@
   {
     "ID": 123713,
     "Nome": "Rodrigo Ferreira Da Silva",
+    "NomeCamisa": "R. FERREIRA",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -3943,6 +4270,7 @@
   {
     "ID": 123718,
     "Nome": "Daniel De Melo Araujo Júnior",
+    "NomeCamisa": "DANIEL JR",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -3953,6 +4281,7 @@
   {
     "ID": 123721,
     "Nome": "André Dhominique Queiroz Santiago Da Silva",
+    "NomeCamisa": "ANDRÉ",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -3963,6 +4292,7 @@
   {
     "ID": 123723,
     "Nome": "Gabriel Lhman Xavier",
+    "NomeCamisa": "G. XAVIER",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -3973,26 +4303,29 @@
   {
     "ID": 123777,
     "Nome": "Leonardo Naldi De Matos",
+    "NomeCamisa": "LÉO NALDI",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
     "Idade": 23,
-    "Camisa": "5",
+    "Camisa": "Desconhecido",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/123777.png"
   },
   {
     "ID": 123865,
     "Nome": "Gustavo Apis Pascoal De Farias",
+    "NomeCamisa": "APIS",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
-    "Idade": 25,
+    "Idade": 26,
     "Camisa": "Desconhecido",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/123865.png"
   },
   {
     "ID": 123872,
     "Nome": "Willian Estefani Machado",
+    "NomeCamisa": "WILLIAN MACHADO",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -4003,6 +4336,7 @@
   {
     "ID": 123985,
     "Nome": "Rubens Antônio Dias",
+    "NomeCamisa": "RUBENS",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(E)",
@@ -4013,6 +4347,7 @@
   {
     "ID": 124021,
     "Nome": "Micael Dos Santos Silva",
+    "NomeCamisa": "MICAEL",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4023,6 +4358,7 @@
   {
     "ID": 124112,
     "Nome": "Rwan Philipe Rodrigues De Souza Cruz",
+    "NomeCamisa": "RWAN CRUZ",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -4033,6 +4369,7 @@
   {
     "ID": 124179,
     "Nome": "Joao Vitor Vallony Da Silva",
+    "NomeCamisa": "DA SILVA",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4043,6 +4380,7 @@
   {
     "ID": 124180,
     "Nome": "Leonardo Rafael Dos Santos",
+    "NomeCamisa": "RAFAEL",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -4053,6 +4391,7 @@
   {
     "ID": 124182,
     "Nome": "Marcos Victor Ferreira Da Silva",
+    "NomeCamisa": "VICTOR",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -4063,6 +4402,7 @@
   {
     "ID": 124197,
     "Nome": "Yan Da Cruz Souto",
+    "NomeCamisa": "YAN SOUTO",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4073,6 +4413,7 @@
   {
     "ID": 124199,
     "Nome": "Luiz Filipe Dos Reis Silva",
+    "NomeCamisa": "LUIZ FILIPE",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -4083,6 +4424,7 @@
   {
     "ID": 124323,
     "Nome": "Hércules Pereira Do Nascimento",
+    "NomeCamisa": "HÉRCULES",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -4093,6 +4435,7 @@
   {
     "ID": 124403,
     "Nome": "João Pedro Galvão De Carvalho",
+    "NomeCamisa": "JP GALVÃO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC),MD(C)",
@@ -4103,6 +4446,7 @@
   {
     "ID": 124435,
     "Nome": "Raniele Almeida Melo",
+    "NomeCamisa": "RANIELE",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -4113,6 +4457,7 @@
   {
     "ID": 124460,
     "Nome": "Leandro Mathias Silva Bueno",
+    "NomeCamisa": "MATHIAS",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4123,6 +4468,7 @@
   {
     "ID": 124477,
     "Nome": "Mateus Oliveira Mendes",
+    "NomeCamisa": "MATEUS",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4133,6 +4479,7 @@
   {
     "ID": 124495,
     "Nome": "Estêvão Barreto De Oliveira",
+    "NomeCamisa": "ESTÊVÃO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -4143,6 +4490,7 @@
   {
     "ID": 124625,
     "Nome": "Jefferson Ruan Pereira Dos Santos",
+    "NomeCamisa": "JEFFINHO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -4153,6 +4501,7 @@
   {
     "ID": 124629,
     "Nome": "Lucas Eduardo Lima Da Silva",
+    "NomeCamisa": "LUCAS LIMA",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MD(C),M(DC)",
@@ -4163,6 +4512,7 @@
   {
     "ID": 124709,
     "Nome": "Luciano Silva Santos",
+    "NomeCamisa": "LUCIANO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -4173,6 +4523,7 @@
   {
     "ID": 126074,
     "Nome": "Jair Paula Da Cunha Filho",
+    "NomeCamisa": "JAIR",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -4183,6 +4534,7 @@
   {
     "ID": 126143,
     "Nome": "Rodrigo Henrique Santos De Souza",
+    "NomeCamisa": "RODRIGUINHO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -4193,6 +4545,7 @@
   {
     "ID": 126396,
     "Nome": "Giovane Santana Do Nascimento",
+    "NomeCamisa": "GIOVANE",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DC)",
@@ -4203,6 +4556,7 @@
   {
     "ID": 127068,
     "Nome": "Gustavo Da Silva Cunha",
+    "NomeCamisa": "GUSTAVO SILVA",
     "Time": "Vitória de Guimarães",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D),MA(DE)",
@@ -4213,6 +4567,7 @@
   {
     "ID": 127073,
     "Nome": "Clayton Sampaio Pereira",
+    "NomeCamisa": "CLAYTON",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -4223,6 +4578,7 @@
   {
     "ID": 127191,
     "Nome": "Rodrigo Huendra Almeida Mendonca",
+    "NomeCamisa": "RODRIGUINHO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -4233,6 +4589,7 @@
   {
     "ID": 127250,
     "Nome": "Rafael Pasquali Rech",
+    "NomeCamisa": "RAFINHA",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -4243,6 +4600,7 @@
   {
     "ID": 128244,
     "Nome": "Matheus Dos Santos Dias",
+    "NomeCamisa": "MATHEUS DIAS",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -4253,6 +4611,7 @@
   {
     "ID": 128249,
     "Nome": "Kaiky Marques Naves",
+    "NomeCamisa": "NAVES",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -4260,10 +4619,10 @@
     "Camisa": "34",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/128249.png"
   },
-
   {
     "ID": 129595,
     "Nome": "Gabriel Falcão Moreira De Lima",
+    "NomeCamisa": "FALCÃO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -4274,6 +4633,7 @@
   {
     "ID": 129658,
     "Nome": "Ed Carlos De Arruda Amorim",
+    "NomeCamisa": "ED CARLOS",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -4284,6 +4644,7 @@
   {
     "ID": 129751,
     "Nome": "Lorran Lucas Pereira De Sousa",
+    "NomeCamisa": "LORRAN",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DC)",
@@ -4294,6 +4655,7 @@
   {
     "ID": 129845,
     "Nome": "Pedro Felipe De Faria Rangel",
+    "NomeCamisa": "PEDRO RANGEL",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4304,6 +4666,7 @@
   {
     "ID": 130334,
     "Nome": "Young Navarro Moraes",
+    "NomeCamisa": "YOUNG",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4314,6 +4677,7 @@
   {
     "ID": 130346,
     "Nome": "Gabriel Delfim Ferreira",
+    "NomeCamisa": "GABRIEL DELFIM",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4324,6 +4688,7 @@
   {
     "ID": 130348,
     "Nome": "Luan De Freitas Molarinho Chagas",
+    "NomeCamisa": "LUAN FREITAS",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4334,6 +4699,7 @@
   {
     "ID": 130526,
     "Nome": "Pedro Henrique Franklim Da Silva",
+    "NomeCamisa": "PEDRÃO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4344,6 +4710,7 @@
   {
     "ID": 130527,
     "Nome": "Breno De Souza Bidon",
+    "NomeCamisa": "BRENO BIDON",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -4354,6 +4721,7 @@
   {
     "ID": 130528,
     "Nome": "Leonardo Mana Hernandes",
+    "NomeCamisa": "LÉO MANA",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -4364,6 +4732,7 @@
   {
     "ID": 130529,
     "Nome": "João Victor Vieira Ferreira Sousa",
+    "NomeCamisa": "JOÃO VICTOR",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -4374,6 +4743,7 @@
   {
     "ID": 130530,
     "Nome": "Weliton Santos Do Amaral",
+    "NomeCamisa": "WELITON",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -4384,6 +4754,7 @@
   {
     "ID": 130537,
     "Nome": "David Ricardo Loiola Da Silva",
+    "NomeCamisa": "DAVID RICARDO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4394,6 +4765,7 @@
   {
     "ID": 130636,
     "Nome": "José Henrique Venancio Camargo",
+    "NomeCamisa": "ZÉ HENRIQUE",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4404,6 +4776,7 @@
   {
     "ID": 130707,
     "Nome": "Igo Gabriel Santos Pereira",
+    "NomeCamisa": "IGO GABRIEL",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4414,6 +4787,7 @@
   {
     "ID": 131183,
     "Nome": "Kaiki Bruno Da Silva",
+    "NomeCamisa": "KAIKI",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -4424,6 +4798,7 @@
   {
     "ID": 131184,
     "Nome": "Matheus De Araújo Andrade",
+    "NomeCamisa": "ARAÚJO",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(EC)",
@@ -4434,6 +4809,7 @@
   {
     "ID": 131190,
     "Nome": "Ryan Carlos Santos De Sousa",
+    "NomeCamisa": "RYAN",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -4444,6 +4820,7 @@
   {
     "ID": 131192,
     "Nome": "Sidnei Fernandes Junior",
+    "NomeCamisa": "SIDNEI",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4454,6 +4831,7 @@
   {
     "ID": 131199,
     "Nome": "Natã Felipe De Amorim Santos",
+    "NomeCamisa": "NATÃ",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4464,6 +4842,7 @@
   {
     "ID": 131200,
     "Nome": "Luis Eduardo Soares Da Silva",
+    "NomeCamisa": "CUIABANO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -4474,6 +4853,7 @@
   {
     "ID": 131372,
     "Nome": "Anthoni Spier Souza",
+    "NomeCamisa": "ANTHONI",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4484,6 +4864,7 @@
   {
     "ID": 131373,
     "Nome": "Lucca Holanda Sampaio Tavares",
+    "NomeCamisa": "LUCCA",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -4494,6 +4875,7 @@
   {
     "ID": 131374,
     "Nome": "Gustavo Martins De Souza Santos",
+    "NomeCamisa": "GUSTAVO M.",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4504,6 +4886,7 @@
   {
     "ID": 131388,
     "Nome": "Leonardo Matias Baiersdorf Linck",
+    "NomeCamisa": "LÉO LINCK",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4514,6 +4897,7 @@
   {
     "ID": 131391,
     "Nome": "João Victor De Amorim Marinho",
+    "NomeCamisa": "BALÃO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -4524,6 +4908,7 @@
   {
     "ID": 131392,
     "Nome": "Matheus José Belém De Souza",
+    "NomeCamisa": "BELÉM",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -4534,6 +4919,7 @@
   {
     "ID": 131633,
     "Nome": "Vitor Hugo Ferreira Oliveira",
+    "NomeCamisa": "VITINHO",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -4544,6 +4930,7 @@
   {
     "ID": 132582,
     "Nome": "Kevyson Costa E Silva",
+    "NomeCamisa": "KEVYSON",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -4554,6 +4941,7 @@
   {
     "ID": 132598,
     "Nome": "Audenirton Soares Da Silva",
+    "NomeCamisa": "MAGRÃO",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4564,6 +4952,7 @@
   {
     "ID": 132655,
     "Nome": "Gabriel Souza Da Silva",
+    "NomeCamisa": "G B",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -4574,6 +4963,7 @@
   {
     "ID": 132662,
     "Nome": "Ronald Cardoso Falkoski",
+    "NomeCamisa": "RONALD",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -4584,6 +4974,7 @@
   {
     "ID": 132714,
     "Nome": "Ian Luccas Baroni Boetto",
+    "NomeCamisa": "IAN LUCCAS",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -4594,6 +4985,7 @@
   {
     "ID": 132716,
     "Nome": "Leanderson Da Silva Genésio",
+    "NomeCamisa": "LELÊ",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -4604,6 +4996,7 @@
   {
     "ID": 132717,
     "Nome": "Kauan Rodrigues Da Silva",
+    "NomeCamisa": "KAUAN",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -4614,6 +5007,7 @@
   {
     "ID": 132719,
     "Nome": "Cauan Lucas Barros Da Luz",
+    "NomeCamisa": "CAUAN BARROS",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -4624,6 +5018,7 @@
   {
     "ID": 132724,
     "Nome": "Claudio Coelho Salvático",
+    "NomeCamisa": "CLAUDINHO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -4634,6 +5029,7 @@
   {
     "ID": 132802,
     "Nome": "Luis Fellipe Campos Doria",
+    "NomeCamisa": "LUISÃO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -4644,6 +5040,7 @@
   {
     "ID": 133240,
     "Nome": "Alexandre Fintelman De Mello Ribeiro Da Silva",
+    "NomeCamisa": "FINTELMAN",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4654,6 +5051,7 @@
   {
     "ID": 133283,
     "Nome": "Ivan Santos Júnior",
+    "NomeCamisa": "PIAUÍ",
     "Time": "Fluminense de Feira",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -4664,6 +5062,7 @@
   {
     "ID": 133292,
     "Nome": "Mateus Carvalho Dos Santos",
+    "NomeCamisa": "MATEUS CARVALHO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -4674,6 +5073,7 @@
   {
     "ID": 133293,
     "Nome": "Alisson De Almeida Santos",
+    "NomeCamisa": "ALISSON SANTOS",
     "Time": "Sporting CP",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -4684,6 +5084,7 @@
   {
     "ID": 133309,
     "Nome": "Renzo Azevedo Pimentel De Moura",
+    "NomeCamisa": "RENZO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4694,16 +5095,18 @@
   {
     "ID": 133310,
     "Nome": "André Felipe De Almeida Santos",
+    "NomeCamisa": "FELIPINHO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
     "Idade": 28,
-    "Camisa": "6",
+    "Camisa": "Desconhecido",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/133310.png"
   },
   {
     "ID": 133311,
     "Nome": "Pedro Victor Martins Silva Costa",
+    "NomeCamisa": "PEDRO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -4714,6 +5117,7 @@
   {
     "ID": 133390,
     "Nome": "Venicius Dos Santos Cascais",
+    "NomeCamisa": "VENICIUS",
     "Time": "EC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -4721,10 +5125,10 @@
     "Camisa": "Desconhecido",
     "ImageURL": ""
   },
-
   {
     "ID": 133524,
     "Nome": "Ruan Ribeiro Rodrigues",
+    "NomeCamisa": "RUAN RIBEIRO",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -4735,6 +5139,7 @@
   {
     "ID": 134045,
     "Nome": "Isaac Aguiar Tomich",
+    "NomeCamisa": "ISAAC",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -4745,6 +5150,7 @@
   {
     "ID": 134057,
     "Nome": "Luan Figueirôa Brito",
+    "NomeCamisa": "LUAN BRITO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -4755,6 +5161,7 @@
   {
     "ID": 134080,
     "Nome": "Paulo Ricardo De Souza Babilônia",
+    "NomeCamisa": "PAULINHO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -4765,6 +5172,7 @@
   {
     "ID": 135164,
     "Nome": "Gabriel De Souza Barros",
+    "NomeCamisa": "G. BARROS",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -4775,6 +5183,7 @@
   {
     "ID": 135178,
     "Nome": "André Henrique Da Silva Martins",
+    "NomeCamisa": "ANDRÉ",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -4785,6 +5194,7 @@
   {
     "ID": 135553,
     "Nome": "Kauan Kelvin Magalhães Da Silva",
+    "NomeCamisa": "KELVIN",
     "Time": "Sporting de Braga",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -4795,6 +5205,7 @@
   {
     "ID": 135556,
     "Nome": "Rayan Vitor Simplício Rocha",
+    "NomeCamisa": "RAYAN",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -4805,6 +5216,7 @@
   {
     "ID": 135993,
     "Nome": "Vitor Gabriel Reis Guimaraes",
+    "NomeCamisa": "VITOR GABRIEL",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -4815,6 +5227,7 @@
   {
     "ID": 135994,
     "Nome": "Carlos Eduardo Amaral Pereira De Castro",
+    "NomeCamisa": "CADU",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -4825,6 +5238,7 @@
   {
     "ID": 136104,
     "Nome": "Lucas Eduardo Muller",
+    "NomeCamisa": "LUCAS MILLA",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -4835,6 +5249,7 @@
   {
     "ID": 136231,
     "Nome": "Kaique Pereira Azarias",
+    "NomeCamisa": "KAIQUE",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4845,6 +5260,7 @@
   {
     "ID": 137284,
     "Nome": "Paulo Vitor Monteiro",
+    "NomeCamisa": "PAULO VITOR",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -4855,6 +5271,7 @@
   {
     "ID": 137354,
     "Nome": "Nathan Ribeiro Fernandes",
+    "NomeCamisa": "NATHAN F.",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -4865,6 +5282,7 @@
   {
     "ID": 138086,
     "Nome": "Rafael Da Silva Pontelo",
+    "NomeCamisa": "RAFAEL",
     "Time": "Sporting CP",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -4875,6 +5293,7 @@
   {
     "ID": 139086,
     "Nome": "Pedro Lima Barros",
+    "NomeCamisa": "PEDRO LIMA",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -4885,6 +5304,7 @@
   {
     "ID": 139163,
     "Nome": "Daniel De Oliveira Sertanejo",
+    "NomeCamisa": "DANIELZINHO",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,MA(C),M(DC)",
@@ -4895,6 +5315,7 @@
   {
     "ID": 139166,
     "Nome": "Reinaldo Kauan Bento Dos Santos",
+    "NomeCamisa": "KAUAN",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(C)",
@@ -4905,6 +5326,7 @@
   {
     "ID": 139167,
     "Nome": "Cristian Renato Gonçalves Riquelme",
+    "NomeCamisa": "CRISTIAN RENATO",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -4915,6 +5337,7 @@
   {
     "ID": 139198,
     "Nome": "Marco Antônio Da Silva Carvalho",
+    "NomeCamisa": "MARCO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4925,6 +5348,7 @@
   {
     "ID": 139204,
     "Nome": "Eduardo Marcelo Rodrigues Nunes",
+    "NomeCamisa": "DUDU",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -4935,6 +5359,7 @@
   {
     "ID": 139463,
     "Nome": "Renato Santos Da Cruz",
+    "NomeCamisa": "RENATO",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -4945,6 +5370,7 @@
   {
     "ID": 139510,
     "Nome": "José Welinton Campos Menezes",
+    "NomeCamisa": "ZÉ WELINTON",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -4955,6 +5381,7 @@
   {
     "ID": 139514,
     "Nome": "Lian Dos Santos Da Silva",
+    "NomeCamisa": "LIAN",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -4965,6 +5392,7 @@
   {
     "ID": 139680,
     "Nome": "João Fernando Monteiro Siqueira",
+    "NomeCamisa": "JOÃO FERNANDO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -4975,6 +5403,7 @@
   {
     "ID": 139688,
     "Nome": "Janderson De Carvalho Costa",
+    "NomeCamisa": "JANDERSON",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -4985,6 +5414,7 @@
   {
     "ID": 139933,
     "Nome": "Victor Hugo Da Silva Costa",
+    "NomeCamisa": "VITINHO",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -4995,6 +5425,7 @@
   {
     "ID": 140158,
     "Nome": "Felipe Negrucci Berdague",
+    "NomeCamisa": "FELIPE N.",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5005,6 +5436,7 @@
   {
     "ID": 140202,
     "Nome": "Felipe De Andrade Vieira",
+    "NomeCamisa": "F. ANDRADE",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5015,6 +5447,7 @@
   {
     "ID": 140204,
     "Nome": "Kayky Henrique Almeida Brandão Da Silva",
+    "NomeCamisa": "KAYKY",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5025,6 +5458,7 @@
   {
     "ID": 140208,
     "Nome": "Ryan Gustavo De Lima",
+    "NomeCamisa": "RYAN",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -5035,6 +5469,7 @@
   {
     "ID": 140268,
     "Nome": "Fábio Matheus Ribeiro Lima",
+    "NomeCamisa": "FÁBIO MATHEUS",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -5045,6 +5480,7 @@
   {
     "ID": 140269,
     "Nome": "Juan Claudio De Faria Xavier",
+    "NomeCamisa": "XAVIER",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -5055,6 +5491,7 @@
   {
     "ID": 140274,
     "Nome": "Kelvi Chiesa Gomes",
+    "NomeCamisa": "KELVI",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5065,6 +5502,7 @@
   {
     "ID": 140285,
     "Nome": "Mayksilvan Da Silva Ferreira",
+    "NomeCamisa": "MAYK",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -5075,6 +5513,7 @@
   {
     "ID": 140327,
     "Nome": "Miqueias Cabral Evaristo",
+    "NomeCamisa": "MIQUÉIAS",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(C)",
@@ -5085,6 +5524,7 @@
   {
     "ID": 140397,
     "Nome": "Caique De Jesus Gonçalves",
+    "NomeCamisa": "CAIQUE",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(C)",
@@ -5095,6 +5535,7 @@
   {
     "ID": 140398,
     "Nome": "Erick Da Costa Farias",
+    "NomeCamisa": "ERICK PULGA",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(E)",
@@ -5105,6 +5546,7 @@
   {
     "ID": 140532,
     "Nome": "José Guilherme De Lima Costa",
+    "NomeCamisa": "GUILHERME",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -5115,6 +5557,7 @@
   {
     "ID": 140533,
     "Nome": "Alexsandro Amorim De Freitas Filho",
+    "NomeCamisa": "AMORIM",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -5125,6 +5568,7 @@
   {
     "ID": 140744,
     "Nome": "Leonardo De Aragão Carvalho",
+    "NomeCamisa": "LÉO ARAGÃO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5135,6 +5579,7 @@
   {
     "ID": 141114,
     "Nome": "Riquelme Fillipi Marinho De Souza",
+    "NomeCamisa": "FILLIPI",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -5145,6 +5590,7 @@
   {
     "ID": 141322,
     "Nome": "Gabriel Gonçalves De Souza",
+    "NomeCamisa": "GABRIEL SOUZA",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5155,6 +5601,7 @@
   {
     "ID": 141740,
     "Nome": "João Wellington Gadelha Melo De Oliveira",
+    "NomeCamisa": "JAPA",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5165,6 +5612,7 @@
   {
     "ID": 141741,
     "Nome": "Gustavo Ramalho Bremer Pinto",
+    "NomeCamisa": "",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5175,6 +5623,7 @@
   {
     "ID": 141742,
     "Nome": "Rafael Monteiro Reis",
+    "NomeCamisa": "RAFAEL MONTEIRO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(E)",
@@ -5185,6 +5634,7 @@
   {
     "ID": 141744,
     "Nome": "Wesley Da Costa Silva",
+    "NomeCamisa": "",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -5195,6 +5645,7 @@
   {
     "ID": 141745,
     "Nome": "Josué Souza Dos Santos",
+    "NomeCamisa": "SOUZA",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5205,6 +5656,7 @@
   {
     "ID": 141746,
     "Nome": "Luis Fernando Santos Oliveira",
+    "NomeCamisa": "FERNANDO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -5215,6 +5667,7 @@
   {
     "ID": 141748,
     "Nome": "João Paulo Dalla Corte",
+    "NomeCamisa": "DALLA CORTE",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -5225,6 +5678,7 @@
   {
     "ID": 141967,
     "Nome": "Phillipe Gabriel Pires De Oliveira",
+    "NomeCamisa": "PHILLIPE GABRIEL",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5235,6 +5689,7 @@
   {
     "ID": 142133,
     "Nome": "Luighi Hanri Sousa Santos",
+    "NomeCamisa": "LUIGHI",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA(E),A(EC)",
@@ -5245,6 +5700,7 @@
   {
     "ID": 142135,
     "Nome": "Rayan Lucas Marques De Souza",
+    "NomeCamisa": "",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5255,6 +5711,7 @@
   {
     "ID": 142136,
     "Nome": "João Pedro Do Nascimento Da Mata",
+    "NomeCamisa": "DA MATA",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5265,6 +5722,7 @@
   {
     "ID": 142137,
     "Nome": "João Pedro De Sousa Rodrigues",
+    "NomeCamisa": "TCHOCA",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5275,6 +5733,7 @@
   {
     "ID": 142138,
     "Nome": "Julio Cesar Lima Fidelis",
+    "NomeCamisa": "FIDELIS",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -5285,6 +5744,7 @@
   {
     "ID": 142139,
     "Nome": "Viery Fernandes Santos Lopes",
+    "NomeCamisa": "VIERY",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5295,6 +5755,7 @@
   {
     "ID": 142140,
     "Nome": "Ruan Silva Fonseca",
+    "NomeCamisa": "RUAN ÍNDIO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -5305,6 +5766,7 @@
   {
     "ID": 142142,
     "Nome": "Agner Moura Izigethy De Souza",
+    "NomeCamisa": "AGNER",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -5315,6 +5777,7 @@
   {
     "ID": 142143,
     "Nome": "Thiago Henrique Gonçalves Silva",
+    "NomeCamisa": "THIAGO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5325,6 +5788,7 @@
   {
     "ID": 142144,
     "Nome": "Lucas Da Silva Justen",
+    "NomeCamisa": "JUSTEN",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
@@ -5335,6 +5799,7 @@
   {
     "ID": 142146,
     "Nome": "Gustavo Abreu Dohmann",
+    "NomeCamisa": "DOHMANN",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5345,6 +5810,7 @@
   {
     "ID": 143237,
     "Nome": "Jhonny Cardinoti Pedro",
+    "NomeCamisa": "JHONNY",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -5355,6 +5821,7 @@
   {
     "ID": 143385,
     "Nome": "Jardiel Maciel Libertino Da Silva",
+    "NomeCamisa": "JARDIEL",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -5365,6 +5832,7 @@
   {
     "ID": 143547,
     "Nome": "João Pedro Da Cruz Oliveira",
+    "NomeCamisa": "JOÃO PEDRO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -5375,6 +5843,7 @@
   {
     "ID": 143548,
     "Nome": "Pablo De Paula Cardoso",
+    "NomeCamisa": "PABLO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5385,6 +5854,7 @@
   {
     "ID": 143636,
     "Nome": "Newton Araújo Da Costa Júnior",
+    "NomeCamisa": "NEWTON",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5395,6 +5865,7 @@
   {
     "ID": 143655,
     "Nome": "Thalys Henrique Gomes De Araújo",
+    "NomeCamisa": "THALYS",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DC)",
@@ -5405,6 +5876,7 @@
   {
     "ID": 143675,
     "Nome": "Kayke Ferrari Guimarães",
+    "NomeCamisa": "KAYKE FERRARI",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -5415,6 +5887,7 @@
   {
     "ID": 144007,
     "Nome": "Kauê Rodrigues Pessanha",
+    "NomeCamisa": "KAUÊ",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5425,16 +5898,18 @@
   {
     "ID": 144670,
     "Nome": "Lucyan Gabriel Arruda Delgado",
+    "NomeCamisa": "LUCYAN",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D(DC)",
-    "Idade": 18,
+    "Idade": 19,
     "Camisa": "Desconhecido",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/144670.png"
   },
   {
     "ID": 144671,
     "Nome": "Gustavo Prado Alves",
+    "NomeCamisa": "GUSTAVO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -5445,6 +5920,7 @@
   {
     "ID": 144795,
     "Nome": "Vitor Hugo Amorim De Assis",
+    "NomeCamisa": "VITINHO",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -5455,6 +5931,7 @@
   {
     "ID": 144798,
     "Nome": "João Victor Broad Moreira Guimarães",
+    "NomeCamisa": "JOTA",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "M(C)",
@@ -5465,6 +5942,7 @@
   {
     "ID": 144799,
     "Nome": "Roger Gabriel Farias De Jesus",
+    "NomeCamisa": "ROGER GABRIEL",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -5475,6 +5953,7 @@
   {
     "ID": 144801,
     "Nome": "Francisco Dyogo Bento Alves",
+    "NomeCamisa": "DYOGO ALVES",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5485,6 +5964,7 @@
   {
     "ID": 144802,
     "Nome": "Evertton Gustavo Fernandes Araújo",
+    "NomeCamisa": "EVERTTON",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5495,6 +5975,7 @@
   {
     "ID": 144805,
     "Nome": "Igor Teixeira Felisberto",
+    "NomeCamisa": "FELISBERTO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -5505,6 +5986,7 @@
   {
     "ID": 144806,
     "Nome": "Diego Esser Pereira",
+    "NomeCamisa": "DIEGO ESSER",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5515,6 +5997,7 @@
   {
     "ID": 144807,
     "Nome": "Leandro Viana Da Silva Gama",
+    "NomeCamisa": "LEANDRINHO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -5525,6 +6008,7 @@
   {
     "ID": 144809,
     "Nome": "Lucas Eduardo De Souza Oliveira",
+    "NomeCamisa": "L. EDUARDO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5535,16 +6019,18 @@
   {
     "ID": 145444,
     "Nome": "Fellipe Jack Ozilio Moreira Pacheco",
+    "NomeCamisa": "JACK",
     "Time": "Palmeiras",
-    "Nacionalidade": "Itália",
+    "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
     "Idade": 19,
-    "Camisa": "15",
+    "Camisa": "Desconhecido",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/145444.png"
   },
   {
     "ID": 145808,
     "Nome": "João Pedro Chermont Crema",
+    "NomeCamisa": "JP CHERMONT",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(DC)",
@@ -5555,16 +6041,18 @@
   {
     "ID": 145818,
     "Nome": "João Victor De Souza Menezes",
+    "NomeCamisa": "SOUZA",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(E)",
-    "Idade": 18,
+    "Idade": 19,
     "Camisa": "33",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/145818.png"
   },
   {
     "ID": 145851,
     "Nome": "Wanderson Carlos Ferreira Dos Santos",
+    "NomeCamisa": "ARANHA",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5575,6 +6063,7 @@
   {
     "ID": 145852,
     "Nome": "Patrick Roberto Da Silva Campos",
+    "NomeCamisa": "PATRICK",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5585,6 +6074,7 @@
   {
     "ID": 145946,
     "Nome": "Gabriel Ferreira De Carvalho",
+    "NomeCamisa": "GABRIEL MEC",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -5595,6 +6085,7 @@
   {
     "ID": 145949,
     "Nome": "Mateus José Iseppe",
+    "NomeCamisa": "MATEUS ISEPPE",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -5605,6 +6096,7 @@
   {
     "ID": 146192,
     "Nome": "Kawan Thomaz Reis De Moraes",
+    "NomeCamisa": "KAWAN",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5615,6 +6107,7 @@
   {
     "ID": 146193,
     "Nome": "Yarlen Faustino Augusto",
+    "NomeCamisa": "YARLEN",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -5625,6 +6118,7 @@
   {
     "ID": 146272,
     "Nome": "Ryan Felipe Dos Santos Silva",
+    "NomeCamisa": "FELIPE",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -5635,6 +6129,7 @@
   {
     "ID": 146273,
     "Nome": "Thierry Henry Santos Souza",
+    "NomeCamisa": "HENRY",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -5645,6 +6140,7 @@
   {
     "ID": 146277,
     "Nome": "João Pedro Pantiga Gomes",
+    "NomeCamisa": "JOÃO PEDRO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5655,6 +6151,7 @@
   {
     "ID": 146287,
     "Nome": "Ricardo Mathias Da Silva",
+    "NomeCamisa": "RICARDO MATHIAS",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -5665,6 +6162,7 @@
   {
     "ID": 146288,
     "Nome": "Henrique Fabiano Do Carmo",
+    "NomeCamisa": "CARMO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DC),A(D)",
@@ -5675,6 +6173,7 @@
   {
     "ID": 146289,
     "Nome": "Ryan Francisco Rodrigues Dos Santos",
+    "NomeCamisa": "RYAN FRANCISCO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -5685,6 +6184,7 @@
   {
     "ID": 146290,
     "Nome": "Felipe Gabriel Preis",
+    "NomeCamisa": "FELIPE PREIS",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5695,6 +6195,7 @@
   {
     "ID": 146293,
     "Nome": "Yago Eduardo Noal Lopes",
+    "NomeCamisa": "YAGO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -5705,6 +6206,7 @@
   {
     "ID": 146347,
     "Nome": "Sidney De Carvalho Duarte",
+    "NomeCamisa": "SIDNEY",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5715,6 +6217,7 @@
   {
     "ID": 146348,
     "Nome": "Matheus Ferreira Gomes",
+    "NomeCamisa": "FERREIRA",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -5725,6 +6228,7 @@
   {
     "ID": 146542,
     "Nome": "Robert Dos Santos Conceição",
+    "NomeCamisa": "SANTOS",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -5735,6 +6239,7 @@
   {
     "ID": 146551,
     "Nome": "Guilherme Meira Ferreira Alves",
+    "NomeCamisa": "GUI MEIRA",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(EC)",
@@ -5745,6 +6250,7 @@
   {
     "ID": 146868,
     "Nome": "Gabriel Átila Cardoso Da Silva",
+    "NomeCamisa": "",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5755,6 +6261,7 @@
   {
     "ID": 147054,
     "Nome": "Ryan Guilherme Da Silva Pae",
+    "NomeCamisa": "RYAN",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -5765,6 +6272,7 @@
   {
     "ID": 147058,
     "Nome": "Yago De Paula Ferreira",
+    "NomeCamisa": "YAGO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -5775,6 +6283,7 @@
   {
     "ID": 147059,
     "Nome": "Matheus Henrique Miranda Do Nascimento",
+    "NomeCamisa": "BARAKA",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5785,6 +6294,7 @@
   {
     "ID": 147106,
     "Nome": "Ryan Roberto De Oliveira Dantas",
+    "NomeCamisa": "ROBERTO",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(EC)",
@@ -5795,6 +6305,7 @@
   {
     "ID": 147107,
     "Nome": "Pedro Gabriel Crisostomo Pinheiro",
+    "NomeCamisa": "",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -5805,6 +6316,7 @@
   {
     "ID": 147221,
     "Nome": "Hyan Carvalho Machado Silva",
+    "NomeCamisa": "HYAN",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -5815,6 +6327,7 @@
   {
     "ID": 147261,
     "Nome": "João Vitor Cardoso De Souza",
+    "NomeCamisa": "JOÃO VITOR",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -5825,6 +6338,7 @@
   {
     "ID": 147400,
     "Nome": "Guilherme Cachoeira Silveira",
+    "NomeCamisa": "CACHOEIRA",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -5835,6 +6349,7 @@
   {
     "ID": 147443,
     "Nome": "Daniel Henrique Aguiar Mazerochi",
+    "NomeCamisa": "MAZEROCHI",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(D)",
@@ -5845,6 +6360,7 @@
   {
     "ID": 147447,
     "Nome": "Jonathan De Jesus Alves",
+    "NomeCamisa": "JONATHAN",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5855,6 +6371,7 @@
   {
     "ID": 147462,
     "Nome": "Lucas André Silva Da Costa",
+    "NomeCamisa": "LUCAS",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -5865,6 +6382,7 @@
   {
     "ID": 147566,
     "Nome": "Erick Machado Belé",
+    "NomeCamisa": "BELÉ",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(C)",
@@ -5875,6 +6393,7 @@
   {
     "ID": 147573,
     "Nome": "João Pedro Murilo De Paula Morais",
+    "NomeCamisa": "PEDRO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -5885,6 +6404,7 @@
   {
     "ID": 147585,
     "Nome": "Wesley Santos Silva",
+    "NomeCamisa": "WESLEY",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(D)",
@@ -5895,6 +6415,7 @@
   {
     "ID": 147613,
     "Nome": "João Batista Da Cruz Santos Neto",
+    "NomeCamisa": "JOÃO NETO",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -5905,6 +6426,7 @@
   {
     "ID": 147616,
     "Nome": "Hayran Pedro Ferro",
+    "NomeCamisa": "HAYRAN",
     "Time": "EC Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5915,6 +6437,7 @@
   {
     "ID": 147686,
     "Nome": "Marcos Venicius Santos Miranda",
+    "NomeCamisa": "MARCÃO",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -5925,6 +6448,7 @@
   {
     "ID": 147766,
     "Nome": "Rômulo Helberte Pereira Júnior",
+    "NomeCamisa": "RÔMULO",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5935,6 +6459,7 @@
   {
     "ID": 147974,
     "Nome": "Iago Teodoro Da Silva Nogueira",
+    "NomeCamisa": "IAGO",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5945,6 +6470,7 @@
   {
     "ID": 147975,
     "Nome": "Wallace Yan De Souza Barreto",
+    "NomeCamisa": "YAN",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(EC)",
@@ -5955,6 +6481,7 @@
   {
     "ID": 147976,
     "Nome": "Riquelme Freitas Dos Santos",
+    "NomeCamisa": "",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -5965,6 +6492,7 @@
   {
     "ID": 149945,
     "Nome": "Luis Gustavo Roncholeta Benedetti",
+    "NomeCamisa": "BENEDETTI",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -5975,6 +6503,7 @@
   {
     "ID": 149946,
     "Nome": "Allan Andrade Elias",
+    "NomeCamisa": "ALLAN",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -5985,6 +6514,7 @@
   {
     "ID": 149947,
     "Nome": "Paulo Sérgio Venuto Bezerra",
+    "NomeCamisa": "PAULO SÉRGIO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -5995,6 +6525,7 @@
   {
     "ID": 150241,
     "Nome": "Guilherme Estrella De Paiva",
+    "NomeCamisa": "G. ESTRELLA",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -6005,6 +6536,7 @@
   {
     "ID": 150482,
     "Nome": "Leandro Matheus Dos Anjos Conceição De Oliveira",
+    "NomeCamisa": "MATHEUS",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6015,6 +6547,7 @@
   {
     "ID": 150501,
     "Nome": "Carlos André Dos Santos Assunção",
+    "NomeCamisa": "CARLOS ANDRÉ",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6025,6 +6558,7 @@
   {
     "ID": 150502,
     "Nome": "Alexsandro Domingos Santos Filho",
+    "NomeCamisa": "ALEX",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6035,6 +6569,7 @@
   {
     "ID": 150621,
     "Nome": "Bruno Lopes Ferreira",
+    "NomeCamisa": "BRUNO LOPES",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6045,6 +6580,7 @@
   {
     "ID": 150923,
     "Nome": "Felipe Longo Fernandes Da Silva",
+    "NomeCamisa": "",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6055,6 +6591,7 @@
   {
     "ID": 150924,
     "Nome": "Yago Kauã Rodrigues Gonçalves",
+    "NomeCamisa": "",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6065,6 +6602,7 @@
   {
     "ID": 150925,
     "Nome": "Jhosefer Raphael Januário",
+    "NomeCamisa": "JHOSEFER",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -6075,6 +6613,7 @@
   {
     "ID": 150926,
     "Nome": "Arthur Rodrigues Viana",
+    "NomeCamisa": "ARTHUR VIANA",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6085,6 +6624,7 @@
   {
     "ID": 150929,
     "Nome": "Fábio Soares Dos Santos",
+    "NomeCamisa": "FÁBIO SOARES",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -6095,6 +6635,7 @@
   {
     "ID": 150930,
     "Nome": "Caio Albado Barone",
+    "NomeCamisa": "",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6105,6 +6646,7 @@
   {
     "ID": 150931,
     "Nome": "Daniel Dos Santos Sales",
+    "NomeCamisa": "",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -6115,6 +6657,7 @@
   {
     "ID": 150933,
     "Nome": "Iarley Gilberto De Barros Leal",
+    "NomeCamisa": "IARLEY",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6125,6 +6668,7 @@
   {
     "ID": 150934,
     "Nome": "Thiago Beltrame Stallbaum",
+    "NomeCamisa": "BELTRAME",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6135,6 +6679,7 @@
   {
     "ID": 150935,
     "Nome": "Igor Eduardo Schlemper",
+    "NomeCamisa": "IGOR",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -6145,6 +6690,7 @@
   {
     "ID": 150937,
     "Nome": "Alysson Edward Franco Da Rocha",
+    "NomeCamisa": "ALYSSON EDWARD",
     "Time": "Grêmio",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -6155,6 +6701,7 @@
   {
     "ID": 150938,
     "Nome": "Abner Salles Da Silva",
+    "NomeCamisa": "ABNER",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6165,6 +6712,7 @@
   {
     "ID": 150939,
     "Nome": "Cauê Pereira Da Rocha",
+    "NomeCamisa": "DA ROCHA",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -6175,6 +6723,7 @@
   {
     "ID": 150940,
     "Nome": "Rafael Oliveira Pinna",
+    "NomeCamisa": "",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -6185,6 +6734,7 @@
   {
     "ID": 150942,
     "Nome": "Igor Odoni Gomes",
+    "NomeCamisa": "IGÃO",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6195,6 +6745,7 @@
   {
     "ID": 150943,
     "Nome": "Lucca Pelosi Drummond",
+    "NomeCamisa": "L. DRUMMOND",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -6205,6 +6756,7 @@
   {
     "ID": 150944,
     "Nome": "Cauã Paixão Souza",
+    "NomeCamisa": "CAUÃ PAIXÃO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6215,6 +6767,7 @@
   {
     "ID": 151671,
     "Nome": "Gilberto Junior Leite Dos Santos",
+    "NomeCamisa": "GILBERTO",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -6225,6 +6778,7 @@
   {
     "ID": 151743,
     "Nome": "Ruan Pablo Barbosa Sousa",
+    "NomeCamisa": "RUAN PABLO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6235,6 +6789,7 @@
   {
     "ID": 151774,
     "Nome": "Geilson De Souza Alves",
+    "NomeCamisa": "GEILSON",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6245,6 +6800,7 @@
   {
     "ID": 151775,
     "Nome": "João Víctor Vaz Lopes Pinto",
+    "NomeCamisa": "VITINHO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -6255,6 +6811,7 @@
   {
     "ID": 152105,
     "Nome": "Isaque Severino Silva",
+    "NomeCamisa": "ISAQUE",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -6265,6 +6822,7 @@
   {
     "ID": 152112,
     "Nome": "Davi Góes Silva Ferreira Carvalho",
+    "NomeCamisa": "DAVI GÓES",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6275,6 +6833,7 @@
   {
     "ID": 152327,
     "Nome": "Eric Almeida De Melo",
+    "NomeCamisa": "ERIC A.",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -6285,6 +6844,7 @@
   {
     "ID": 152329,
     "Nome": "Rodrigo Oliveira Dos Santos",
+    "NomeCamisa": "SANTOS",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6295,6 +6855,7 @@
   {
     "ID": 152801,
     "Nome": "Kauã Wellhington Oliveira Pinto",
+    "NomeCamisa": "",
     "Time": "Sporting CP",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -6305,6 +6866,7 @@
   {
     "ID": 153489,
     "Nome": "Vitor Dos Santos Figueiredo",
+    "NomeCamisa": "FIGUEIREDO",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -6315,6 +6877,7 @@
   {
     "ID": 153490,
     "Nome": "Deivid Andrade Soares",
+    "NomeCamisa": "ANDRADE",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6325,6 +6888,7 @@
   {
     "ID": 153491,
     "Nome": "Arthur Gabriel Santana Marcolino",
+    "NomeCamisa": "",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -6335,6 +6899,7 @@
   {
     "ID": 153492,
     "Nome": "Ramon Riquelme Felipe Pereira",
+    "NomeCamisa": "",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -6345,6 +6910,7 @@
   {
     "ID": 153908,
     "Nome": "João Rafael Macedo Pereira",
+    "NomeCamisa": "JOÃO RAFAEL",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "M(C)",
@@ -6355,6 +6921,7 @@
   {
     "ID": 153954,
     "Nome": "Bernardo Paias Ferreiras",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -6365,6 +6932,7 @@
   {
     "ID": 153955,
     "Nome": "Gabriel Morais Silva Bontempo",
+    "NomeCamisa": "BONTEMPO",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -6375,6 +6943,7 @@
   {
     "ID": 153956,
     "Nome": "Mateus Xavier De Sousa",
+    "NomeCamisa": "XAVIER",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -6385,6 +6954,7 @@
   {
     "ID": 153965,
     "Nome": "Lyncon Correa Gonçalves",
+    "NomeCamisa": "",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6395,6 +6965,7 @@
   {
     "ID": 153966,
     "Nome": "Enzo Duscov Boer",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(EC)",
@@ -6405,6 +6976,7 @@
   {
     "ID": 154043,
     "Nome": "João Victor Schlickmann Carbone",
+    "NomeCamisa": "CARBONE",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -6415,6 +6987,7 @@
   {
     "ID": 154044,
     "Nome": "Felipe Gabriel Cunha Teresa",
+    "NomeCamisa": "",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6425,6 +6998,7 @@
   {
     "ID": 154045,
     "Nome": "Guilherme William Silva Inacio",
+    "NomeCamisa": "NEGÃO",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -6435,6 +7009,7 @@
   {
     "ID": 154047,
     "Nome": "Tevis Gabriel Alves Santos",
+    "NomeCamisa": "TEVIS",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6445,6 +7020,7 @@
   {
     "ID": 154048,
     "Nome": "Tiago Souza De Jesus Carvalho",
+    "NomeCamisa": "TIAGO",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6455,6 +7031,7 @@
   {
     "ID": 154049,
     "Nome": "Luiz Gustavo Marinho Ribeiro Dos Santos",
+    "NomeCamisa": "LUIZ GUSTAVO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6463,18 +7040,9 @@
     "ImageURL": "https://cdn.soccerwiki.org/images/player/154049.png"
   },
   {
-    "ID": 154052,
-    "Nome": "Kauan Jesus Santos Oliveira",
-    "Time": "SC Internacional",
-    "Nacionalidade": "Brasil",
-    "Posição": "G",
-    "Idade": 22,
-    "Camisa": "22",
-    "ImageURL": "https://cdn.soccerwiki.org/images/player/154052.png"
-  },
-  {
     "ID": 154053,
     "Nome": "Evertow Vaz Pereira Da Silva",
+    "NomeCamisa": "EVERTOW",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6485,6 +7053,7 @@
   {
     "ID": 154054,
     "Nome": "Luis Otávio Costa De Aquino",
+    "NomeCamisa": "LUIS OTÁVIO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6495,6 +7064,7 @@
   {
     "ID": 154056,
     "Nome": "Roque Santos De Jesus Júnior",
+    "NomeCamisa": "JÚNIOR",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6505,6 +7075,7 @@
   {
     "ID": 154057,
     "Nome": "José Breno Silva Costa",
+    "NomeCamisa": "ZÉ BRENO",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6515,6 +7086,7 @@
   {
     "ID": 154058,
     "Nome": "Pablo Santos De Alcantara",
+    "NomeCamisa": "PABLO SANTOS",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -6525,6 +7097,7 @@
   {
     "ID": 154059,
     "Nome": "Luis Miguel Borges De Paula",
+    "NomeCamisa": "LUIS MIGUEL",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -6535,6 +7108,7 @@
   {
     "ID": 154060,
     "Nome": "Lawan Kennyd Gabriel Santos",
+    "NomeCamisa": "LAWAN",
     "Time": "EC Vitória",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -6545,16 +7119,18 @@
   {
     "ID": 154065,
     "Nome": "Mário Vinnicius Souza Rodrigues Silva",
+    "NomeCamisa": "MÁRIO",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "G",
-    "Idade": 19,
+    "Idade": 20,
     "Camisa": "53",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/154065.png"
   },
   {
     "ID": 154590,
     "Nome": "Kaique Kenji Takamura Correa",
+    "NomeCamisa": "",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(E),A(EC)",
@@ -6565,6 +7141,7 @@
   {
     "ID": 155957,
     "Nome": "João Victor De Souza Cunha",
+    "NomeCamisa": "JOÃO VICTOR",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6575,6 +7152,7 @@
   {
     "ID": 156226,
     "Nome": "Otávio Eleodoro Rezende Costa",
+    "NomeCamisa": "",
     "Time": "Cruzeiro",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6585,6 +7163,7 @@
   {
     "ID": 156227,
     "Nome": "Caio Vinicius Garcia Guilhen",
+    "NomeCamisa": "",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6595,6 +7174,7 @@
   {
     "ID": 156610,
     "Nome": "Henrique Menke Lopes",
+    "NomeCamisa": "",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6605,6 +7185,7 @@
   {
     "ID": 156669,
     "Nome": "Lucas Dos Santos Ferreira",
+    "NomeCamisa": "FERREIRA",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -6615,6 +7196,7 @@
   {
     "ID": 156696,
     "Nome": "Matheus Alves Nascimento",
+    "NomeCamisa": "",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -6625,6 +7207,7 @@
   {
     "ID": 157195,
     "Nome": "Rafael Genuino Lobato",
+    "NomeCamisa": "RAFAEL LOBATO",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E),MA(DE)",
@@ -6635,6 +7218,7 @@
   {
     "ID": 157196,
     "Nome": "Wallace Davi Nunes Da Silva Dias",
+    "NomeCamisa": "WALLACE DAVI",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6645,6 +7229,7 @@
   {
     "ID": 157197,
     "Nome": "Riquelme Felipe Silva De Almeida",
+    "NomeCamisa": "RIQUELME",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DE)",
@@ -6655,6 +7240,7 @@
   {
     "ID": 157199,
     "Nome": "Marcelo Alixandre Ajul",
+    "NomeCamisa": "MARCELO AJUL",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6665,6 +7251,7 @@
   {
     "ID": 157507,
     "Nome": "Cristiano Araújo De Moraes Junior",
+    "NomeCamisa": "",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6675,6 +7262,7 @@
   {
     "ID": 157508,
     "Nome": "Vinícius Lima Serafim",
+    "NomeCamisa": "SERAFIM",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6685,6 +7273,7 @@
   {
     "ID": 157509,
     "Nome": "Carlos Eduardo Coutinho De Goes",
+    "NomeCamisa": "",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6695,6 +7284,7 @@
   {
     "ID": 157510,
     "Nome": "Guilherme Henrique Bernardineli Gomes",
+    "NomeCamisa": "",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -6705,6 +7295,7 @@
   {
     "ID": 157511,
     "Nome": "Kauã Davi Fernandes Braga",
+    "NomeCamisa": "",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6715,6 +7306,7 @@
   {
     "ID": 157512,
     "Nome": "Frederico Lippert Neto Gomes",
+    "NomeCamisa": "GOMES",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6725,16 +7317,18 @@
   {
     "ID": 157513,
     "Nome": "Wendeson Wanderley Santos De Melo",
+    "NomeCamisa": "DELL",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
-    "Idade": 16,
+    "Idade": 17,
     "Camisa": "Desconhecido",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/157513.png"
   },
   {
     "ID": 157514,
     "Nome": "Gustavo Henrique Lacerda Ferreira",
+    "NomeCamisa": "",
     "Time": "Mirassol FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6745,6 +7339,7 @@
   {
     "ID": 157517,
     "Nome": "Vinicius Rodrigues Lira",
+    "NomeCamisa": "VINICIUS LIRA",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -6755,6 +7350,7 @@
   {
     "ID": 157518,
     "Nome": "Luca Oliveira Meirelles",
+    "NomeCamisa": "LUCA MEIRELLES",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -6765,6 +7361,7 @@
   {
     "ID": 157519,
     "Nome": "Pedro Kauã Rodrigues Machado",
+    "NomeCamisa": "",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6775,6 +7372,7 @@
   {
     "ID": 157520,
     "Nome": "Victor Gabriel Da Conceição Ribeiro",
+    "NomeCamisa": "VICTOR GABRIEL",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -6785,6 +7383,7 @@
   {
     "ID": 157521,
     "Nome": "Pablo Pereira Da Costa",
+    "NomeCamisa": "PABLO",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -6795,6 +7394,7 @@
   {
     "ID": 157522,
     "Nome": "Bernardo Jacob Ferreira",
+    "NomeCamisa": "",
     "Time": "SC Internacional",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6805,6 +7405,7 @@
   {
     "ID": 157525,
     "Nome": "Diego Vitor Costa Dominguez",
+    "NomeCamisa": "DIEGUINHO",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "A(C)",
@@ -6815,6 +7416,7 @@
   {
     "ID": 157585,
     "Nome": "Mateus Amaral Ferreira Guimarães",
+    "NomeCamisa": "AMARAL",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -6825,6 +7427,7 @@
   {
     "ID": 157746,
     "Nome": "José Lucas Gomes Da Silva",
+    "NomeCamisa": "ZÉ LUCAS",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6835,6 +7438,7 @@
   {
     "ID": 159502,
     "Nome": "Robson Fernandes Dos Santos",
+    "NomeCamisa": "FERNANDES",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -6845,6 +7449,7 @@
   {
     "ID": 159503,
     "Nome": "Rafael Barbosa Coutinho",
+    "NomeCamisa": "",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M,MA(C)",
@@ -6855,6 +7460,7 @@
   {
     "ID": 159524,
     "Nome": "Wesley Lima De Souza",
+    "NomeCamisa": "",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -6865,6 +7471,7 @@
   {
     "ID": 159526,
     "Nome": "Addi Henrique Da Silva Lujete",
+    "NomeCamisa": "",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -6875,6 +7482,7 @@
   {
     "ID": 159702,
     "Nome": "Pedro Henrique Bezerra Araujo",
+    "NomeCamisa": "",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6885,6 +7493,7 @@
   {
     "ID": 159703,
     "Nome": "Pedro Andrade Drozina",
+    "NomeCamisa": "",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6895,6 +7504,7 @@
   {
     "ID": 159704,
     "Nome": "Maik Gomes Viegas",
+    "NomeCamisa": "",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -6905,6 +7515,7 @@
   {
     "ID": 159705,
     "Nome": "Guilherme Reis Oliveira",
+    "NomeCamisa": "",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -6915,6 +7526,7 @@
   {
     "ID": 159706,
     "Nome": "Hugo Leonardo Nunes Fernandes Santos",
+    "NomeCamisa": "",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -6925,16 +7537,18 @@
   {
     "ID": 159707,
     "Nome": "Lucca Marques Alencar",
+    "NomeCamisa": "MARQUES",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
-    "Posição": "A(C)",
-    "Idade": 17,
+    "Posição": "MA(DE),A(DEC)",
+    "Idade": 18,
     "Camisa": "45",
     "ImageURL": "https://cdn.soccerwiki.org/images/player/159707.png"
   },
   {
     "ID": 159708,
     "Nome": "Pedro Henrique Ferreira Da Silva",
+    "NomeCamisa": "",
     "Time": "São Paulo FC",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -6945,6 +7559,7 @@
   {
     "ID": 160057,
     "Nome": "Gabriel Dos Santos Da Silva",
+    "NomeCamisa": "VARETA",
     "Time": "Palmeiras",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6955,6 +7570,7 @@
   {
     "ID": 160134,
     "Nome": "Maykon Kesley De Jesus Ramalho",
+    "NomeCamisa": "",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -6965,6 +7581,7 @@
   {
     "ID": 160166,
     "Nome": "Kauan Gabriel Cordeiro Lindes",
+    "NomeCamisa": "",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -6975,6 +7592,7 @@
   {
     "ID": 160256,
     "Nome": "Eduardo Silvino Da Cruz",
+    "NomeCamisa": "",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6985,6 +7603,7 @@
   {
     "ID": 160257,
     "Nome": "Renan Cunha Macedo Santana",
+    "NomeCamisa": "",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -6995,6 +7614,7 @@
   {
     "ID": 160258,
     "Nome": "João Marcelo Soares De Freitas",
+    "NomeCamisa": "",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -7005,6 +7625,7 @@
   {
     "ID": 160259,
     "Nome": "Lucas Louback Gomes",
+    "NomeCamisa": "",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -7015,6 +7636,7 @@
   {
     "ID": 160260,
     "Nome": "Kauã Oliveira Branco",
+    "NomeCamisa": "",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -7025,6 +7647,7 @@
   {
     "ID": 160261,
     "Nome": "Lucyo José Freitas Candeia",
+    "NomeCamisa": "",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -7035,6 +7658,7 @@
   {
     "ID": 160262,
     "Nome": "José Ferreira De Sousa Neto",
+    "NomeCamisa": "",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M,MA(D)",
@@ -7045,6 +7669,7 @@
   {
     "ID": 160263,
     "Nome": "Guilherme Luiz Oliveira Da Silva",
+    "NomeCamisa": "GUILHERME LUIZ",
     "Time": "Ceará SC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -7055,6 +7680,7 @@
   {
     "ID": 160264,
     "Nome": "João Vitor Barros Silva",
+    "NomeCamisa": "",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(D)",
@@ -7065,6 +7691,7 @@
   {
     "ID": 160265,
     "Nome": "Felipe Vieira Da Silva",
+    "NomeCamisa": "",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -7073,18 +7700,9 @@
     "ImageURL": "https://cdn.soccerwiki.org/images/player/160265.png"
   },
   {
-    "ID": 160266,
-    "Nome": "Fabiano Henrique Alves Dos Santos",
-    "Time": "CR Flamengo",
-    "Nacionalidade": "Brasil",
-    "Posição": "MD,M(C)",
-    "Idade": 19,
-    "Camisa": "42",
-    "ImageURL": "https://cdn.soccerwiki.org/images/player/160266.png"
-  },
-  {
     "ID": 160267,
     "Nome": "João Victor Alves Ferreira",
+    "NomeCamisa": "",
     "Time": "CR Flamengo",
     "Nacionalidade": "Brasil",
     "Posição": "M,MA(C)",
@@ -7095,6 +7713,7 @@
   {
     "ID": 160269,
     "Nome": "Pedro Victor Da Silva Santos",
+    "NomeCamisa": "",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -7105,6 +7724,7 @@
   {
     "ID": 160270,
     "Nome": "Edivan Vitor Da Silva Junior",
+    "NomeCamisa": "",
     "Time": "EC Bahia",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -7115,6 +7735,7 @@
   {
     "ID": 160272,
     "Nome": "Davi Duarte Schuindt",
+    "NomeCamisa": "",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
@@ -7125,6 +7746,7 @@
   {
     "ID": 160274,
     "Nome": "Davi Medeiros Serrano Lira",
+    "NomeCamisa": "DAVI",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -7135,6 +7757,7 @@
   {
     "ID": 160275,
     "Nome": "Adriel Gomes Do Nascimento",
+    "NomeCamisa": "",
     "Time": "Sport Recife",
     "Nacionalidade": "Brasil",
     "Posição": "MD,M(C)",
@@ -7145,6 +7768,7 @@
   {
     "ID": 160276,
     "Nome": "Lukas Rocha Zuccarello",
+    "NomeCamisa": "ZUCCARELLO",
     "Time": "Vasco da Gama",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC)",
@@ -7155,6 +7779,7 @@
   {
     "ID": 160350,
     "Nome": "Kayke Gouvêa Queiroz",
+    "NomeCamisa": "",
     "Time": "Botafogo FR",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -7165,6 +7790,7 @@
   {
     "ID": 160469,
     "Nome": "Kauê Vinicius De Souza Camargo",
+    "NomeCamisa": "",
     "Time": "Corinthians",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -7175,6 +7801,7 @@
   {
     "ID": 160688,
     "Nome": "João Victor Dos Santos Alves",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -7185,6 +7812,7 @@
   {
     "ID": 160689,
     "Nome": "Diego Henrique Borges Da Silva",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD(C)",
@@ -7195,6 +7823,7 @@
   {
     "ID": 160690,
     "Nome": "Samuel Lima Barros",
+    "NomeCamisa": "BARROS",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(EC)",
@@ -7205,6 +7834,7 @@
   {
     "ID": 160691,
     "Nome": "Nadson Juan Maia Da Silva De Souza",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -7215,6 +7845,7 @@
   {
     "ID": 160692,
     "Nome": "Pedro Paulo Manoel Fermino",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DEC)",
@@ -7225,6 +7856,7 @@
   {
     "ID": 160693,
     "Nome": "Robson De Souza Junior",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DEC),A(DE)",
@@ -7235,6 +7867,7 @@
   {
     "ID": 160694,
     "Nome": "Rodrigo Cezar Pereira Ribeiro",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "MA,A(DEC)",
@@ -7245,6 +7878,7 @@
   {
     "ID": 160695,
     "Nome": "Lucas Yan Basile Ferreira",
+    "NomeCamisa": "YAN",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DC)",
@@ -7255,6 +7889,7 @@
   {
     "ID": 160696,
     "Nome": "Matheus Lima De Almeida",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "M(C),MA(DC)",
@@ -7265,6 +7900,7 @@
   {
     "ID": 160697,
     "Nome": "Rodrigo Plazezwski Falcão",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -7275,6 +7911,7 @@
   {
     "ID": 160880,
     "Nome": "Emerson Mendes De Carvalho",
+    "NomeCamisa": "",
     "Time": "Juventude",
     "Nacionalidade": "Brasil",
     "Posição": "MA(DE),A(DEC)",
@@ -7285,6 +7922,7 @@
   {
     "ID": 161077,
     "Nome": "Leonardo De Oliveira Jance",
+    "NomeCamisa": "",
     "Time": "Fluminense",
     "Nacionalidade": "Brasil",
     "Posição": "D,MD,M(E)",
@@ -7295,6 +7933,7 @@
   {
     "ID": 161207,
     "Nome": "Robert Pinto Alves Assunção",
+    "NomeCamisa": "",
     "Time": "Atlético Mineiro",
     "Nacionalidade": "Brasil",
     "Posição": "G",
@@ -7305,6 +7944,7 @@
   {
     "ID": 161809,
     "Nome": "Gustavo Henrique Pereira",
+    "NomeCamisa": "",
     "Time": "Santos FC",
     "Nacionalidade": "Brasil",
     "Posição": "D(D),MD,M(DC)",
@@ -7315,6 +7955,7 @@
   {
     "ID": 161844,
     "Nome": "Gustavo Teixeira Lopes Da Conceição",
+    "NomeCamisa": "",
     "Time": "Fortaleza EC",
     "Nacionalidade": "Brasil",
     "Posição": "D(C)",
